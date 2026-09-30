@@ -16,7 +16,7 @@
 <link rel="apple-touch-icon" href="assets/img/gems-mark.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Montserrat:ital,wght@0,500;1,500&family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.min.css">
 <link rel="stylesheet" href="assets/css/style.css">
@@ -26,7 +26,7 @@
 <header class="gnav" id="gnav">
   <div class="gnav-inner">
     <a class="brand" href="#/overview" aria-label="GEMS Stakeholder Atlas">
-      <img class="brand-mark" src="assets/img/gems-mark.png" alt="">
+      <svg class="brand-mark" viewBox="90 50 890 640" aria-hidden="true"><path d="M535 660L125 235L270 80H800L950 235L600 590L395 369A95 95 0 1 1 540 248A95 95 0 1 1 685 369L605 455" fill="none" stroke="#00A7BA" stroke-width="64" stroke-linecap="round" stroke-linejoin="round"/></svg>
       <span class="brand-text"><span data-i18n="brand.sub">Stakeholder Atlas</span></span>
     </a>
     <nav class="tabs" id="tabs" aria-label="Views">
@@ -49,7 +49,23 @@
   <!-- ============ OVERVIEW ============ -->
   <section class="view" id="view-overview" data-view="overview">
     <div class="hero">
-      <h1 class="hero-logo"><img src="assets/img/gems-logo.png" alt="GEMS Academy"></h1>
+      <h1 class="hero-logo">
+        <svg class="gems-logo" viewBox="120 150 1880 500" role="img" aria-labelledby="gems-logo-title">
+          <title id="gems-logo-title">GEMS Academy</title>
+          <defs>
+            <linearGradient id="gems-teal" x1="0" y1="0" x2="1" y2="1">
+              <stop offset="0" stop-color="#19bccd"/>
+              <stop offset="1" stop-color="#0096ab"/>
+            </linearGradient>
+          </defs>
+          <text class="gl-word" x="150" y="494" textLength="1310" lengthAdjust="spacingAndGlyphs">GEMS</text>
+          <text class="gl-sub" x="160" y="636" textLength="1788" lengthAdjust="spacing">ACADEMY</text>
+          <g transform="translate(1482 140) scale(.5)">
+            <path class="gl-mark-shadow" d="M535 660L125 235L270 80H800L950 235L600 590L395 369A95 95 0 1 1 540 248A95 95 0 1 1 685 369L605 455" pathLength="1"/>
+            <path class="gl-mark" d="M535 660L125 235L270 80H800L950 235L600 590L395 369A95 95 0 1 1 540 248A95 95 0 1 1 685 369L605 455" pathLength="1"/>
+          </g>
+        </svg>
+      </h1>
     </div>
 
     <div class="wrap">

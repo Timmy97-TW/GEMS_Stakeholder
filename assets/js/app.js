@@ -795,4 +795,12 @@
   applyLang();
   route();
   if (document.fonts) document.fonts.ready.then(() => { setSeg($(".lang-switch"), "lang", state.lang); });
+
+  // play the logo's entrance once the wordmark font is in (or after 1.2 s, whichever comes first)
+  const logo = $(".hero-logo");
+  if (logo && !matchMedia("(prefers-reduced-motion: reduce)").matches) {
+    logo.style.visibility = "hidden";
+    const play = () => { if (logo.classList.contains("play")) return; logo.classList.add("play"); logo.style.visibility = ""; setTimeout(() => logo.classList.add("done"), 2300); };
+    (document.fonts ? Promise.race([document.fonts.load('500 40px "Montserrat"'), new Promise(r => setTimeout(r, 1200))]) : Promise.resolve()).then(play, play);
+  }
 })();
