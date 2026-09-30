@@ -187,24 +187,6 @@
     $("#stats").innerHTML = stats.map(([n, k]) => `<div class="stat"><div class="stat-n" data-count="${n}">${n}</div><div class="stat-l">${esc(t(k))}</div></div>`).join("");
     countUp();
 
-    // latest engagement
-    const latest = S.slice().sort((a, b) => lastDate(b).localeCompare(lastDate(a)))[0];
-    if (latest) {
-      const eng = latest.engagements.slice().sort((a, b) => b.year - a.year)[0];
-      const cover = coverOf(latest);
-      $("#feature-wrap").innerHTML = `
-        <article class="feature" data-open="${esc(latest.id)}" tabindex="0" style="${catVar(latest.category)}">
-          <div class="feature-media">${cover ? `<img src="${esc(cover)}" alt="" loading="lazy">` : ""}</div>
-          <div class="feature-body">
-            <span class="feature-kicker">${esc(t("feature.latest"))} · ${esc(fmtDate(lastDate(latest)))}</span>
-            <h2 class="feature-title">${esc(nameOf(latest))}</h2>
-            <p class="feature-org">${esc([loc(latest, "title"), loc(latest, "unit"), loc(latest, "org")].filter(Boolean).join(" · "))}</p>
-            <p class="feature-sum">${esc(loc(eng, "summary"))}</p>
-            <div>${pillHTML(latest.category)}</div>
-          </div>
-        </article>`;
-    }
-
     // year x category stacked bars (engagement count)
     const counts = YEARS.map(y => {
       const row = { y, total: 0 };
@@ -474,7 +456,7 @@
   /* ---------------- map ---------------- */
   let map = null, cluster = null, tiles = null;
   const markerById = new Map();
-  const darkMQ = matchMedia("(prefers-color-scheme: dark)");
+  const darkMQ = { matches: false, addEventListener() {} }; // the site is always light
 
   const ESRI = "https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/";
   const tileURL = () => ESRI + (darkMQ.matches ? "World_Dark_Gray_Base" : "World_Light_Gray_Base") + "/MapServer/tile/{z}/{y}/{x}";

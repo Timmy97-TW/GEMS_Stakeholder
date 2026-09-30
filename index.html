@@ -1,18 +1,19 @@
 <!doctype html>
-<html lang="zh-Hant" data-lang="zh">
+<html lang="zh-Hant" data-lang="zh" data-theme="light">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>GEMS Stakeholder Atlas</title>
 <meta name="description" content="Every expert, lab, agency, company and community GEMS Taiwan has worked with through iGEM, 2022 to today. 2022 年至今，GEMS Taiwan 在 iGEM 中合作與交流過的所有利害關係人。">
-<meta name="theme-color" content="#fbfbfd" media="(prefers-color-scheme: light)">
-<meta name="theme-color" content="#000000" media="(prefers-color-scheme: dark)">
+<meta name="theme-color" content="#ffffff">
+<meta name="color-scheme" content="light">
 <meta property="og:title" content="GEMS Stakeholder Atlas">
 <meta property="og:description" content="GEMS Taiwan × iGEM, 2022 to today: the people and organisations behind our work.">
 <meta property="og:image" content="https://timmy97-tw.github.io/GEMS_Stakeholder/assets/img/og.jpg">
 <meta property="og:url" content="https://timmy97-tw.github.io/GEMS_Stakeholder/">
 <meta name="twitter:card" content="summary_large_image">
-<link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="assets/img/gems-mark.png" type="image/png">
+<link rel="apple-touch-icon" href="assets/img/gems-mark.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet">
@@ -25,8 +26,8 @@
 <header class="gnav" id="gnav">
   <div class="gnav-inner">
     <a class="brand" href="#/overview" aria-label="GEMS Stakeholder Atlas">
-      <img class="brand-mark" src="assets/img/favicon.svg" alt="">
-      <span class="brand-text"><b>GEMS</b> <span data-i18n="brand.sub">Stakeholder Atlas</span></span>
+      <img class="brand-mark" src="assets/img/gems-mark.png" alt="">
+      <span class="brand-text"><span data-i18n="brand.sub">Stakeholder Atlas</span></span>
     </a>
     <nav class="tabs" id="tabs" aria-label="Views">
       <a href="#/overview" data-view="overview" data-i18n="nav.overview">Overview</a>
@@ -48,26 +49,17 @@
   <!-- ============ OVERVIEW ============ -->
   <section class="view" id="view-overview" data-view="overview">
     <div class="hero">
-      <p class="eyebrow" data-i18n="hero.eyebrow">GEMS Taiwan · iGEM 2022–2026</p>
-      <h1 class="hero-title" data-i18n-html="hero.title">Everyone who shaped our work.</h1>
-      <p class="hero-sub" data-i18n="hero.sub">Experts, labs, agencies, companies, schools and farmers. Every stakeholder GEMS Taiwan has met, consulted or built with through iGEM, with what they told us and what changed because of it.</p>
-      <div class="hero-cta">
-        <a class="btn btn-primary" href="#/map" data-i18n="hero.cta.map">Explore the map</a>
-        <a class="btn btn-link" href="#/table"><span data-i18n="hero.cta.table">Open the full list</span> <span aria-hidden="true">›</span></a>
-      </div>
+      <h1 class="hero-logo"><img src="assets/img/gems-logo.png" alt="GEMS Academy"></h1>
     </div>
 
     <div class="wrap">
       <div class="stats" id="stats"></div>
     </div>
 
-    <div class="wrap" id="feature-wrap"></div>
-
     <div class="wrap grid-2">
       <article class="panel">
         <header class="panel-head">
           <h2 data-i18n="ov.byYear">Engagements by year</h2>
-          <p class="muted" data-i18n="ov.byYear.sub">Coloured by type of stakeholder.</p>
         </header>
         <div id="chart-years" class="chart-years"></div>
         <div id="chart-legend" class="legend"></div>
@@ -75,7 +67,6 @@
       <article class="panel">
         <header class="panel-head">
           <h2 data-i18n="ov.byCat">Who we work with</h2>
-          <p class="muted" data-i18n="ov.byCat.sub">Stakeholders by category, all years.</p>
         </header>
         <div id="chart-cats" class="chart-cats"></div>
       </article>
@@ -85,7 +76,6 @@
       <article class="panel">
         <header class="panel-head">
           <h2 data-i18n="ov.where">Where they are</h2>
-          <p class="muted" data-i18n="ov.where.sub">Most of our partners are in Taiwan. Cities with the most stakeholders:</p>
         </header>
         <div id="chart-cities" class="chart-cities"></div>
       </article>
@@ -94,7 +84,6 @@
     <div class="wrap">
       <header class="section-head">
         <h2 data-i18n="ov.logos">Organisations</h2>
-        <p class="muted" data-i18n="ov.logos.sub">Select one to see everyone we met there.</p>
       </header>
       <div id="logo-wall" class="logo-wall"></div>
     </div>
@@ -123,7 +112,6 @@
   <section class="view" id="view-directory" data-view="directory" hidden>
     <div class="wrap page-head">
       <h1 class="page-title" data-i18n="dir.title">Directory</h1>
-      <p class="page-sub muted" data-i18n="dir.sub">Every stakeholder, with their organisation and the years we worked together.</p>
     </div>
     <div class="wrap sticky-filters">
       <div class="filterbar" data-filterbar></div>
@@ -149,7 +137,6 @@
   <section class="view" id="view-table" data-view="table" hidden>
     <div class="wrap page-head">
       <h1 class="page-title" data-i18n="tbl.title">Stakeholder list</h1>
-      <p class="page-sub muted" data-i18n="tbl.sub">Sort by any column. Tick up to four rows to compare them side by side. Export what you see, or everything, as CSV.</p>
     </div>
     <div class="wrap sticky-filters">
       <div class="filterbar" data-filterbar></div>
@@ -176,7 +163,6 @@
   <section class="view" id="view-timeline" data-view="timeline" hidden>
     <div class="wrap page-head">
       <h1 class="page-title" data-i18n="tl.title">Year by year</h1>
-      <p class="page-sub muted" data-i18n="tl.sub">Each iGEM season, the project we were building and the people who helped us build it.</p>
     </div>
     <div id="timeline"></div>
   </section>
