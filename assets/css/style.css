@@ -82,7 +82,7 @@ p { margin: 0; }
 }
 .brand { display: flex; align-items: center; gap: 9px; color: var(--text); white-space: nowrap; font-size: 15px; }
 .brand:hover { text-decoration: none; }
-.brand-mark { width: 30px; height: 22px; }
+.brand-mark { width: 30px; height: 24px; }
 .brand-text b { font-weight: 700; }
 .brand-text span { color: var(--text); font-weight: 600; }
 .tabs { display: flex; gap: 4px; margin: 0 auto; }
@@ -141,25 +141,14 @@ p { margin: 0; }
 .hero { text-align: center; padding: clamp(56px, 9vw, 112px) var(--gutter) clamp(40px, 6vw, 72px); }
 .hero-logo { margin: 0; }
 
-/* GEMS Academy, drawn for the web: one continuous teal line (diamond into heart) beside the wordmark */
-.gems-logo { display: block; width: min(700px, 86vw); height: auto; margin: 0 auto; overflow: visible; }
-.gl-word { font: 500 452px/1 "Montserrat", var(--font); fill: var(--text); letter-spacing: 0; }
-.gl-sub { font: italic 500 112px/1 "Montserrat", var(--font); fill: var(--text); }
-.gl-mark, .gl-mark-shadow { fill: none; stroke-linecap: round; stroke-linejoin: round; stroke-width: 58; }
-.gl-mark { stroke: url(#gems-teal); }
-.gl-mark-shadow { stroke: #00A7BA; opacity: .18; filter: blur(14px); transform: translateY(10px); }
-
-/* entrance: the line draws itself, then the type settles in */
-.hero-logo.play:not(.done) .gl-mark { stroke-dasharray: 1; stroke-dashoffset: 1; animation: gl-draw 1.9s cubic-bezier(.65, 0, .35, 1) .15s forwards; }
-.hero-logo.play:not(.done) .gl-mark-shadow { opacity: 0; animation: gl-glow 1s ease 1.6s forwards; }
-.hero-logo.play:not(.done) .gl-word { opacity: 0; transform: translateY(24px); animation: gl-rise .9s var(--ease) .35s forwards; }
-.hero-logo.play:not(.done) .gl-sub { opacity: 0; letter-spacing: -.1em; animation: gl-track 1.3s var(--ease) .7s forwards; }
+/* GEMS Academy lockup: one teal line (gem + heart) and an outlined Inter Display wordmark.
+   Colours live on the SVG itself; these rules only size it and animate it. */
+.gems-logo { display: block; width: min(780px, 88vw); height: auto; margin: 0 auto; overflow: visible; }
+.hero-logo.play:not(.done) .gl-mark { stroke-dasharray: 1; stroke-dashoffset: 1; animation: gl-draw 1.8s cubic-bezier(.65, 0, .35, 1) .1s forwards; }
+.hero-logo.play:not(.done) .gl-word { opacity: 0; transform: translateX(-18px); animation: gl-in 1s var(--ease) .55s forwards; }
+.hero-logo.play:not(.done) .gl-sub { opacity: 0; transform: translateX(-18px); animation: gl-in 1s var(--ease) .8s forwards; }
 @keyframes gl-draw { to { stroke-dashoffset: 0; } }
-@keyframes gl-glow { to { opacity: .18; } }
-@keyframes gl-rise { to { opacity: 1; transform: none; } }
-@keyframes gl-track { to { opacity: 1; letter-spacing: 0; } }
-.hero-logo.done:hover .gl-mark { animation: gl-beat 1.1s ease-in-out; }
-@keyframes gl-beat { 0%, 100% { stroke-width: 58; } 18% { stroke-width: 70; } 36% { stroke-width: 58; } 54% { stroke-width: 66; } }
+@keyframes gl-in { to { opacity: 1; transform: none; } }
 
 .stats {
   display: grid; grid-template-columns: repeat(5, 1fr); gap: 1px;

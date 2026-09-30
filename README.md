@@ -28,6 +28,8 @@ links back to the wiki page it came from.
 - **中 / EN** switch in the top right. The site remembers the choice; you can also link with `?lang=en` or `?lang=zh`.
 - Every stakeholder has its own link: `#/s/<id>`, e.g. `#/s/tzu-hsien-wu`.
 
+The GEMS Academy logo is in `assets/img/gems-academy.svg` (full lockup) and `assets/img/gems-mark.svg` (the gem-and-heart mark). The lettering is outlined, so both files work anywhere without fonts.
+
 The site is plain HTML, CSS and JavaScript. There is no build step for viewing: open `index.html`, or serve the folder with `python3 -m http.server`.
 
 ## Adding next year's stakeholders / 每年新增利害關係人
