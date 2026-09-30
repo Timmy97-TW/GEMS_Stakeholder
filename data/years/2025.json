@@ -1,0 +1,1651 @@
+[
+ {
+  "id": "nai-yun-liang",
+  "org_id": "taiwan-textile-research-institute",
+  "year": 2025,
+  "project": "Textile Fighters",
+  "person_en": "Dr. Nai-Yun Liang",
+  "person_zh": null,
+  "title_en": "Deputy Director, Department of Raw Materials and Fibers",
+  "title_zh": "原料與纖維部門副處長",
+  "org_en": "Taiwan Textile Research Institute (TTRI)",
+  "org_zh": "財團法人紡織產業綜合研究所",
+  "unit_en": "Department of Raw Materials and Fibers",
+  "unit_zh": "原料與纖維相關部門",
+  "category": "research",
+  "expertise_en": "Textile fibres and raw materials; textile recycling routes (physical, chemical, biological); nanocellulose from cotton waste",
+  "expertise_zh": "紡織纖維與原料；紡織品回收途徑（物理、化學、生物）；棉廢料製奈米纖維素",
+  "interaction": [
+   "interview",
+   "consultation",
+   "conference"
+  ],
+  "dates": [
+   "2025-06-12"
+  ],
+  "summary_en": "The team met Dr. Liang, Deputy Director of TTRI's Department of Raw Materials and Fibers, to discuss PET-cotton blend degradation. He advised that blends should be separated into PET and cotton before processing, that additives such as flame retardants block both chemical and enzymatic recycling, contrasted biological, physical and chemical recycling routes, and pointed out that cotton waste can be valorised as nanocellulose. The Attributions page adds that he supplied fabric samples with defined PET/cotton ratios for lab benchmarking. He later spoke on the expert panel at the team's Dadaocheng sustainability event, explaining why sustainable clothing costs more and the problem of textile overproduction.",
+  "summary_zh": "團隊拜訪紡織所原料與纖維部門副處長梁博士，討論 PET／棉混紡布的降解。他建議混紡布應先分離 PET 與棉再處理，指出阻燃劑等添加物會阻礙化學與酵素回收，比較了生物、物理與化學回收途徑，並提到棉廢料可轉製為奈米纖維素。致謝頁另載明他提供不同 PET／棉比例的布料樣品供實驗室比對。之後他也在團隊於大稻埕舉辦的永續活動座談中擔任講者，說明永續服飾較貴的原因以及衣物過度生產的問題。",
+  "impact_en": "Reminded the team to design against industrial benchmarks (consistent purity and durability) and to position the enzyme as one component of a scalable multi-method recycling framework rather than a standalone solution; also highlighted by-product value such as nanocellulose. His public talk was used to address economic and psychological barriers found in the street survey.",
+  "impact_zh": "提醒團隊以產業標準（穩定的純度與耐久度）為設計基準，並把酵素系統定位為可擴大規模之多重回收架構中的一環，而非單獨解方；也讓團隊看到奈米纖維素等副產物的價值。他的公開演講被用來回應街訪中發現的經濟與心理障礙。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "https://static.igem.wiki/teams/5729/ihp/liang.webp",
+    "caption_en": "Meeting with Dr. Liang Nai-Yun (TTRI)",
+    "caption_zh": "與紡織所梁乃允博士會談"
+   },
+   {
+    "src": "https://static.igem.wiki/teams/5729//education/edu8.webp",
+    "caption_en": "Panel talk at the Dadaocheng sustainability event",
+    "caption_zh": "大稻埕永續活動的座談會"
+   },
+   {
+    "src": "https://static.igem.wiki/teams/5729//education/edu9.webp",
+    "caption_en": "Panel talk at the Dadaocheng sustainability event",
+    "caption_zh": "大稻埕永續活動的座談會"
+   }
+  ],
+  "portrait": null,
+  "website": "https://www.ttri.org.tw",
+  "city_en": "New Taipei City",
+  "city_zh": "新北市",
+  "country": "TW",
+  "lat": 24.9846,
+  "lng": 121.4513,
+  "source_url": "https://2025.igem.wiki/gems-taiwan/human-practices",
+  "confidence": "high"
+ },
+ {
+  "id": "jo-hwa-li",
+  "org_id": "taiwan-textile-research-institute",
+  "year": 2025,
+  "project": "Textile Fighters",
+  "person_en": "Chief Jo-Hwa Li",
+  "person_zh": null,
+  "title_en": "Chief (Section Chief)",
+  "title_zh": "組長",
+  "org_en": "Taiwan Textile Research Institute (TTRI)",
+  "org_zh": "財團法人紡織產業綜合研究所",
+  "unit_en": null,
+  "unit_zh": null,
+  "category": "research",
+  "expertise_en": "Textile circularity in Taiwan; industrial textile technology; ISO-based environmental assessment",
+  "expertise_zh": "臺灣紡織循環；紡織產業技術；以 ISO 標準進行環境評估",
+  "interaction": [
+   "interview",
+   "consultation"
+  ],
+  "dates": [],
+  "summary_en": "The team interviewed Chief Li Jo-Hwa of TTRI (a government-funded textile research institute) to understand the landscape of textile circularity in Taiwan. She urged the team to quantify environmental impact with ISO standards, to benchmark TfCut2 against enzymes such as LCC and highlight its ability to act on PET and mixed polymers, warned that coatings and finishes (e.g. wrinkle resistance, laminated films) are major recycling barriers, and explained that the spinnability of regenerated PET depends on monomer purity. She also recommended researchers and institutions for further outreach; she is credited as an External Advisor on the Attributions form.",
+  "summary_zh": "團隊訪談紡織所（政府捐助成立的紡織研究機構）李組長，了解臺灣紡織循環的現況。她建議以 ISO 標準量化環境影響、將 TfCut2 與 LCC 等酵素比較並強調其可作用於 PET 與混合聚合物，提醒防皺、貼合膜等塗層與後整理是回收的主要障礙，並說明再生 PET 的可紡性取決於單體純度。她也推薦了可進一步聯繫的研究人員與機構，並在致謝表中列為外部顧問。",
+  "impact_en": "Reinforced the need for rigorous (ISO-based) environmental assessment, broadened the enzymatic targets to multiple polymer types, and pushed the team to consider enzyme adaptations for coated or treated textiles.",
+  "impact_zh": "強化團隊進行嚴謹（ISO 標準）環境評估的需求，將酵素目標擴大到多種聚合物，並促使團隊思考如何調整酵素以處理有塗層或經處理的布料。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "https://static.igem.wiki/teams/5729/ihp/li-ttri.webp",
+    "caption_en": "Meeting with Chief Li Jo-Hwa (TTRI)",
+    "caption_zh": "與紡織所李組長會談"
+   }
+  ],
+  "portrait": null,
+  "website": "https://www.ttri.org.tw",
+  "city_en": "New Taipei City",
+  "city_zh": "新北市",
+  "country": "TW",
+  "lat": 24.9846,
+  "lng": 121.4513,
+  "source_url": "https://2025.igem.wiki/gems-taiwan/human-practices",
+  "confidence": "high"
+ },
+ {
+  "id": "jen-you-chu",
+  "org_id": "industrial-technology-research-institute",
+  "year": 2025,
+  "project": "Textile Fighters",
+  "person_en": "Dr. Jen-You Chu",
+  "person_zh": "朱仁佑 博士",
+  "title_en": "Researcher (Manager, Material and Chemical Research Laboratories)",
+  "title_zh": "材料與化工研究所經理",
+  "org_en": "Industrial Technology Research Institute (ITRI)",
+  "org_zh": "財團法人工業技術研究院",
+  "unit_en": "Material and Chemical Research Laboratories",
+  "unit_zh": "材料與化工研究所",
+  "category": "research",
+  "expertise_en": "Textile sorting and recycling technology; Raman/NIR spectroscopy for fibre identification",
+  "expertise_zh": "廢紡織品分選與回收技術；以拉曼／近紅外光譜辨識纖維",
+  "interaction": [
+   "consultation",
+   "interview"
+  ],
+  "dates": [],
+  "summary_en": "The team consulted Dr. Chu on technical strategies for degrading PET/cotton blends. He pressed the team to clarify whether the goal was PET recycling, cotton recycling or full separation, recommended Raman over NIR spectroscopy for multi-material textiles, suggested UV/Raman or digest analysis to monitor degradation in real time, noted PET content should ideally be at least 80% and that alkali dye-removal pretreatment may help, and explained the limits of mechanical and chemical separation and of current Raman/NIR sorting in Taiwan.",
+  "summary_zh": "團隊向朱博士請教 PET／棉混紡布降解的技術策略。他要求團隊釐清目標是 PET 回收、棉回收或完全分離，建議以拉曼光譜取代近紅外光分析多材質紡織品，並建議以 UV／拉曼或消化液分析即時監測降解；他指出 PET 含量最好在 80% 以上、高溫鹼處理去染可能提升效率，也說明機械與化學分離以及臺灣現有拉曼／近紅外分選技術的限制。",
+  "impact_en": "The team decided to prioritise PET degradation as the first milestone instead of simultaneous PET-cotton breakdown, streamlined enzyme engineering around TfCut2, added pretreatment to the experimental design, and considered Raman screening of PET% and real-time spectroscopic monitoring for hardware and pretreatment protocols.",
+  "impact_zh": "團隊決定以 PET 降解為第一階段目標，而非同時分解 PET 與棉，並聚焦 TfCut2 的酵素工程、把前處理納入實驗設計，也考慮以拉曼預篩 PET 含量及以光譜即時監測，應用於硬體與前處理流程。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "https://static.igem.wiki/teams/5729/ihp/screenshot-2025-09-13-at-2-09-53-pm.webp",
+    "caption_en": "Online meeting with Dr. Chu Jen-You",
+    "caption_zh": "與朱仁佑博士線上會議"
+   }
+  ],
+  "portrait": null,
+  "website": "https://www.itri.org.tw",
+  "city_en": "Hsinchu County",
+  "city_zh": "新竹縣",
+  "country": "TW",
+  "lat": 24.7736,
+  "lng": 121.0453,
+  "source_url": "https://2025.igem.wiki/gems-taiwan/human-practices",
+  "confidence": "medium"
+ },
+ {
+  "id": "han-chen-chiang",
+  "org_id": "ho-yu-textile-co-ltd",
+  "year": 2025,
+  "project": "Textile Fighters",
+  "person_en": "Ms. Han-Chen Chiang",
+  "person_zh": null,
+  "title_en": "ESG Sustainability Manager (formerly Project Manager, Taiwan Circular Economy Foundation)",
+  "title_zh": "ESG 永續經理（曾任臺灣循環經濟相關基金會專案經理）",
+  "org_en": "Ho Yu Textile Co., Ltd.",
+  "org_zh": "和友紡織股份有限公司",
+  "unit_en": null,
+  "unit_zh": null,
+  "category": "industry",
+  "expertise_en": "Circular economy projects across the textile supply chain; recycling infrastructure and policy",
+  "expertise_zh": "紡織供應鏈循環經濟專案；回收基礎設施與政策",
+  "interaction": [
+   "interview",
+   "consultation"
+  ],
+  "dates": [],
+  "summary_en": "The team met Ms. Chiang, ESG Sustainability Manager at Ho Yu Textile and former project manager at the Taiwan Circular Economy Foundation, to identify gaps in Taiwan's recycling industry. She explained that chemical recycling has strong potential but needs high investment and has higher emissions, that gaps remain in collection and pretreatment with little government funding, contrasted Germany's state-backed system with Taiwan's self-driven efforts, and noted limited domestic demand for recycled textiles and the difficulty of verifying recycled content.",
+  "summary_zh": "團隊與和友紡織 ESG 永續經理江女士（曾任臺灣循環經濟相關基金會專案經理）會談，找出臺灣回收產業的缺口。她說明化學回收潛力大但投資高、排放也較高；收集與前處理環節仍有缺口且政府資金不足；並比較德國由國家支持的體系與臺灣多靠業者自發的現況，也指出國內再生紡織品需求有限、再生成分驗證不易。",
+  "impact_en": "Verified the team's assumption that current recycling systems have gaps and clarified the project's role as a more sustainable solution that improves on other recycling pathways; made the team more aware of the need to seek the right (often overseas) markets.",
+  "impact_zh": "證實團隊對現行回收體系存在缺口的假設，並釐清專案的角色是提出比其他回收途徑更永續的解方；也讓團隊意識到必須主動尋找合適（常在海外）的市場。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "https://static.igem.wiki/teams/5729/ihp/mschiang.webp",
+    "caption_en": "Meeting with Ms. Chiang Han-Chen",
+    "caption_zh": "與江女士會談"
+   }
+  ],
+  "portrait": null,
+  "website": "https://www.hoyu.com.tw",
+  "city_en": "Taoyuan",
+  "city_zh": "桃園市",
+  "country": "TW",
+  "lat": 25.035,
+  "lng": 121.135,
+  "source_url": "https://2025.igem.wiki/gems-taiwan/human-practices",
+  "confidence": "medium"
+ },
+ {
+  "id": "vaskar-gnyawali",
+  "org_id": "breaking",
+  "year": 2025,
+  "project": "Textile Fighters",
+  "person_en": "Dr. Vaskar Gnyawali",
+  "person_zh": null,
+  "title_en": "Co-founder and Chief Scientific Officer",
+  "title_zh": "共同創辦人暨科學長",
+  "org_en": "Breaking",
+  "org_zh": null,
+  "unit_en": null,
+  "unit_zh": null,
+  "category": "industry",
+  "expertise_en": "Microbial engineering; bio-encapsulation; enzymatic and microbial plastic degradation; bio-prospecting",
+  "expertise_zh": "微生物工程；生物包埋；酵素與微生物塑膠降解；生物探勘",
+  "interaction": [
+   "interview",
+   "consultation"
+  ],
+  "dates": [],
+  "summary_en": "The team met Dr. Gnyawali, co-founder and CSO of Breaking (a plastic-degradation company and former Harvard Wyss Institute researcher), to discuss plastic degradation and possible collaboration. He explained that a single enzyme cannot handle every form of PET, so multi-enzyme or sequential strategies are needed, warned that TPA accumulation lowers pH and destabilises enzymes, introduced Breaking's bio-prospecting pipeline, and discussed policy context such as the UN Global Plastic Treaty. He expressed interest in co-hosting seminars and collaborating on lab tasks and encouraged the team to explore the health impacts of micro- and nanoplastics.",
+  "summary_zh": "團隊與塑膠降解公司 Breaking 的共同創辦人暨科學長 Gnyawali 博士（曾任哈佛 Wyss 研究所研究員）會談，討論塑膠降解與合作可能。他說明單一酵素無法處理所有型態的 PET，需要多酵素或分段降解策略，提醒 TPA 累積會降低 pH 並使酵素不穩定，介紹 Breaking 的生物探勘流程，並談到聯合國全球塑膠公約等政策背景。他表示有興趣合辦講座與合作實驗，並鼓勵團隊探討微／奈米塑膠對健康的影響。",
+  "impact_en": "Reinforced a sequential, multi-enzyme strategy with pH control and by-product management, inspired consideration of environmental sourcing for enzyme discovery, and opened potential collaboration on lab work and outreach.",
+  "impact_zh": "強化團隊採用分段、多酵素並搭配 pH 控制與副產物管理的策略，啟發以環境採樣發掘酵素的思路，並開啟實驗與推廣合作的可能。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "https://static.igem.wiki/teams/5729/ihp/vaskar.webp",
+    "caption_en": "Meeting with Dr. Vaskar Gnyawali (Breaking)",
+    "caption_zh": "與 Breaking 的 Gnyawali 博士會談"
+   }
+  ],
+  "portrait": null,
+  "website": "https://www.breaking.com",
+  "city_en": "Boston",
+  "city_zh": "波士頓",
+  "country": "US",
+  "lat": 42.3601,
+  "lng": -71.0589,
+  "source_url": "https://2025.igem.wiki/gems-taiwan/human-practices",
+  "confidence": "high"
+ },
+ {
+  "id": "shinkong-synthetic-fibers-corporation",
+  "org_id": "shinkong-synthetic-fibers-corporation",
+  "year": 2025,
+  "project": "Textile Fighters",
+  "person_en": null,
+  "person_zh": null,
+  "title_en": null,
+  "title_zh": null,
+  "org_en": "Shinkong Synthetic Fibers Corporation",
+  "org_zh": "新光合成纖維股份有限公司",
+  "unit_en": null,
+  "unit_zh": null,
+  "category": "industry",
+  "expertise_en": "Polyester fibre manufacturing; textile recycling; life-cycle and carbon-footprint assessment",
+  "expertise_zh": "聚酯纖維製造；紡織品回收；生命週期與碳足跡評估",
+  "interaction": [
+   "site-visit",
+   "interview"
+  ],
+  "dates": [],
+  "summary_en": "Team members visited Shinkong Synthetic Fibers (called \"New Fibers Textile\" / \"Xin Qian\" on some pages) and heard a technical presentation on the industrial process and the shortcomings of current recycling. The company explained that mechanical recycling damages PET quality and cannot handle blends or coloured/contaminated fabric, that chemical recycling is too energy-intensive for PET-cotton, and that enzymes must cope with semi-crystalline textile-grade PET and remain stable under industrial conditions. They also introduced life-cycle analysis and carbon-footprint accounting as tools to avoid greenwashing.",
+  "summary_zh": "團隊成員參訪新光合成纖維（部分頁面稱為 New Fibers Textile／新纖），聽取技術簡報，了解產業製程與現行回收方式的不足。對方說明機械回收會降低 PET 品質、無法處理混紡或有色／受汙染布料；化學回收用於 PET／棉耗能過高；酵素必須能處理半結晶的紡織級 PET 並在產業條件下保持穩定。他們也介紹以生命週期評估與碳足跡計算避免漂綠。",
+  "impact_en": "Confirmed the niche for selective enzymatic recycling of blends, reinforced the team's focus on mutagenesis to improve enzyme durability and efficiency, and led the team to plan LCA/carbon-footprint validation of its system.",
+  "impact_zh": "確認酵素選擇性回收混紡布的利基，強化團隊以突變工程提升酵素耐久度與效率的方向，並使團隊規劃以生命週期評估／碳足跡驗證其系統。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "https://static.igem.wiki/teams/5729/ihp/visit.webp",
+    "caption_en": "Visit to Shinkong Synthetic Fibers Corporation",
+    "caption_zh": "參訪新光合成纖維"
+   }
+  ],
+  "portrait": null,
+  "website": "https://www.sse.com.tw",
+  "city_en": "Taipei",
+  "city_zh": "臺北市",
+  "country": "TW",
+  "lat": 25.0521,
+  "lng": 121.533,
+  "source_url": "https://2025.igem.wiki/gems-taiwan/human-practices",
+  "confidence": "medium"
+ },
+ {
+  "id": "wolfgang-zimmermann",
+  "org_id": "leipzig-university",
+  "year": 2025,
+  "project": "Textile Fighters",
+  "person_en": "Prof. Wolfgang Zimmermann",
+  "person_zh": null,
+  "title_en": "Professor",
+  "title_zh": "教授",
+  "org_en": "Leipzig University",
+  "org_zh": "萊比錫大學",
+  "unit_en": "Department of Biotechnology and Enzyme Technology",
+  "unit_zh": "生物技術與酵素技術系",
+  "category": "academia",
+  "expertise_en": "Enzymatic polyester (PET) degradation; cutinases",
+  "expertise_zh": "聚酯（PET）酵素降解；角質酶",
+  "interaction": [
+   "interview",
+   "consultation"
+  ],
+  "dates": [
+   "2025-07-14"
+  ],
+  "summary_en": "The team presented its plan to engineer mutant enzymes for simultaneous cotton-polyester degradation to Prof. Zimmermann. He explained that crystalline PET cannot be degraded without pretreatment (thermal or NaOH), that 45 °C is too low and 60-65 °C is needed, suggested dropping cellulase and processing cotton and PET separately, recommended focusing on polyester and starting with 100% polyester textiles, advised statistical characterisation of mutants, mentioned stronger enzymes (ICCG, PHL7), and said full monomer purification/upcycling exceeds iGEM scope. He supported the team's UV-based real-time monitoring hardware.",
+  "summary_zh": "團隊向 Zimmermann 教授報告以突變酵素同時降解棉／聚酯的計畫。他指出結晶 PET 必須先經熱或 NaOH 前處理才能被酵素分解，45 °C 太低、需 60–65 °C；建議捨棄纖維素酶、將棉與 PET 分開處理，聚焦聚酯並先從 100% 聚酯布開始；建議以統計方式比較突變株，並提到 ICCG、PHL7 等更強的酵素；他也認為完整單體純化／升級再造超出 iGEM 範圍，但肯定團隊以 UV 即時監測酵素效率的硬體。",
+  "impact_en": "Narrowed the project focus to polyester degradation, validated the UV-based hardware monitoring approach, and refined the strategy for statistical mutant characterisation and enzyme selection.",
+  "impact_zh": "使團隊將專案聚焦於聚酯降解，肯定以 UV 硬體監測的方式，並修正突變株統計評估與酵素選擇策略。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [],
+  "portrait": "https://static.igem.wiki/teams/5729/ihp/wolfgang-zimmermann.webp",
+  "website": "https://www.uni-leipzig.de",
+  "city_en": "Leipzig",
+  "city_zh": "萊比錫",
+  "country": "DE",
+  "lat": 51.3397,
+  "lng": 12.3731,
+  "source_url": "https://2025.igem.wiki/gems-taiwan/human-practices",
+  "confidence": "high"
+ },
+ {
+  "id": "yinjie-tang",
+  "org_id": "washington-university-in-st-louis",
+  "year": 2025,
+  "project": "Textile Fighters",
+  "person_en": "Prof. Yinjie Tang",
+  "person_zh": null,
+  "title_en": "Professor",
+  "title_zh": "教授",
+  "org_en": "Washington University in St. Louis",
+  "org_zh": "聖路易斯華盛頓大學",
+  "unit_en": "Department of Energy, Environmental & Chemical Engineering",
+  "unit_zh": "能源、環境與化學工程系",
+  "category": "academia",
+  "expertise_en": "Microbial bioproduction; engineered yeast and cyanobacteria; fermentation; machine learning for strain development",
+  "expertise_zh": "微生物生物生產；酵母與藍綠菌工程；發酵；以機器學習優化菌株",
+  "interaction": [
+   "interview",
+   "consultation"
+  ],
+  "dates": [
+   "2025-04-26"
+  ],
+  "summary_en": "In a Google Meet session, Prof. Tang gave feedback on the enzyme-production design and on microbial upcycling of TPA and EG. He warned that enzyme expression is slow and hard to scale, validated CAPCO treatment as a fast PET hydrolysis step, strongly recommended cell-free expression, noted E. coli's double membrane hinders secretion, advised not over-purifying enzymes, suggested testing TfCut and MHETase separately on PET and textiles and checking stability and pretreatment interference, and recommended partnering with teams able to do LCA or cost analyses.",
+  "summary_zh": "唐教授透過 Google Meet 針對酵素生產設計及 TPA、EG 的微生物升級再造提供意見。他提醒酵素表現耗時且難以放大，肯定 CAPCO 處理是快速的 PET 水解方法，強烈建議採用無細胞表現系統，指出大腸桿菌雙層膜不利分泌，建議不要過度純化酵素，並建議分別測試 TfCut 與 MHETase 對 PET 與布料的效果、檢查穩定性與前處理的干擾，也建議與能做生命週期或成本分析的團隊合作。",
+  "impact_en": "Prompted the team to consider cell-free expression, reconsider reliance on E. coli hosts, shift toward sequential enzyme testing, and evaluate realistic purification and stability requirements.",
+  "impact_zh": "促使團隊考慮無細胞表現、重新評估對大腸桿菌宿主的依賴，改為分別測試各酵素，並實際評估純化與穩定性需求。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [],
+  "portrait": "https://static.igem.wiki/teams/5729/professorpics/tang.webp",
+  "website": "https://engineering.wustl.edu",
+  "city_en": "St. Louis",
+  "city_zh": "聖路易斯",
+  "country": "US",
+  "lat": 38.6488,
+  "lng": -90.3108,
+  "source_url": "https://2025.igem.wiki/gems-taiwan/human-practices",
+  "confidence": "high"
+ },
+ {
+  "id": "je-ruei-liu",
+  "org_id": "national-taiwan-university",
+  "year": 2025,
+  "project": "Textile Fighters",
+  "person_en": "Prof. Je-Ruei (Zhe-Rui) Liu",
+  "person_zh": "劉嚞睿 教授",
+  "title_en": "Professor",
+  "title_zh": "教授",
+  "org_en": "National Taiwan University",
+  "org_zh": "國立臺灣大學",
+  "unit_en": "Department of Biochemical Science and Technology",
+  "unit_zh": "生化科技學系",
+  "category": "academia",
+  "expertise_en": "Microbial biotechnology; enzyme engineering; plastic-degrading microbes",
+  "expertise_zh": "微生物生物技術；酵素工程；塑膠分解微生物",
+  "interaction": [
+   "interview",
+   "consultation"
+  ],
+  "dates": [
+   "2025-04-15"
+  ],
+  "summary_en": "The team met Prof. Liu for advice on optimising enzyme activity toward PET and PBAT. He explained that stronger binding does not equal higher catalytic efficiency and can trade off activity between substrates, recommended characterising the wild type first (film degradation, turbidity, monomer release), using p-nitrophenyl butyrate (pNPB) as a quick screening proxy across pH and temperature, noted that temperature optima are rigid while pH is more tunable, and advised structure-guided mutagenesis with colorimetric/fluorescent substrates for high-throughput screening while verifying dual-substrate activity.",
+  "summary_zh": "團隊向劉教授請教如何提升酵素對 PET 與 PBAT 的活性。他說明結合力增強不等於催化效率提升，甚至可能犧牲對另一受質的活性；建議先以薄膜降解、濁度或單體釋放測定野生型基線，並以 p-硝基苯丁酸酯（pNPB）作為快速篩選的替代受質比較不同 pH 與溫度；他指出最適溫度難以改變、pH 則較可調整，並建議以結構導向突變搭配呈色／螢光受質進行高通量篩選，同時確認雙受質活性。",
+  "impact_en": "Shaped a systematic workflow: baseline characterisation, structure-guided mutagenesis, and pNPB-based high-throughput screening, with preserved PET/PBAT activity as a mutant-evaluation criterion.",
+  "impact_zh": "建立系統化流程：先做基線測定、再進行結構導向突變與以 pNPB 為主的高通量篩選，並把保留 PET／PBAT 雙活性列為突變株評估標準。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [],
+  "portrait": "https://static.igem.wiki/teams/5729/professorpics/liu.webp",
+  "website": "https://www.ntu.edu.tw",
+  "city_en": "Taipei",
+  "city_zh": "臺北市",
+  "country": "TW",
+  "lat": 25.0173,
+  "lng": 121.5397,
+  "source_url": "https://2025.igem.wiki/gems-taiwan/human-practices",
+  "confidence": "medium"
+ },
+ {
+  "id": "uwe-t-bornscheuer",
+  "org_id": "university-of-greifswald",
+  "year": 2025,
+  "project": "Textile Fighters",
+  "person_en": "Prof. Uwe T. Bornscheuer",
+  "person_zh": null,
+  "title_en": "Professor",
+  "title_zh": "教授",
+  "org_en": "University of Greifswald",
+  "org_zh": "格來斯瓦德大學",
+  "unit_en": "Department of Biotechnology and Enzyme Catalysis",
+  "unit_zh": "生物技術與酵素催化系",
+  "category": "academia",
+  "expertise_en": "Enzyme engineering; enzymatic PET recycling and polymer degradation",
+  "expertise_zh": "酵素工程；PET 酵素回收與聚合物降解",
+  "interaction": [
+   "interview",
+   "consultation"
+  ],
+  "dates": [
+   "2025-05-28"
+  ],
+  "summary_en": "The team presented its enzymatic textile-degradation strategy to Prof. Bornscheuer, who has collaborated with industrial players including Carbios. He suggested replacing TfCut2 with LCC or its variants, warned against a one-pot TfCut2 + cellulase system because of incompatible optima and TPA inhibition of cellulase, proposed degrading PET first and cellulose separately, recommended E. coli SHuffle expression and strong buffers for pH stability, flagged mixing at scale and advised against immobilisation, and urged prioritising physical pretreatment and proof-of-concept results.",
+  "summary_zh": "團隊向曾與 Carbios 等業者合作的 Bornscheuer 教授報告酵素降解布料的策略。他建議以 LCC 或其變異株取代 TfCut2，提醒不要把 TfCut2 與纖維素酶放在同一反應槽（最適條件不同且 TPA 會抑制纖維素酶），建議先降解 PET 再另外處理纖維素；也建議用 E. coli SHuffle 表現並以強緩衝液維持 pH，提醒放大時的混合問題、不建議固定化酵素，並要團隊優先做物理前處理與概念驗證。",
+  "impact_en": "Redirected enzyme selection toward industrially relevant candidates, shaped a sequential rather than combined workflow, and brought stability controls and scale-up considerations into the design early, with emphasis on proof-of-concept results.",
+  "impact_zh": "使酵素選擇轉向更具產業意義的候選，流程改為分段而非同槽，並及早納入穩定性控制與放大考量，著重概念驗證成果。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [],
+  "portrait": "https://static.igem.wiki/teams/5729/professorpics/uwe.webp",
+  "website": "https://www.uni-greifswald.de",
+  "city_en": "Greifswald",
+  "city_zh": "格來斯瓦德",
+  "country": "DE",
+  "lat": 54.0947,
+  "lng": 13.407,
+  "source_url": "https://2025.igem.wiki/gems-taiwan/human-practices",
+  "confidence": "high"
+ },
+ {
+  "id": "gregg-beckham",
+  "org_id": "national-renewable-energy-laboratory",
+  "year": 2025,
+  "project": "Textile Fighters",
+  "person_en": "Dr. Gregg Beckham",
+  "person_zh": null,
+  "title_en": "Senior Research Fellow",
+  "title_zh": "資深研究員",
+  "org_en": "National Renewable Energy Laboratory (NREL)",
+  "org_zh": "美國國家再生能源實驗室",
+  "unit_en": null,
+  "unit_zh": null,
+  "category": "research",
+  "expertise_en": "Enzymatic plastic recycling; polymer upcycling; process design",
+  "expertise_zh": "塑膠酵素回收；聚合物升級再造；製程設計",
+  "interaction": [
+   "interview",
+   "consultation"
+  ],
+  "dates": [
+   "2025-06-11"
+  ],
+  "summary_en": "Over Google Meet, Dr. Beckham discussed the technical direction of the PET/cotton degradation project. He said simultaneous PET and cotton degradation in one reactor is unrealistic and recommended a staged PETase-then-cellulase process, advised using commercial cellulase cocktails or Trichoderma reesei (or C. bescii CelA if expressing in-house), stressed pretreatment/amorphisation such as heating followed by rapid quenching, recommended LCC-ICCG and LCC-A2 over TfCut2 (mentioning a low-pH TfCut2 library), and encouraged visible proof-of-concept outputs such as purified TPA and glucose.",
+  "summary_zh": "Beckham 博士透過 Google Meet 與團隊討論 PET／棉降解的技術方向。他認為在同一反應槽同時降解 PET 與棉並不實際，建議先以 PETase、再以纖維素酶分段處理；建議使用市售纖維素酶或里氏木黴，如需自行表現可用 C. bescii 的 CelA；強調加熱後快速淬冷等前處理／非晶化的重要性；推薦 LCC-ICCG 與 LCC-A2 優於 TfCut2（並提到低 pH 的 TfCut2 突變庫），並鼓勵以純化 TPA 與葡萄糖等可見成果作為概念驗證。",
+  "impact_en": "The team adopted rapid quenching after heating to avoid re-crystallisation, which lowered the crystallinity of the PET film, and refined its design into a staged, implementation-ready process.",
+  "impact_zh": "團隊採用加熱後快速淬冷以避免再結晶，成功降低 PET 薄膜結晶度，並把設計調整為分段、可實作的流程。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [],
+  "portrait": "https://static.igem.wiki/teams/5729/professorpics/beckham.webp",
+  "website": "https://www.nrel.gov",
+  "city_en": "Golden, CO",
+  "city_zh": "科羅拉多州戈登",
+  "country": "US",
+  "lat": 39.7406,
+  "lng": -105.1686,
+  "source_url": "https://2025.igem.wiki/gems-taiwan/human-practices",
+  "confidence": "high"
+ },
+ {
+  "id": "hsiao-ting-wu",
+  "org_id": "resource-circulation-administration-ministry-of-en",
+  "year": 2025,
+  "project": "Textile Fighters",
+  "person_en": "Section Chief Hsiao-Ting Wu",
+  "person_zh": null,
+  "title_en": "Section Chief",
+  "title_zh": "科長",
+  "org_en": "Resource Circulation Administration, Ministry of Environment (RECA)",
+  "org_zh": "環境部資源循環署",
+  "unit_en": null,
+  "unit_zh": null,
+  "category": "government",
+  "expertise_en": "Textile circularity policy; Taiwan 2050 Net Zero Pathway (Strategy 8: Resource Circulation and Zero Waste)",
+  "expertise_zh": "紡織循環政策；臺灣 2050 淨零轉型（關鍵戰略八：資源循環零廢棄）",
+  "interaction": [
+   "interview"
+  ],
+  "dates": [],
+  "summary_en": "The team met Section Chief Wu of RECA to understand Taiwan's textile-recycling progress, implementation difficulties and how young innovators can contribute. She explained that textiles are one of ten key sectors under Strategic Action No. 8 of the 2050 Net Zero Pathway, and described initiatives including the Sustainable Fashion Alliance, public-private circular procurement and subsidies for textile identification and recycling technology, the Circular Design Center, and cross-ministerial work with the Ministries of Education and Economic Affairs.",
+  "summary_zh": "團隊拜訪資源循環署吳科長，了解臺灣紡織回收的進展、推動困難以及青年創新者能如何參與。她說明紡織品是 2050 淨零轉型關鍵戰略八（資源循環零廢棄）中的十大重點領域之一，並介紹永續時尚聯盟、公私協力的循環採購與紡織品辨識回收技術補助、循環設計中心，以及與教育部、經濟部的跨部會合作。",
+  "impact_en": "Confirmed the project's alignment with national textile-recycling challenges and net-zero strategy, showed the government encourages student circular innovation, and inspired the team to add circular-economy concepts to its education outreach.",
+  "impact_zh": "確認專案方向與國家紡織回收挑戰及淨零策略一致，了解政府鼓勵學生投入循環創新，並啟發團隊將循環經濟概念納入教育推廣。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "https://static.igem.wiki/teams/5729/ihp/ihpgov1new.webp",
+    "caption_en": "Meeting at the Resource Circulation Administration",
+    "caption_zh": "拜訪環境部資源循環署"
+   },
+   {
+    "src": "https://static.igem.wiki/teams/5729/ihp/ihpgov2.webp",
+    "caption_en": "Meeting at the Resource Circulation Administration",
+    "caption_zh": "拜訪環境部資源循環署"
+   }
+  ],
+  "portrait": null,
+  "website": "https://www.reca.gov.tw",
+  "city_en": "Taipei",
+  "city_zh": "臺北市",
+  "country": "TW",
+  "lat": 25.0413,
+  "lng": 121.5093,
+  "source_url": "https://2025.igem.wiki/gems-taiwan/human-practices",
+  "confidence": "high"
+ },
+ {
+  "id": "kingwhale-corporation-huang",
+  "org_id": "kingwhale-corporation",
+  "year": 2025,
+  "project": "Textile Fighters",
+  "person_en": "Mr. Huang",
+  "person_zh": null,
+  "title_en": "CEO",
+  "title_zh": "執行長",
+  "org_en": "Kingwhale Corporation",
+  "org_zh": "菁華工業股份有限公司",
+  "unit_en": null,
+  "unit_zh": null,
+  "category": "industry",
+  "expertise_en": "Functional and sustainable textiles for outdoor/performance brands; recycled PET fabrics",
+  "expertise_zh": "戶外與機能品牌用永續機能布料；再生 PET 布料",
+  "interaction": [
+   "interview",
+   "consultation"
+  ],
+  "dates": [],
+  "summary_en": "The team met Mr. Huang, CEO of Kingwhale, a vertically integrated Taiwanese textile and garment company, to understand trends in sustainable textiles and explore downstream collaboration from monomers back to PET textiles. He noted textile-to-textile recycling is a rising trend that may become mandatory but cost is the biggest barrier, advised starting with 100% PET rather than blends, warned of hidden PU and water-resistant coatings, said consumers rarely pay more than 50% extra for sustainability, expressed willingness to collaborate via enzyme licensing or buying recycled monomers, and suggested Fashion for Good as a funding source.",
+  "summary_zh": "團隊與菁華工業（從布料、染整到成衣一條龍的臺灣紡織公司）黃執行長會談，了解永續紡織趨勢並探討從單體回到 PET 布料的下游合作。他指出布對布回收正在興起、未來可能成為法規要求，但成本是最大障礙；建議先處理 100% PET 而非混紡布，提醒 PU、防潑水等隱形塗層問題，並表示即使永續消費者也很少願意多付超過 50%。他願意透過授權酵素或購買再生單體合作，並建議申請 Fashion for Good 的資金。",
+  "impact_en": "The team decided to focus on pure PET textiles before PET-cotton blends, emphasised a low-cost scalable solution, repositioned the product commercially toward enzyme licensing or monomer sales to large manufacturers, and placed Kingwhale as the downstream partner in its business model.",
+  "impact_zh": "團隊決定先處理純 PET 布料再挑戰 PET／棉混紡，強調低成本、可放大的解方，並將產品商業定位調整為對大型製造商授權酵素或銷售單體，也在商業模式中將菁華工業列為下游夥伴。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "https://static.igem.wiki/teams/5729/ihp/kingwhale.webp",
+    "caption_en": "Meeting with Kingwhale",
+    "caption_zh": "與菁華工業會談"
+   }
+  ],
+  "portrait": null,
+  "website": "https://www.kingwhale.com",
+  "city_en": "Taipei",
+  "city_zh": "臺北市",
+  "country": "TW",
+  "lat": 25.0784,
+  "lng": 121.5745,
+  "source_url": "https://2025.igem.wiki/gems-taiwan/human-practices",
+  "confidence": "high"
+ },
+ {
+  "id": "jiutai-resource-recycling-co-ltd-wu",
+  "org_id": "jiutai-resource-recycling-co-ltd",
+  "year": 2025,
+  "project": "Textile Fighters",
+  "person_en": "Mr. Wu",
+  "person_zh": null,
+  "title_en": "CEO / Chairman",
+  "title_zh": "執行長／董事長",
+  "org_en": "Jiutai Resource Recycling Co., Ltd.",
+  "org_zh": "久泰資源回收",
+  "unit_en": null,
+  "unit_zh": null,
+  "category": "industry",
+  "expertise_en": "Used-clothing collection, sorting and recycling (over a hundred tons per month)",
+  "expertise_zh": "舊衣回收、分類與再利用（每月上百噸）",
+  "interaction": [
+   "interview",
+   "site-visit",
+   "collaboration"
+  ],
+  "dates": [],
+  "summary_en": "The team met Mr. Wu, CEO of Jiutai, a textile recycler handling over a hundred tons of used clothing monthly, to plan a visit and collaboration and learn about recycling barriers. He explained that clothes from donation bins are manually stripped of zippers and labels, PET content is measured by light-based machines, high-purity PET goes to chemical recycling while blends are burned, and that over 80% of PET clothing is recyclable only if clean and pure; he noted per-kilogram subsidies from the Ministry of Environment but little brand or legal pressure. During the later site visit the team saw the sorting process and the volume of clothing awaiting recycling.",
+  "summary_zh": "團隊與每月處理上百噸舊衣的久泰吳先生會談，規劃參訪與合作並了解回收障礙。他說明回收箱的衣物需人工拆除拉鍊、標籤，再以光學設備測 PET 含量，高純度 PET 送化學回收，混紡則被焚化；PET 衣物超過 80% 可回收，但前提是乾淨且純；他也提到環境部有按公斤補助，但品牌與法規壓力仍不足。後續實地參訪時，團隊看到分類流程與大量待回收的衣物。",
+  "impact_en": "Jiutai offered real blended-fabric samples for lab testing and competitive pricing for large quantities of sorted used clothes, becoming the upstream feedstock partner in the business model (Jiutai upstream to Kingwhale downstream); the meeting also pushed the team to treat policy as part of the project.",
+  "impact_zh": "久泰願意提供真實混紡布樣品供實驗測試，並以具競爭力的價格供應大量已分類舊衣，成為商業模式中的上游原料夥伴（久泰上游、菁華下游）；此次會談也促使團隊把政策納入專案考量。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "https://static.igem.wiki/teams/5729/ihp/screenshot-2025-09-13-at-2-21-57-pm.webp",
+    "caption_en": "Meeting with Mr. Wu of Jiutai",
+    "caption_zh": "與久泰吳先生會談"
+   },
+   {
+    "src": "https://static.igem.wiki/teams/5729/entrepreneurship/e8.webp",
+    "caption_en": "Visit to Jiutai's sorting facility",
+    "caption_zh": "參訪久泰分類廠"
+   },
+   {
+    "src": "https://static.igem.wiki/teams/5729/entrepreneurship/e5.webp",
+    "caption_en": "Visit to Jiutai's sorting facility",
+    "caption_zh": "參訪久泰分類廠"
+   },
+   {
+    "src": "https://static.igem.wiki/teams/5729/entrepreneurship/e6.webp",
+    "caption_en": "Visit to Jiutai's sorting facility",
+    "caption_zh": "參訪久泰分類廠"
+   },
+   {
+    "src": "https://static.igem.wiki/teams/5729/entrepreneurship/e7.webp",
+    "caption_en": "Visit to Jiutai's sorting facility",
+    "caption_zh": "參訪久泰分類廠"
+   },
+   {
+    "src": "https://static.igem.wiki/teams/5729/entrepreneurship/e9-3.webp",
+    "caption_en": "Visit to Jiutai's sorting facility",
+    "caption_zh": "參訪久泰分類廠"
+   }
+  ],
+  "portrait": null,
+  "website": "https://www.jiutai.com.tw",
+  "city_en": "New Taipei City",
+  "city_zh": "新北市",
+  "country": "TW",
+  "lat": 25.088,
+  "lng": 121.444,
+  "source_url": "https://2025.igem.wiki/gems-taiwan/human-practices",
+  "confidence": "high"
+ },
+ {
+  "id": "de-licacy-industrial-co-ltd",
+  "org_id": "de-licacy-industrial-co-ltd",
+  "year": 2025,
+  "project": "Textile Fighters",
+  "person_en": null,
+  "person_zh": null,
+  "title_en": null,
+  "title_zh": null,
+  "org_en": "De Licacy Industrial Co., Ltd.",
+  "org_zh": "得力實業股份有限公司",
+  "unit_en": null,
+  "unit_zh": null,
+  "category": "industry",
+  "expertise_en": "Midstream functional and sustainable fabric development; recycled-material fabrics for global brands",
+  "expertise_zh": "中游機能與永續布料開發；為國際品牌生產含再生原料的布料",
+  "interaction": [
+   "interview",
+   "consultation"
+  ],
+  "dates": [],
+  "summary_en": "The team met De Licacy, a Taiwanese midstream textile manufacturer with over ten years of fabric development, to explore turning the team's monomers back into textiles. They explained that recycled PET comes mostly from bottles, so bottle-rPET is cheap while textile-to-textile recycling still faces high collection and processing costs, that performance and outdoor brands with eco-conscious customers are the most promising first market, and that Taiwan's strength is agility in functional fabrics. Manufacturers' priorities for adoption are monomer purity, scalability and stability, and above all cost competitiveness.",
+  "summary_zh": "團隊與擁有十多年布料開發經驗的臺灣中游紡織廠得力實業會談，探討將團隊的單體再製成布料。對方說明目前再生 PET 多來自寶特瓶，瓶回收成熟、價差小，而布對布回收仍面臨高收集與處理成本；機能與戶外品牌的消費者較具環保意識，是新回收技術最有希望的首批市場；臺灣的優勢在於機能布料與快速導入創新。製造商最重視的是單體純度、規模化與穩定性，其中成本競爭力最為關鍵。",
+  "impact_en": "Helped define scale-up expectations (high monomer purity, reliable scalability, cost competitiveness) and identified performance-textile brands as early adopters, focusing the team on industry-ready, economically viable enzyme systems.",
+  "impact_zh": "協助團隊定義放大的條件（高單體純度、可靠的規模化、成本競爭力），並將機能布料品牌視為早期採用者，使團隊聚焦於可產業化且具經濟可行性的酵素系統。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "https://static.igem.wiki/teams/5729/ihp/delicacy.webp",
+    "caption_en": "Meeting with De Licacy",
+    "caption_zh": "與得力實業會談"
+   }
+  ],
+  "portrait": null,
+  "website": "https://www.delicacy.com.tw",
+  "city_en": "Tainan",
+  "city_zh": "臺南市",
+  "country": "TW",
+  "lat": 23.0786,
+  "lng": 120.295,
+  "source_url": "https://2025.igem.wiki/gems-taiwan/human-practices",
+  "confidence": "high"
+ },
+ {
+  "id": "lawrence-yen",
+  "org_id": "mih-climate-impact-capital",
+  "year": 2025,
+  "project": "Textile Fighters",
+  "person_en": "Mr. Lawrence Yen",
+  "person_zh": null,
+  "title_en": "Founding Partner",
+  "title_zh": "創始合夥人",
+  "org_en": "MIH Climate Impact Capital",
+  "org_zh": null,
+  "unit_en": null,
+  "unit_zh": null,
+  "category": "industry",
+  "expertise_en": "Climate-tech venture investment; startup scaling and business strategy",
+  "expertise_zh": "氣候科技創投；新創規模化與商業策略",
+  "interaction": [
+   "consultation",
+   "mentorship"
+  ],
+  "dates": [],
+  "summary_en": "Mr. Yen, Founding Partner at MIH Climate Impact Capital and an investor/advisor to sustainability ventures, consulted with the team more than once. At the very beginning he advised pivoting from general PET plastic degradation to PET textile recycling as an emerging textile-to-textile trend, and later urged the team to focus on its core strength in enzyme innovation rather than trying to control the whole supply chain, highlighting patent protection, targeted partnerships and startup resilience.",
+  "summary_zh": "MIH Climate Impact Capital 創始合夥人顏先生是永續新創的投資人與顧問，曾多次與團隊諮詢。專案初期他建議團隊從一般 PET 塑膠降解轉向 PET 紡織品回收，指出布對布回收是新興且迫切的趨勢；之後他再提醒團隊專注於酵素創新這項核心優勢，不要過早試圖掌控整條供應鏈，並強調專利保護、精準合作與新創韌性。",
+  "impact_en": "Shaped the project's pivot to textile recycling and the foundation of the entrepreneurship strategy: enzyme development as the key value proposition with partnerships for downstream processing and manufacturing.",
+  "impact_zh": "促成專案轉向紡織品回收，並奠定創業策略基礎：以酵素開發為核心價值主張，下游處理與製造則透過合作完成。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "https://static.igem.wiki/teams/5729/ihp/lawrence.webp",
+    "caption_en": "Consultation with Mr. Lawrence Yen",
+    "caption_zh": "與顏先生諮詢"
+   }
+  ],
+  "portrait": null,
+  "website": "https://mih.capital",
+  "city_en": "Taipei",
+  "city_zh": "臺北市",
+  "country": "TW",
+  "lat": 25.033,
+  "lng": 121.5654,
+  "source_url": "https://2025.igem.wiki/gems-taiwan/human-practices",
+  "confidence": "medium"
+ },
+ {
+  "id": "inblooom",
+  "org_id": "inblooom",
+  "year": 2025,
+  "project": "Textile Fighters",
+  "person_en": null,
+  "person_zh": null,
+  "title_en": null,
+  "title_zh": null,
+  "org_en": "inBlooom",
+  "org_zh": "印花樂",
+  "unit_en": null,
+  "unit_zh": null,
+  "category": "industry",
+  "expertise_en": "B Corp-certified Taiwanese design brand; sustainable materials; community-based production empowering women",
+  "expertise_zh": "獲 B 型企業認證的臺灣設計品牌；永續材料；以社區生產培力女性",
+  "interaction": [
+   "interview",
+   "collaboration"
+  ],
+  "dates": [
+   "2025-06-12"
+  ],
+  "summary_en": "The team conducted an in-depth interview with inBlooom, a brand founded in 2008 by three women in Dadaocheng and B Corp certified in 2022, about its business philosophy, sustainable practices, the path to B Corp certification and balancing profitability with social and environmental goals. According to the draft HP page and the Entrepreneurship page, inBlooom also worked with the team at the Dadaocheng community event, jointly hosting activities and information booths on sustainable fashion and community empowerment.",
+  "summary_zh": "團隊深入訪談 2008 年由三位女性在大稻埕創立、2022 年取得 B 型企業認證的品牌印花樂，了解其經營理念、永續做法、取得 B 型企業認證的過程，以及如何兼顧獲利與社會、環境目標。依 HP 草稿與創業頁所述，印花樂也在大稻埕社區活動中與團隊合作，共同舉辦永續時尚與社區培力的活動及資訊攤位。",
+  "impact_en": "Turned the enzyme concept into an adoption strategy: prioritise low-cost everyday products, tie governance to B Corp values, partner with NGOs for community empowerment, and set pilot KPIs (test SKUs from monomers, purity/yield, cost vs bottle-rPET, LCA, fair-wage share).",
+  "impact_zh": "將酵素構想轉化為推廣策略：優先發展平價日常產品、以 B 型企業價值治理、與 NGO 合作培力社區，並訂出試點 KPI（以單體製成的測試品項、純度／產率、與瓶回收 rPET 的成本比較、生命週期評估、公平薪資比例）。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "https://static.igem.wiki/teams/5729/ihp/inbloom.webp",
+    "caption_en": "Interview with inBlooom",
+    "caption_zh": "訪談印花樂"
+   }
+  ],
+  "portrait": null,
+  "website": "https://www.inblooom.com",
+  "city_en": "Taipei",
+  "city_zh": "臺北市",
+  "country": "TW",
+  "lat": 25.0569,
+  "lng": 121.5098,
+  "source_url": "https://2025.igem.wiki/gems-taiwan/human-practices",
+  "confidence": "medium"
+ },
+ {
+  "id": "twine",
+  "org_id": "twine",
+  "year": 2025,
+  "project": "Textile Fighters",
+  "person_en": null,
+  "person_zh": null,
+  "title_en": null,
+  "title_zh": null,
+  "org_en": "Twine",
+  "org_zh": "繭裹子",
+  "unit_en": null,
+  "unit_zh": null,
+  "category": "industry",
+  "expertise_en": "Fair-trade and sustainable fashion; natural materials; recycled sari collections",
+  "expertise_zh": "公平貿易與永續時尚；天然材質；回收紗麗系列",
+  "interaction": [
+   "interview",
+   "collaboration"
+  ],
+  "dates": [
+   "2025-06-12"
+  ],
+  "summary_en": "The team met Twine (繭裹子), a Taiwanese fair-fashion brand, mainly to invite it to the Dadaocheng public-engagement event. Twine explained that its functional wear uses recycled materials from suppliers such as Singtex rather than in-house recycling, that it sees regeneration as a future direction, and that labour cost and market acceptance are major barriers to large-scale textile recycling. Twine then ran its own pop-up booth selling products at the Dadaocheng sustainability fair.",
+  "summary_zh": "團隊與臺灣公平時尚品牌繭裹子會談，主要是邀請其參加大稻埕的公眾參與活動。繭裹子說明其機能服飾使用興采等供應商的再生材料而非自行回收，視再生為未來方向，並指出人力成本與市場接受度是大規模紡織回收的主要障礙。之後繭裹子在大稻埕永續市集設立快閃攤位販售商品。",
+  "impact_en": "Successfully brought Twine into the Dadaocheng event to show the public affordable, durable sustainable products; also taught the team about cost control and communicating sustainability to customers.",
+  "impact_zh": "成功邀請繭裹子參與大稻埕活動，向民眾展示平價耐用的永續商品；也讓團隊了解成本控制與向顧客傳達永續價值的挑戰。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "https://static.igem.wiki/teams/5729/ihp/screenshot-2025-09-13-at-2-07-43-pm.webp",
+    "caption_en": "Meeting with Twine",
+    "caption_zh": "與繭裹子會談"
+   },
+   {
+    "src": "https://static.igem.wiki/teams/5729//education/edu7.webp",
+    "caption_en": "Sustainable fashion booths at the Dadaocheng event",
+    "caption_zh": "大稻埕活動的永續時尚攤位"
+   }
+  ],
+  "portrait": null,
+  "website": "https://www.twine.tw",
+  "city_en": "Taipei",
+  "city_zh": "臺北市",
+  "country": "TW",
+  "lat": 25.0612,
+  "lng": 121.5098,
+  "source_url": "https://2025.igem.wiki/gems-taiwan/human-practices",
+  "confidence": "high"
+ },
+ {
+  "id": "story-wear-alex",
+  "org_id": "story-wear",
+  "year": 2025,
+  "project": "Textile Fighters",
+  "person_en": "Alex",
+  "person_zh": null,
+  "title_en": "Manager",
+  "title_zh": "經理",
+  "org_en": "Story Wear",
+  "org_zh": "Story Wear",
+  "unit_en": null,
+  "unit_zh": null,
+  "category": "industry",
+  "expertise_en": "Upcycled denim fashion; ethical employment with cerebral-palsy families and women's associations",
+  "expertise_zh": "丹寧升級再造時尚；與腦性麻痺家庭及婦女團體合作的友善就業",
+  "interaction": [
+   "interview",
+   "collaboration",
+   "partnership"
+  ],
+  "dates": [
+   "2025-06-12"
+  ],
+  "summary_en": "Story Wear, a Taiwanese brand upcycling denim and discarded textiles into clothing made by mothers of children with cerebral palsy and women's groups, was the team's main partner for the Dadaocheng sustainability event, which was held at its Dadaocheng store with a Story Wear pop-up booth. The draft HP page records a meeting with manager Alex about supply-chain challenges, corporate partnerships and the team's project: denim comes from donations and mill surplus, removing non-fabric parts is labour-intensive, and blends are costly to process. Proceeds from the team's flea-market booth were donated to support the families of Story Wear's workers.",
+  "summary_zh": "Story Wear 是將丹寧與廢棄布料升級再造成服飾、並由腦性麻痺兒家長與婦女團體縫製的臺灣品牌，也是團隊大稻埕永續活動的主要合作夥伴；活動在其大稻埕門市舉行，並設有 Story Wear 快閃攤位。HP 草稿記錄團隊與經理 Alex 會談供應鏈挑戰、企業合作與對專案的看法：丹寧來自捐贈與紡織廠庫存，拆除非布料部件需大量人力，混紡布處理成本高。團隊二手市集攤位的收入也捐出，以支持 Story Wear 員工的家庭。",
+  "impact_en": "Hosting the event at Story Wear let visitors see and touch stylish upcycled clothing, which the team used to counter the hygiene/stigma and style barriers found in its street survey; the collaboration also linked the project to an inclusive circular economy.",
+  "impact_zh": "在 Story Wear 舉辦活動讓民眾親眼看到、親手摸到時尚的升級再造服飾，團隊藉此回應街訪中發現的衛生疑慮、污名與款式障礙；此合作也讓專案連結到更具包容性的循環經濟。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "https://static.igem.wiki/teams/5729/ihp/storywear.webp",
+    "caption_en": "Meeting with Story Wear",
+    "caption_zh": "與 Story Wear 會談"
+   },
+   {
+    "src": "https://static.igem.wiki/teams/5729/educationwiki/newphoto/gp1.webp",
+    "caption_en": "Dadaocheng sustainability event",
+    "caption_zh": "大稻埕永續活動"
+   },
+   {
+    "src": "https://static.igem.wiki/teams/5729/educationwiki/newphoto/new-ddc-poster.avif",
+    "caption_en": "Dadaocheng event poster",
+    "caption_zh": "大稻埕活動海報"
+   }
+  ],
+  "portrait": null,
+  "website": "https://www.story-wear.com",
+  "city_en": "Taipei",
+  "city_zh": "臺北市",
+  "country": "TW",
+  "lat": 25.056,
+  "lng": 121.5105,
+  "source_url": "https://2025.igem.wiki/gems-taiwan/education",
+  "confidence": "medium"
+ },
+ {
+  "id": "xinyi-realty",
+  "org_id": "xinyi-realty",
+  "year": 2025,
+  "project": "Textile Fighters",
+  "person_en": null,
+  "person_zh": null,
+  "title_en": null,
+  "title_zh": null,
+  "org_en": "Xinyi Realty",
+  "org_zh": "信義房屋",
+  "unit_en": null,
+  "unit_zh": null,
+  "category": "industry",
+  "expertise_en": "Real estate; community engagement",
+  "expertise_zh": "不動產仲介；社區參與",
+  "interaction": [
+   "collaboration"
+  ],
+  "dates": [
+   "2025-06-12"
+  ],
+  "summary_en": "The Education page lists Xinyi Realty, together with Story Wear and Twine, as a collaborator in organising the Dadaocheng sustainability fair featuring interactive booths, DIY workshops and an expert panel on circular fashion. No further details of its role are given.",
+  "summary_zh": "教育頁面列出信義房屋與 Story Wear、繭裹子共同協辦大稻埕永續市集，活動包含互動攤位、DIY 工作坊與循環時尚專家座談。頁面未進一步說明其角色。",
+  "impact_en": null,
+  "impact_zh": null,
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [],
+  "portrait": null,
+  "website": "https://www.sinyi.com.tw",
+  "city_en": "Taipei",
+  "city_zh": "臺北市",
+  "country": "TW",
+  "lat": 25.0375,
+  "lng": 121.5637,
+  "source_url": "https://2025.igem.wiki/gems-taiwan/education",
+  "confidence": "low"
+ },
+ {
+  "id": "tzung-hai-yen",
+  "org_id": "chang-gung-memorial-hospital-linkou",
+  "year": 2025,
+  "project": "Textile Fighters",
+  "person_en": "Dr. Tzung-Hai Yen",
+  "person_zh": "顏宗海 醫師",
+  "title_en": "Physician; Director, Clinical Poison Center",
+  "title_zh": "林口長庚臨床毒物中心主任",
+  "org_en": "Chang Gung Memorial Hospital, Linkou",
+  "org_zh": "林口長庚紀念醫院",
+  "unit_en": "Clinical Poison Center",
+  "unit_zh": "臨床毒物中心",
+  "category": "medical",
+  "expertise_en": "Clinical toxicology; health effects of plastics and microplastics",
+  "expertise_zh": "臨床毒物學；塑膠與微塑膠對健康的影響",
+  "interaction": [
+   "conference",
+   "education"
+  ],
+  "dates": [
+   "2025-06-12"
+  ],
+  "summary_en": "Dr. Yen Tzung-Hai spoke on the expert panel at the team's Dadaocheng community sustainability event, discussing the impact of plastic on human health (panel \"Microplastic Pollution Effect on Human Health\") and emphasising the environmental urgency of textile waste. The wiki names him but does not state his affiliation; the affiliation here is from public sources.",
+  "summary_zh": "顏宗海醫師在團隊於大稻埕舉辦的社區永續活動中擔任座談講者，談塑膠對人體健康的影響（「微塑膠污染對人體健康的影響」座談），並強調紡織廢棄物的環境急迫性。wiki 只寫出姓名、未註明單位，此處單位依公開資料補充。",
+  "impact_en": "His medical explanations supported the microplastics-and-health booth and were used to address respondents who underestimated the seriousness of textile waste.",
+  "impact_zh": "他的醫學說明支援了「微塑膠與健康」攤位，並用來回應低估紡織廢棄物嚴重性的受訪者。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "https://static.igem.wiki/teams/5729//education/edu8.webp",
+    "caption_en": "Panel talk at the Dadaocheng sustainability event",
+    "caption_zh": "大稻埕永續活動的座談會"
+   },
+   {
+    "src": "https://static.igem.wiki/teams/5729//education/edu9.webp",
+    "caption_en": "Panel talk at the Dadaocheng sustainability event",
+    "caption_zh": "大稻埕永續活動的座談會"
+   }
+  ],
+  "portrait": null,
+  "website": "https://www.cgmh.org.tw",
+  "city_en": "Taoyuan",
+  "city_zh": "桃園市",
+  "country": "TW",
+  "lat": 25.0614,
+  "lng": 121.3676,
+  "source_url": "https://2025.igem.wiki/gems-taiwan/education",
+  "confidence": "medium"
+ },
+ {
+  "id": "cerebral-palsy-association-of-the-r-o-c",
+  "org_id": "cerebral-palsy-association-of-the-r-o-c",
+  "year": 2025,
+  "project": "Textile Fighters",
+  "person_en": null,
+  "person_zh": null,
+  "title_en": null,
+  "title_zh": null,
+  "org_en": "Cerebral Palsy Association of the R.O.C.",
+  "org_zh": "中華民國腦性麻痺協會",
+  "unit_en": null,
+  "unit_zh": null,
+  "category": "ngo",
+  "expertise_en": "Support for people with cerebral palsy and their families",
+  "expertise_zh": "腦性麻痺者及其家庭支持服務",
+  "interaction": [
+   "partnership"
+  ],
+  "dates": [],
+  "summary_en": "Proceeds from the team's flea-market booth and activities (and future events) are donated to the Cerebral Palsy Association of the R.O.C. to support families affected by cerebral palsy, many of whose parents work for Story Wear. The Human Practices page describes the recipient as a non-profit supporting parents who work for Story Wear.",
+  "summary_zh": "團隊二手市集攤位與活動（及日後活動）的收入捐給中華民國腦性麻痺協會，支持腦性麻痺兒家庭，其中許多家長在 Story Wear 工作。人類實踐頁面將受捐單位描述為支持 Story Wear 員工家長的非營利組織。",
+  "impact_en": "Linked the team's circular-fashion outreach to social inclusion (SDG 11).",
+  "impact_zh": "將團隊的循環時尚推廣與社會共融（SDG 11）連結。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "https://static.igem.wiki/teams/5729/ihp/fleaa.webp",
+    "caption_en": "Team flea-market booth",
+    "caption_zh": "團隊二手市集攤位"
+   }
+  ],
+  "portrait": null,
+  "website": "https://www.cplink.org.tw",
+  "city_en": "Taipei",
+  "city_zh": "臺北市",
+  "country": "TW",
+  "lat": 25.033,
+  "lng": 121.5654,
+  "source_url": "https://2025.igem.wiki/gems-taiwan/sustainability",
+  "confidence": "medium"
+ },
+ {
+  "id": "taiwan-digital-talking-book-association-daisy-library",
+  "org_id": "taiwan-digital-talking-book-association",
+  "year": 2025,
+  "project": "Textile Fighters",
+  "person_en": null,
+  "person_zh": null,
+  "title_en": null,
+  "title_zh": null,
+  "org_en": "Taiwan Digital Talking Books Association (TDTB)",
+  "org_zh": "社團法人台灣數位有聲書推展學會",
+  "unit_en": null,
+  "unit_zh": null,
+  "category": "ngo",
+  "expertise_en": "Accessible audio content for visually impaired people and students with reading difficulties",
+  "expertise_zh": "為視障者與閱讀困難學生提供無障礙有聲內容",
+  "interaction": [
+   "partnership",
+   "sponsorship"
+  ],
+  "dates": [],
+  "summary_en": "The team's trilingual (Traditional Chinese, English, Japanese) audiobook on microplastic pollution (\"Bubbles and the Deep Blue Garden\" / 《小魚逃亡記：微塑膠風波》) was published through TDTB, a non-profit platform giving free audio materials to students with disabilities, reading difficulties or limited access to print. TDTB is listed as a sponsor on the Attributions form.",
+  "summary_zh": "團隊以繁中、英文、日文三語製作的微塑膠有聲書（Bubbles and the Deep Blue Garden／《小魚逃亡記：微塑膠風波》）透過台灣數位有聲書推展學會發行；該會是非營利平台，免費提供有聲資源給身心障礙、閱讀困難或難以取得紙本資料的學生。致謝表將其列為贊助單位。",
+  "impact_en": "Made the team's educational content accessible to visually impaired learners and other underserved audiences.",
+  "impact_zh": "讓團隊的教育內容能觸及視障學習者與其他資源不足的族群。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [],
+  "portrait": null,
+  "website": "https://tdtb.org",
+  "city_en": "Taipei",
+  "city_zh": "臺北市",
+  "country": "TW",
+  "lat": 25.0398,
+  "lng": 121.5004,
+  "source_url": "https://2025.igem.wiki/gems-taiwan/inclusivity",
+  "confidence": "high"
+ },
+ {
+  "id": "textile-exchange",
+  "org_id": "textile-exchange",
+  "year": 2025,
+  "project": "Textile Fighters",
+  "person_en": null,
+  "person_zh": null,
+  "title_en": null,
+  "title_zh": null,
+  "org_en": "Textile Exchange",
+  "org_zh": null,
+  "unit_en": null,
+  "unit_zh": null,
+  "category": "ngo",
+  "expertise_en": "Global non-profit on sustainable fibres and materials; circularity reports",
+  "expertise_zh": "推動永續纖維與材料的國際非營利組織；循環相關報告",
+  "interaction": [
+   "feedback"
+  ],
+  "dates": [],
+  "summary_en": "Only in the draft Human Practices document: Textile Exchange shared insights for the project, stressing that major system-level gaps remain in recycling PET/cotton blends, pointing the team to its Future of Synthetics and Scaling Circularity reports, and noting technical limitations and fibre contamination as challenges for enzyme-based recycling. This passage does not appear on the published page.",
+  "summary_zh": "僅見於人類實踐草稿：Textile Exchange 提供意見，強調 PET／棉混紡回收仍有重大系統性缺口，推薦團隊參考其 Future of Synthetics 與 Scaling Circularity 報告，並指出技術限制與纖維汙染是酵素回收的挑戰。此段未出現在正式發布的頁面。",
+  "impact_en": null,
+  "impact_zh": null,
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [],
+  "portrait": null,
+  "website": "https://textileexchange.org",
+  "city_en": "Lamesa, TX",
+  "city_zh": "德州拉梅薩",
+  "country": "US",
+  "lat": 32.7376,
+  "lng": -101.951,
+  "source_url": "https://2025.igem.wiki/gems-taiwan/human-practices",
+  "confidence": "low"
+ },
+ {
+  "id": "academia-sinica",
+  "org_id": "academia-sinica",
+  "year": 2025,
+  "project": "Textile Fighters",
+  "person_en": null,
+  "person_zh": null,
+  "title_en": null,
+  "title_zh": null,
+  "org_en": "Academia Sinica",
+  "org_zh": "中央研究院",
+  "unit_en": null,
+  "unit_zh": null,
+  "category": "research",
+  "expertise_en": "Biotechnology and materials science; computational modelling; site-directed mutagenesis",
+  "expertise_zh": "生物技術與材料科學；計算模擬；定點突變",
+  "interaction": [
+   "collaboration"
+  ],
+  "dates": [],
+  "summary_en": "On the Entrepreneurship page's stakeholder map, Academia Sinica is listed under \"Manage Closely\": the team says it collaborated with Academia Sinica researchers on computational modelling and site-directed mutagenesis strategies. No researcher, lab or date is named, and it is not listed on the Attributions form.",
+  "summary_zh": "創業頁面的利害關係人地圖將中央研究院列為「密切管理」對象，團隊表示曾與中研院研究人員合作計算模擬與定點突變策略。頁面未寫出研究人員、實驗室或日期，致謝表中也沒有列出。",
+  "impact_en": "Helped refine the design of the TfCut2 variants and, per the team, added technical credibility.",
+  "impact_zh": "協助修正 TfCut2 變異株的設計，團隊認為也提升了技術可信度。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [],
+  "portrait": null,
+  "website": "https://www.sinica.edu.tw",
+  "city_en": "Taipei",
+  "city_zh": "臺北市",
+  "country": "TW",
+  "lat": 25.0418,
+  "lng": 121.6146,
+  "source_url": "https://2025.igem.wiki/gems-taiwan/entrepreneurship",
+  "confidence": "low"
+ },
+ {
+  "id": "compeq-manufacturing-co-ltd",
+  "org_id": "compeq-manufacturing-co-ltd",
+  "year": 2025,
+  "project": "Textile Fighters",
+  "person_en": null,
+  "person_zh": null,
+  "title_en": null,
+  "title_zh": null,
+  "org_en": "COMPEQ Manufacturing Co., Ltd.",
+  "org_zh": "華通電腦股份有限公司",
+  "unit_en": null,
+  "unit_zh": null,
+  "category": "industry",
+  "expertise_en": "Instrumental analysis (SEM, FT-IR, DSC, HPLC)",
+  "expertise_zh": "儀器分析（SEM、FT-IR、DSC、HPLC）",
+  "interaction": [
+   "sponsorship"
+  ],
+  "dates": [],
+  "summary_en": "COMPEQ provided and operated the SEM, FT-IR, DSC and HPLC equipment used in the project and supplied the analysis results; it is listed as a sponsor on the Attributions form.",
+  "summary_zh": "華通電腦提供並協助操作本專案使用的 SEM、FT-IR、DSC 與 HPLC 設備，並提供分析結果；致謝表將其列為贊助單位。",
+  "impact_en": "Enabled the crystallinity (DSC), morphology (SEM) and chemical-structure (FT-IR) measurements that validated the pretreatment and degradation results.",
+  "impact_zh": "使團隊得以進行結晶度（DSC）、表面形貌（SEM）與化學結構（FT-IR）量測，驗證前處理與降解成果。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [],
+  "portrait": null,
+  "website": "https://www.compeq.com.tw",
+  "city_en": "Taoyuan",
+  "city_zh": "桃園市",
+  "country": "TW",
+  "lat": 25.055,
+  "lng": 121.265,
+  "source_url": "https://2025.igem.wiki/gems-taiwan/measurement",
+  "confidence": "high"
+ },
+ {
+  "id": "sciket",
+  "org_id": "sciket",
+  "year": 2025,
+  "project": "Textile Fighters",
+  "person_en": null,
+  "person_zh": null,
+  "title_en": null,
+  "title_zh": null,
+  "org_en": "SCIKET (STAREK Scientific)",
+  "org_zh": "科研市集（勢得科研股份有限公司）",
+  "unit_en": null,
+  "unit_zh": null,
+  "category": "industry",
+  "expertise_en": "Online marketplace for laboratory equipment and consumables",
+  "expertise_zh": "實驗室儀器與耗材線上採購平台",
+  "interaction": [
+   "sponsorship"
+  ],
+  "dates": [],
+  "summary_en": "SCIKET sponsored the team by offering a 20% discount on various lab equipment (Attributions form).",
+  "summary_zh": "科研市集以實驗室器材八折優惠贊助團隊（見致謝表）。",
+  "impact_en": null,
+  "impact_zh": null,
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [],
+  "portrait": null,
+  "website": "https://www.sciket.com",
+  "city_en": "Taoyuan",
+  "city_zh": "桃園市",
+  "country": "TW",
+  "lat": 24.9936,
+  "lng": 121.301,
+  "source_url": "https://2025.igem.wiki/gems-taiwan/attributions",
+  "confidence": "medium"
+ },
+ {
+  "id": "luzhou-elementary-school-education",
+  "org_id": "luzhou-elementary-school",
+  "year": 2025,
+  "project": "Textile Fighters",
+  "person_en": null,
+  "person_zh": null,
+  "title_en": null,
+  "title_zh": null,
+  "org_en": "Luzhou Elementary School",
+  "org_zh": "新北市蘆洲區蘆洲國民小學",
+  "unit_en": null,
+  "unit_zh": null,
+  "category": "education",
+  "expertise_en": "Grades 4-6 students (ages 9-12)",
+  "expertise_zh": "四至六年級學生（9–12 歲）",
+  "interaction": [
+   "education",
+   "workshop",
+   "survey"
+  ],
+  "dates": [
+   "2025-06-26"
+  ],
+  "summary_en": "The team ran the interactive STEM workshop \"Enzyme Heroes: Save our clothes!\" for grades 4-6: a \"Where do clothes go?\" icebreaker, fast fashion and textile waste storytelling, a clothes-sorting recycling challenge, DNA/ATCG and enzyme basics, the ATCG & enzyme card game, and upcycling old T-shirts into tote bags, with KAP pre- and post-surveys.",
+  "summary_zh": "團隊為四至六年級學生舉辦互動 STEM 工作坊「酵素英雄：拯救我們的衣服！」，內容包括「衣服去哪了？」破冰、快時尚與紡織廢棄物故事、衣物分類回收挑戰、DNA／ATCG 與酵素入門、ATCG 與酵素卡牌遊戲，以及將舊 T 恤改製成環保袋，並以 KAP 前後測評估。",
+  "impact_en": "Post-surveys showed large knowledge gains (synthetic fibre identification about 40% to 100%, DNA base pairing about 18% to over 90%) and higher willingness to recycle and reuse clothes.",
+  "impact_zh": "後測顯示知識明顯提升（辨識人造纖維約 40% 提升至 100%，DNA 鹼基配對約 18% 提升至 90% 以上），回收與重複使用衣物的意願也提高。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "https://static.igem.wiki/teams/5729/educationwiki/venuselementaryschool.webp",
+    "caption_en": "Students learning about textile waste",
+    "caption_zh": "學生學習紡織廢棄物"
+   },
+   {
+    "src": "https://static.igem.wiki/teams/5729/educationwiki/newphoto/es3.webp",
+    "caption_en": "Students learning about DNA and genetic code matching",
+    "caption_zh": "學生學習 DNA 與遺傳密碼配對"
+   },
+   {
+    "src": "https://static.igem.wiki/teams/5729/educationwiki/educationelementary-school.webp",
+    "caption_en": "Students sorting materials",
+    "caption_zh": "學生進行材質分類"
+   },
+   {
+    "src": "https://static.igem.wiki/teams/5729/educationwiki/newphoto/es6.webp",
+    "caption_en": "Students making tote bags from old clothes",
+    "caption_zh": "學生用舊衣製作環保袋"
+   },
+   {
+    "src": "https://static.igem.wiki/teams/5729/educationwiki/newphoto/es5.webp",
+    "caption_en": "Students making tote bags from old clothes",
+    "caption_zh": "學生用舊衣製作環保袋"
+   },
+   {
+    "src": "https://static.igem.wiki/teams/5729/educationwiki/newphoto/es10.webp",
+    "caption_en": "Students making tote bags from old clothes",
+    "caption_zh": "學生用舊衣製作環保袋"
+   }
+  ],
+  "portrait": null,
+  "website": null,
+  "city_en": "New Taipei City",
+  "city_zh": "新北市",
+  "country": "TW",
+  "lat": 25.0849,
+  "lng": 121.4731,
+  "source_url": "https://2025.igem.wiki/gems-taiwan/education",
+  "confidence": "medium"
+ },
+ {
+  "id": "yonghe-junior-high-school-education",
+  "org_id": "yonghe-junior-high-school",
+  "year": 2025,
+  "project": "Textile Fighters",
+  "person_en": null,
+  "person_zh": null,
+  "title_en": null,
+  "title_zh": null,
+  "org_en": "Yonghe Junior High School",
+  "org_zh": "新北市立永和國民中學",
+  "unit_en": null,
+  "unit_zh": null,
+  "category": "education",
+  "expertise_en": "Junior high school students",
+  "expertise_zh": "國中生",
+  "interaction": [
+   "education",
+   "workshop",
+   "survey"
+  ],
+  "dates": [
+   "2025-06-12"
+  ],
+  "summary_en": "In partnership with Yonghe Junior High, the team taught synthetic biology and textile waste through an introduction to iGEM and synbio, a fast-fashion and microplastics discussion, a 5R brainstorming activity, an enzyme lesson with a hands-on potato catalase lab, and a Kahoot quiz, with KAP pre- and post-surveys.",
+  "summary_zh": "團隊與永和國中合作，透過 iGEM 與合成生物學介紹、快時尚與微塑膠討論、5R 腦力激盪、酵素課程與馬鈴薯過氧化氫酶實作，以及 Kahoot 測驗教授合成生物學與紡織廢棄物議題，並以 KAP 前後測評估。",
+  "impact_en": "Knowledge of textile-pollution causes rose from about 10% to 95% and understanding of enzyme activity from about 12% to 100%; some students asked how to join science fairs or iGEM.",
+  "impact_zh": "學生對紡織污染成因的理解約由 10% 提升至 95%，對酵素活性的理解約由 12% 提升至 100%；部分學生詢問如何參加科展或 iGEM。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "https://static.igem.wiki/teams/5729/educationwiki/newphoto/js1.webp",
+    "caption_en": "Students completing the pre-survey",
+    "caption_zh": "學生填寫前測"
+   },
+   {
+    "src": "https://static.igem.wiki/teams/5729/educationwiki/newphoto/jh9.webp",
+    "caption_en": "Students learning about textile waste",
+    "caption_zh": "學生學習紡織廢棄物"
+   },
+   {
+    "src": "https://static.igem.wiki/teams/5729/educationwiki/newphoto/js4.webp",
+    "caption_en": "Potato enzyme lab",
+    "caption_zh": "馬鈴薯酵素實驗"
+   },
+   {
+    "src": "https://static.igem.wiki/teams/5729/educationwiki/newphoto/jh10.webp",
+    "caption_en": "Potato enzyme lab",
+    "caption_zh": "馬鈴薯酵素實驗"
+   },
+   {
+    "src": "https://static.igem.wiki/teams/5729/educationwiki/newphoto/jh11.webp",
+    "caption_en": "Students playing Kahoot",
+    "caption_zh": "學生進行 Kahoot 測驗"
+   }
+  ],
+  "portrait": null,
+  "website": null,
+  "city_en": "New Taipei City",
+  "city_zh": "新北市",
+  "country": "TW",
+  "lat": 25.0085,
+  "lng": 121.515,
+  "source_url": "https://2025.igem.wiki/gems-taiwan/education",
+  "confidence": "medium"
+ },
+ {
+  "id": "taipei-municipal-xisong-high-school-education",
+  "org_id": "taipei-municipal-xisong-high-school",
+  "year": 2025,
+  "project": "Textile Fighters",
+  "person_en": null,
+  "person_zh": null,
+  "title_en": null,
+  "title_zh": null,
+  "org_en": "Taipei Municipal Xisong High School",
+  "org_zh": "臺北市立西松高級中學",
+  "unit_en": null,
+  "unit_zh": null,
+  "category": "education",
+  "expertise_en": "High school students",
+  "expertise_zh": "高中生",
+  "interaction": [
+   "education",
+   "workshop",
+   "survey"
+  ],
+  "dates": [
+   "2025-06-12"
+  ],
+  "summary_en": "The team held an outreach session at Xisong High School, co-taught with university students, covering iGEM and synthetic biology, a transcription/translation role-play, a blueberry DNA extraction experiment, university and career sharing, and a Kahoot quiz, with pre- and post-surveys.",
+  "summary_zh": "團隊在西松高中與大學生共同授課，內容包括 iGEM 與合成生物學介紹、轉錄／轉譯角色扮演、藍莓 DNA 萃取實驗、大學生活與生涯分享以及 Kahoot 測驗，並進行前後測。",
+  "impact_en": "Moderate impact: gains in core knowledge and willingness to learn synthetic biology and check clothing material; one RNA question declined, prompting the team to revise that content.",
+  "impact_zh": "成效中等：核心知識、學習合成生物學及查看衣物材質的意願有所提升；一題 RNA 題目答對率下降，促使團隊修正該部分內容。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "https://static.igem.wiki/teams/5729/educationwiki/newphoto/hs1.webp",
+    "caption_en": "Students learning about iGEM",
+    "caption_zh": "學生認識 iGEM"
+   },
+   {
+    "src": "https://static.igem.wiki/teams/5729/educationwiki/newphoto/hs2.webp",
+    "caption_en": "Students learning about textile waste",
+    "caption_zh": "學生學習紡織廢棄物"
+   },
+   {
+    "src": "https://static.igem.wiki/teams/5729/educationwiki/newphoto/hs3.webp",
+    "caption_en": "Students learning about synthetic biology",
+    "caption_zh": "學生學習合成生物學"
+   },
+   {
+    "src": "https://static.igem.wiki/teams/5729/educationwiki/newphoto/hs4.webp",
+    "caption_en": "Students learning about DNA",
+    "caption_zh": "學生學習 DNA"
+   },
+   {
+    "src": "https://static.igem.wiki/teams/5729/educationwiki/newphoto/hs5.webp",
+    "caption_en": "Blueberry DNA extraction experiment",
+    "caption_zh": "藍莓 DNA 萃取實驗"
+   },
+   {
+    "src": "https://static.igem.wiki/teams/5729/educationwiki/newphoto/hs6.webp",
+    "caption_en": "Blueberry DNA extraction experiment",
+    "caption_zh": "藍莓 DNA 萃取實驗"
+   }
+  ],
+  "portrait": null,
+  "website": "https://www.hssh.tp.edu.tw",
+  "city_en": "Taipei",
+  "city_zh": "臺北市",
+  "country": "TW",
+  "lat": 25.056,
+  "lng": 121.558,
+  "source_url": "https://2025.igem.wiki/gems-taiwan/education",
+  "confidence": "high"
+ },
+ {
+  "id": "china-medical-university-university-students",
+  "org_id": "china-medical-university",
+  "year": 2025,
+  "project": "Textile Fighters",
+  "person_en": null,
+  "person_zh": null,
+  "title_en": null,
+  "title_zh": null,
+  "org_en": "China Medical University",
+  "org_zh": "中國醫藥大學",
+  "unit_en": "University students (bioscience programmes)",
+  "unit_zh": "大學生（生命科學相關科系）",
+  "category": "academia",
+  "expertise_en": "University bioscience study; iGEM participation",
+  "expertise_zh": "大學生命科學學習；iGEM 參賽經驗",
+  "interaction": [
+   "collaboration",
+   "education",
+   "mentorship"
+  ],
+  "dates": [
+   "2025-06-12"
+  ],
+  "summary_en": "University students (named as \"China Medical University (CSMU)\" on the Education page) co-designed the teaching slides and plans for the Xisong High School session and shared their experience of university bioscience programmes, iGEM, entrance exams and science competitions, leading a mentorship Q&A on careers.",
+  "summary_zh": "大學生（教育頁寫為「China Medical University (CSMU)」）與團隊共同設計西松高中的教材與教案，並分享大學生命科學課程、iGEM、升學考試與科學競賽經驗，帶領生涯導師問答。",
+  "impact_en": "Added mentorship and career exploration to the high school programme.",
+  "impact_zh": "為高中課程加入導師指導與生涯探索。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "https://static.igem.wiki/teams/5729/educationwiki/newphoto/hs1.webp",
+    "caption_en": "High school session co-taught with university students",
+    "caption_zh": "與大學生共同授課的高中課程"
+   }
+  ],
+  "portrait": null,
+  "website": "https://www.cmu.edu.tw",
+  "city_en": "Taichung",
+  "city_zh": "臺中市",
+  "country": "TW",
+  "lat": 24.157,
+  "lng": 120.68,
+  "source_url": "https://2025.igem.wiki/gems-taiwan/education",
+  "confidence": "low"
+ },
+ {
+  "id": "huaxing-children-s-home-education",
+  "org_id": "huaxing-children-s-home",
+  "year": 2025,
+  "project": "Textile Fighters",
+  "person_en": null,
+  "person_zh": null,
+  "title_en": null,
+  "title_zh": null,
+  "org_en": "Huaxing Children's Home",
+  "org_zh": "財團法人臺北市華興育幼院",
+  "unit_en": null,
+  "unit_zh": null,
+  "category": "education",
+  "expertise_en": "Residential care for orphans and vulnerable children aged 3-18",
+  "expertise_zh": "收容 3–18 歲孤兒與弱勢兒童的育幼機構",
+  "interaction": [
+   "education",
+   "workshop"
+  ],
+  "dates": [],
+  "summary_en": "As inclusive education, the team adapted its \"Enzyme Heroes: Save Our Clothes!\" lesson for grades 1-7 children at Huaxing Children's Home, a residential facility for orphans and vulnerable children placed through government referrals. The session put extra emphasis on hands-on, visual and story-driven activities, split students into smaller age groups, and framed science as a tool for kindness, environmental protection and self-confidence.",
+  "summary_zh": "在包容性教育方面，團隊為華興育幼院（收容經政府轉介之孤兒與弱勢兒童的機構）一至七年級的孩子調整「酵素英雄：拯救我們的衣服！」教案，加重實作、視覺與故事活動，依年齡分成小組，並把科學呈現為善意、環境保護與自信的工具。",
+  "impact_en": "Children responded very positively; the team learned to add structured transitions, tiered tasks and more sensory/movement elements for mixed-age groups.",
+  "impact_zh": "孩子們反應熱烈；團隊也學到面對混齡學生時要加入更有結構的轉換、分級任務與更多感官／肢體活動。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "https://static.igem.wiki/teams/5729/inclusivity/making.webp",
+    "caption_en": "Students making things",
+    "caption_zh": "學生動手做"
+   },
+   {
+    "src": "https://static.igem.wiki/teams/5729/inclusivity/raisehand.webp",
+    "caption_en": "Student raising hand",
+    "caption_zh": "學生舉手發言"
+   },
+   {
+    "src": "https://static.igem.wiki/teams/5729/inclusivity/talk1.webp",
+    "caption_en": "Presenting to students",
+    "caption_zh": "為學生講解"
+   },
+   {
+    "src": "https://static.igem.wiki/teams/5729/inclusivity/talk2.webp",
+    "caption_en": "Presenting to students",
+    "caption_zh": "為學生講解"
+   }
+  ],
+  "portrait": null,
+  "website": null,
+  "city_en": "Taipei",
+  "city_zh": "臺北市",
+  "country": "TW",
+  "lat": 25.103,
+  "lng": 121.53,
+  "source_url": "https://2025.igem.wiki/gems-taiwan/inclusivity",
+  "confidence": "medium"
+ },
+ {
+  "id": "yifang-elementary-school-education",
+  "org_id": "yifang-elementary-school",
+  "year": 2025,
+  "project": "Textile Fighters",
+  "person_en": null,
+  "person_zh": null,
+  "title_en": null,
+  "title_zh": null,
+  "org_en": "Yifang Elementary School",
+  "org_zh": "新北市瑞芳區義方國民小學",
+  "unit_en": null,
+  "unit_zh": null,
+  "category": "education",
+  "expertise_en": "Rural school with fewer than 200 students",
+  "expertise_zh": "學生不到 200 人的偏鄉小學",
+  "interaction": [
+   "education"
+  ],
+  "dates": [],
+  "summary_en": "The team visited Yifang Elementary School in rural Ruifang District and taught about 38 fifth- and sixth-grade students about climate change and textile waste. Because the school had no lab, the team used simple demonstrations, interactive presentations and games.",
+  "summary_zh": "團隊前往瑞芳區偏鄉的義方國小，為約 38 名五、六年級學生講授氣候變遷與紡織廢棄物議題。由於學校沒有實驗室，團隊改用簡單示範、互動簡報與遊戲。",
+  "impact_en": "Brought climate and textile-waste education to a rural school so rural voices are included.",
+  "impact_zh": "將氣候與紡織廢棄物教育帶到偏鄉學校，讓偏鄉的聲音也能被納入。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "https://static.igem.wiki/teams/5729/inclusivity/chair.webp",
+    "caption_en": "Team member talking with students at Yifang Elementary",
+    "caption_zh": "團隊成員與義方國小學生交流"
+   }
+  ],
+  "portrait": null,
+  "website": null,
+  "city_en": "New Taipei City",
+  "city_zh": "新北市",
+  "country": "TW",
+  "lat": 25.108,
+  "lng": 121.808,
+  "source_url": "https://2025.igem.wiki/gems-taiwan/inclusivity",
+  "confidence": "high"
+ },
+ {
+  "id": "street-interview-respondents-and-flea-market-visit-community",
+  "org_id": "street-interview-respondents-and-flea-market-visit",
+  "year": 2025,
+  "project": "Textile Fighters",
+  "person_en": null,
+  "person_zh": null,
+  "title_en": null,
+  "title_zh": null,
+  "org_en": "Street-interview respondents and flea-market visitors, Taipei",
+  "org_zh": "臺北街頭受訪民眾與二手市集民眾",
+  "unit_en": null,
+  "unit_zh": null,
+  "category": "community",
+  "expertise_en": "Consumers' views on second-hand clothing, price and sustainable fashion",
+  "expertise_zh": "消費者對二手衣、價格與永續時尚的看法",
+  "interaction": [
+   "survey",
+   "interview"
+  ],
+  "dates": [],
+  "summary_en": "The team ran qualitative street interviews in Xinyi District, Zhongshan District, Miramar and Ximending, and at a second-hand market where it also sold clothing, asking about social norms, affordability and environmental awareness. Most respondents declined to wear second-hand clothes (hygiene, unfamiliarity), chose clothes mainly by style and price, and over half would pay nothing extra for sustainable items. (The team also ran a separate online KAP survey with 706 respondents.)",
+  "summary_zh": "團隊在信義區、中山區、美麗華與西門町進行質性街訪，也在一個二手市集擺攤賣衣並訪談民眾，問題涵蓋社會規範、負擔能力與環境意識。多數受訪者不願穿二手衣（衛生疑慮、不熟悉），選衣以款式與價格為主，且過半不願為永續商品多付錢。（團隊另以線上 KAP 問卷蒐集 706 份回覆。）",
+  "impact_en": "Identified societal, economic and psychological barriers that shaped the Dadaocheng event (held at Story Wear), expert talks, games and education materials.",
+  "impact_zh": "找出社會、經濟與心理障礙，進而影響大稻埕活動（在 Story Wear 舉辦）、專家演講、遊戲與教材的設計。",
+  "quote_en": "I don't think my small shopping habits will change the planet, it's the big companies that should take action.",
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "https://static.igem.wiki/teams/5729/socialresearch/interview-1.webp",
+    "caption_en": "Street interview",
+    "caption_zh": "街頭訪問"
+   },
+   {
+    "src": "https://static.igem.wiki/teams/5729/socialresearch/interview-3.webp",
+    "caption_en": "Street interview",
+    "caption_zh": "街頭訪問"
+   },
+   {
+    "src": "https://static.igem.wiki/teams/5729/socialresearch/interview-4.webp",
+    "caption_en": "Street interview",
+    "caption_zh": "街頭訪問"
+   },
+   {
+    "src": "https://static.igem.wiki/teams/5729/socialresearch/interview-5.webp",
+    "caption_en": "Street interview",
+    "caption_zh": "街頭訪問"
+   },
+   {
+    "src": "https://static.igem.wiki/teams/5729/socialresearch/interview-6.webp",
+    "caption_en": "Street interview",
+    "caption_zh": "街頭訪問"
+   },
+   {
+    "src": "https://static.igem.wiki/teams/5729/socialresearch/interview-7.webp",
+    "caption_en": "Street interview",
+    "caption_zh": "街頭訪問"
+   },
+   {
+    "src": "https://static.igem.wiki/teams/5729/socialresearch/interview-8.webp",
+    "caption_en": "Street interview",
+    "caption_zh": "街頭訪問"
+   },
+   {
+    "src": "https://static.igem.wiki/teams/5729/socialresearch/interview-9.webp",
+    "caption_en": "Street interview",
+    "caption_zh": "街頭訪問"
+   },
+   {
+    "src": "https://static.igem.wiki/teams/5729/ihp/fleaa.webp",
+    "caption_en": "Flea-market booth",
+    "caption_zh": "二手市集攤位"
+   },
+   {
+    "src": "https://static.igem.wiki/teams/5729/ihp/fleapaper.webp",
+    "caption_en": "Flea-market outreach",
+    "caption_zh": "二手市集推廣"
+   }
+  ],
+  "portrait": null,
+  "website": null,
+  "city_en": "Taipei",
+  "city_zh": "臺北市",
+  "country": "TW",
+  "lat": 25.033,
+  "lng": 121.5654,
+  "source_url": "https://2025.igem.wiki/gems-taiwan/social-research",
+  "confidence": "medium"
+ }
+]

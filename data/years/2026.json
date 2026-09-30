@@ -1,0 +1,1666 @@
+[
+ {
+  "id": "lin-weiyi",
+  "org_id": "p-lin-weiyi",
+  "year": 2026,
+  "project": "ReLeaf",
+  "person_en": "Dr. Lin",
+  "person_zh": "林維怡 博士",
+  "title_en": null,
+  "title_zh": null,
+  "org_en": null,
+  "org_zh": null,
+  "unit_en": null,
+  "unit_zh": null,
+  "category": "academia",
+  "expertise_en": "Plant and stress biology; PGPR; biosecurity",
+  "expertise_zh": "植物與逆境生物學；植物生長促進根圈細菌（PGPR）；生物安全",
+  "interaction": [
+   "interview"
+  ],
+  "dates": [
+   "2026-03-19"
+  ],
+  "summary_en": "The team's first expert interview, held online while the plant model and stress method were still open. The team asked about Medicago truncatula, PGPR, planting, plant stress and biosecurity. She suggested measuring what PGPR does to germination speed and early growth against untreated seedlings, simulating salinity by watering only every few days, and simulating drought with particles that block water uptake.",
+  "summary_zh": "團隊第一場專家訪談，於線上進行，當時植物模型與逆境方法都還沒定案。團隊請教了蒺藜苜蓿（Medicago truncatula）、PGPR、栽培、植物逆境與生物安全等問題。她建議比較有無 PGPR 處理的發芽速度與早期生長，以每隔幾天才澆水來模擬鹽害，並用阻擋植物吸水的顆粒來模擬乾旱。",
+  "impact_en": "Put both the Medicago target plant and the genetic kill switch in doubt; the team began considering a different plant, hydroponics and seedling-stage testing, and later moved biosafety onto physical containment.",
+  "impact_zh": "讓團隊開始質疑以苜蓿為目標植物及基因自殺開關的設計；之後轉向考慮更換植物、水耕與幼苗期測試，並把生物安全改由物理圍堵承擔。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "assets/photos/2026/227d88a25274.webp",
+    "caption_en": "19 March 2026. The online interview with Dr. Lin.",
+    "caption_zh": "2026 年 3 月 19 日，與林維怡博士的線上訪談。"
+   }
+  ],
+  "portrait": "assets/photos/2026/fde452e7fad2.webp",
+  "website": null,
+  "city_en": null,
+  "city_zh": null,
+  "country": "TW",
+  "lat": null,
+  "lng": null,
+  "source_url": "https://timmy97-tw.github.io/releaf-wiki/human-practices/",
+  "confidence": "medium"
+ },
+ {
+  "id": "mei-chun-cheng",
+  "org_id": "national-taiwan-university",
+  "year": 2026,
+  "project": "ReLeaf",
+  "person_en": "Prof. Mei-Chun Cheng",
+  "person_zh": "鄭梅君 教授",
+  "title_en": "Assistant Professor",
+  "title_zh": "助理教授",
+  "org_en": "National Taiwan University",
+  "org_zh": "國立臺灣大學",
+  "unit_en": "Department of Biochemical Science and Technology",
+  "unit_zh": "生化科技學系",
+  "category": "academia",
+  "expertise_en": "Plant and stress biology; Arabidopsis growth and stress assays",
+  "expertise_zh": "植物與逆境生物學；阿拉伯芥栽培與逆境試驗",
+  "interaction": [
+   "lab-visit",
+   "consultation",
+   "mentorship"
+  ],
+  "dates": [
+   "2026-03-27",
+   "2026-08-28"
+  ],
+  "summary_en": "On 27 March the team visited her lab at NTU with no plants and no protocol; she agreed with heat, salinity and drought as target stresses and Arabidopsis as the model, warned that hydroponics alone is unstable, showed her plates and home-made hydroponic boxes, and gave the team Arabidopsis seed. On 28 August the team returned with a progress report, two hydroponic boxes and eight experiment sets; her rulings (written up 2 September) set plant age at 10 to 20 days, a 200 mM salt ceiling, treatment by transfer instead of spraying, and found the gradual soil salt ramp too mild.",
+  "summary_zh": "3 月 27 日團隊在沒有植物、也沒有實驗流程的情況下拜訪她在臺大的實驗室；她認同以高溫、鹽害、乾旱為目標逆境並以阿拉伯芥為模式植物，提醒單靠水耕不穩定，示範了培養盤與自製水耕盒，並提供阿拉伯芥種子。8 月 28 日團隊帶著進度報告、兩套水耕盒與八組實驗數據回訪；她的建議（9 月 2 日整理）將植株年齡定為 10 至 20 天、鹽濃度上限 200 mM、以移植到含處理的培養盤取代噴灑，並指出土壤漸進加鹽的做法太溫和。",
+  "impact_en": "The plant model switched from Medicago to Arabidopsis on agar then soil, osmotic stress was dropped, and her hydroponic box design was copied. Her August rulings became experiment set 8 (ten-day plants treated by transfer). The development page records that she later adopted the team's design for use with her graduate students.",
+  "impact_zh": "植物模型由苜蓿改為先在洋菜培養盤、後移入土壤的阿拉伯芥，刪除滲透逆境，並仿製她的水耕盒設計。她 8 月的建議成為第 8 組實驗（十日齡植株、以移植處理）。開發頁記載她之後將團隊的設計用於她的研究生。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "assets/photos/2026/3d8bb05f293c.webp",
+    "caption_en": "27 March 2026. Prof. Cheng showing what a healthy plate looks like, at NTU.",
+    "caption_zh": "2026 年 3 月 27 日，鄭梅君教授在臺大示範健康的培養盤。"
+   },
+   {
+    "src": "assets/photos/2026/c07e8b898b97.webp",
+    "caption_en": "Her hydroponic boxes and float boards; the team copied the design.",
+    "caption_zh": "她的水耕盒與浮板，團隊之後仿製了這個設計。"
+   },
+   {
+    "src": "assets/photos/2026/b1a5bf7347f4.webp",
+    "caption_en": "The Arabidopsis seed she gave the team.",
+    "caption_zh": "她送給團隊的阿拉伯芥種子。"
+   },
+   {
+    "src": "assets/photos/2026/38e5479b2040.webp",
+    "caption_en": "27 March. The team's first outreach with a professional, at the growth cabinet.",
+    "caption_zh": "3 月 27 日，團隊第一次拜訪專家，於植物生長箱前。"
+   },
+   {
+    "src": "assets/photos/2026/e5d5296347f7.webp",
+    "caption_en": "28 August. Back at Prof. Cheng's growth chamber.",
+    "caption_zh": "8 月 28 日，回到鄭教授的生長箱前。"
+   },
+   {
+    "src": "assets/photos/2026/327ab4538484.webp",
+    "caption_en": "28 August. The newest hydroponic box prototype brought to her lab.",
+    "caption_zh": "8 月 28 日，帶去她實驗室的最新水耕盒原型。"
+   }
+  ],
+  "portrait": "assets/photos/2026/f533a047eb00.webp",
+  "website": "https://www.bst.ntu.edu.tw",
+  "city_en": "Taipei",
+  "city_zh": "臺北市",
+  "country": "TW",
+  "lat": 25.0173,
+  "lng": 121.5397,
+  "source_url": "https://timmy97-tw.github.io/releaf-wiki/plant/",
+  "confidence": "high"
+ },
+ {
+  "id": "paul-verslues",
+  "org_id": "academia-sinica",
+  "year": 2026,
+  "project": "ReLeaf",
+  "person_en": "Dr. Paul Verslues",
+  "person_zh": null,
+  "title_en": "Research Fellow",
+  "title_zh": "研究員",
+  "org_en": "Academia Sinica",
+  "org_zh": "中央研究院",
+  "unit_en": "Institute of Plant and Microbial Biology",
+  "unit_zh": "植物暨微生物學研究所",
+  "category": "research",
+  "expertise_en": "Plant drought stress; proline metabolism; stress physiology",
+  "expertise_zh": "植物乾旱逆境；脯胺酸代謝；逆境生理",
+  "interaction": [
+   "lab-visit",
+   "consultation"
+  ],
+  "dates": [
+   "2026-04-03"
+  ],
+  "summary_en": "The team visited his lab at Academia Sinica (the interview log dates it 3 April, the plant page 4 April) to discuss drought mechanisms and the proline delivery idea, and saw his growth chamber full of vertical plates. He advised optimising proline dose, checking that bacterial products leave the plant's proline-redox cycle alone, testing stress priming, measuring root growth and biomass, and prioritising early stress detection over recovery.",
+  "summary_zh": "團隊前往中研院拜訪他的實驗室（訪談紀錄記為 4 月 3 日，植物頁記為 4 月 4 日），討論乾旱機制與脯胺酸遞送構想，並參觀了擺滿垂直培養盤的生長箱。他建議優化脯胺酸劑量、確認細菌產物不干擾植物本身的脯胺酸氧化還原循環、嘗試逆境預處理（priming）、量測根長與生物量，並以及早偵測逆境優先於事後恢復。",
+  "impact_en": "The protectant concept shifted from supplying compounds toward working with the plant's own drought response. The team's vertical plate rack and humidity box were copied from what they saw there, and the gradual soil salinity ramp run in August was his proposal (later judged too mild by Prof. Cheng).",
+  "impact_zh": "保護劑構想由「直接提供化合物」轉向「調節植物自身的乾旱反應」。團隊的垂直培養架與保濕箱仿自當天所見，8 月的土壤漸進加鹽方案也是他的建議（後來鄭教授認為太溫和）。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "assets/photos/2026/9a312d52b8eb.webp",
+    "caption_en": "3 April 2026. Dr. Verslues showing his vertical plate setup.",
+    "caption_zh": "2026 年 4 月 3 日，Verslues 博士展示他的垂直培養盤裝置。"
+   },
+   {
+    "src": "assets/photos/2026/b61c43e118a4.webp",
+    "caption_en": "Academia Sinica. Vertical plates in a chamber; the team copied the rack angle.",
+    "caption_zh": "中研院，生長箱中的垂直培養盤；團隊仿照了培養架的角度。"
+   },
+   {
+    "src": "assets/photos/2026/121fb41d62a5.webp",
+    "caption_en": "His vertical plate rack.",
+    "caption_zh": "他的垂直培養架。"
+   }
+  ],
+  "portrait": "assets/photos/2026/3ee0448300e9.webp",
+  "website": "https://ipmb.sinica.edu.tw",
+  "city_en": "Taipei",
+  "city_zh": "臺北市",
+  "country": "TW",
+  "lat": 25.0433,
+  "lng": 121.6147,
+  "source_url": "https://timmy97-tw.github.io/releaf-wiki/human-practices/",
+  "confidence": "high"
+ },
+ {
+  "id": "wen-liang-chen",
+  "org_id": "national-yang-ming-chiao-tung-university",
+  "year": 2026,
+  "project": "ReLeaf",
+  "person_en": "Prof. Wen-Liang Chen",
+  "person_zh": "陳文亮 教授",
+  "title_en": "Professor; founder of AgriTalk",
+  "title_zh": "教授；農譯科技創辦人",
+  "org_en": "National Yang Ming Chiao Tung University",
+  "org_zh": "國立陽明交通大學",
+  "unit_en": "Department of Biological Science and Technology",
+  "unit_zh": "生物科技學系",
+  "category": "academia",
+  "expertise_en": "AIoT and smart agriculture; sensor-based crop management; agri-tech entrepreneurship",
+  "expertise_zh": "AIoT 與智慧農業；感測器作物管理；農業科技創業",
+  "interaction": [
+   "consultation",
+   "feedback",
+   "conference"
+  ],
+  "dates": [
+   "2026-04-10",
+   "2026-06-20",
+   "2026-07-09",
+   "2026-09-05"
+  ],
+  "summary_en": "On 10 April (online) he told the team to treat the hardware as the printer and the biofertilizer as the ink, drop soil moisture sensing, leave open-soil release for a contained bioreactor, define input-output mapping and plan beyond the small local market. On 20 June he visited the team and reviewed the math model, plant model, protectant, hydroponics, circuit and reactor, taking apart the proposed auto-filling reservoir and urging a feedback loop between model and bench; he also joined the 9 July CH Biotech visit. On 5 September he spoke at the team's public forum on smart agriculture, arguing protection should depend on whether the plant can keep growing under stress.",
+  "summary_zh": "4 月 10 日（線上）他建議把硬體當成「印表機」、生物肥料當成「墨水」，放棄土壤濕度感測，不要把工程菌釋放到開放土壤而改用封閉式生物反應器，明確定義輸入輸出，並跳脫太小的本地市場。6 月 20 日他到團隊檢視數學模型、植物模型、保護劑、水耕、基因線路與反應器，否決了自動補水槽構想，並要求模型與實驗形成回饋迴路；7 月 9 日也一同參訪正瀚生技。9 月 5 日他在團隊的公開論壇以智慧農業為題演講，主張應依植物在逆境下能否持續生長來決定保護措施。",
+  "impact_en": "Triggered the 15 April pivot from soil release to a contained, light-gated bioreactor and the cartridge (consumable) business model, plus a competitive analysis. After June the model was connected to wet-lab data, salt dose-by-time series and dissolved-oxygen monitoring were added, and he sent the team to Yes Health iFarm.",
+  "impact_zh": "促成 4 月 15 日由土壤釋放轉為封閉、光控生物反應器的轉向，以及「賣耗材（菌匣）」的商業模式與競品分析。6 月後模型與濕實驗數據串接，加入鹽濃度與處理時間系列及溶氧監測，並由他引薦參訪源鮮智慧農場。",
+  "quote_en": "Design the hardware as the printer and the biofertilizer as the ink.",
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "assets/photos/2026/32f62e4749d1.webp",
+    "caption_en": "10 April 2026. The online meeting with Prof. Chen.",
+    "caption_zh": "2026 年 4 月 10 日，與陳文亮教授的線上會議。"
+   },
+   {
+    "src": "assets/photos/2026/df74f30d6c2c.webp",
+    "caption_en": "Prof. Chen reviewing the team's slides.",
+    "caption_zh": "陳教授檢視團隊的簡報。"
+   },
+   {
+    "src": "assets/photos/2026/85a0ecd4c0e9.webp",
+    "caption_en": "20 June. Prof. Chen taking apart the auto-filling reservoir the team had proposed.",
+    "caption_zh": "6 月 20 日，陳教授否決團隊提出的自動補水槽構想。"
+   },
+   {
+    "src": "assets/photos/2026/e76be7b463fa.webp",
+    "caption_en": "20 June. Pitching the project to Prof. Chen.",
+    "caption_zh": "6 月 20 日，向陳教授簡報專案。"
+   },
+   {
+    "src": "assets/photos/2026/2ed3a5af61bb.webp",
+    "caption_en": "20 June. Prototype review with Prof. Chen.",
+    "caption_zh": "6 月 20 日，與陳教授檢視原型。"
+   },
+   {
+    "src": "assets/photos/2026/b837df0defe9.webp",
+    "caption_en": "5 September. Prof. Chen speaking at the team's forum.",
+    "caption_zh": "9 月 5 日，陳教授在團隊論壇演講。"
+   }
+  ],
+  "portrait": "assets/photos/2026/bf8dc5a40a5c.webp",
+  "website": "https://www.agritalk.com.tw",
+  "city_en": "Hsinchu",
+  "city_zh": "新竹市",
+  "country": "TW",
+  "lat": 24.7869,
+  "lng": 120.9975,
+  "source_url": "https://timmy97-tw.github.io/releaf-wiki/human-practices/",
+  "confidence": "medium"
+ },
+ {
+  "id": "jennifer-brophy",
+  "org_id": "stanford-university",
+  "year": 2026,
+  "project": "ReLeaf",
+  "person_en": "Dr. Jennifer Brophy",
+  "person_zh": null,
+  "title_en": "Assistant Professor",
+  "title_zh": "助理教授",
+  "org_en": "Stanford University",
+  "org_zh": "史丹佛大學",
+  "unit_en": "Department of Bioengineering",
+  "unit_zh": "生物工程學系",
+  "category": "academia",
+  "expertise_en": "Plant synthetic biology; gene circuit design; biocontainment",
+  "expertise_zh": "植物合成生物學；基因線路設計；生物圍堵",
+  "interaction": [
+   "consultation"
+  ],
+  "dates": [
+   "2026-04-18"
+  ],
+  "summary_en": "Online meeting in which the team reviewed its signal-route options and the B. subtilis circuit and hardware design with her. She highlighted several problems with relying on a kill switch (kill switches can mutate away) and advised making physical containment the primary safety mechanism, with a semi-permeable membrane that keeps bacteria in and lets protectant out.",
+  "summary_zh": "線上會議中，團隊與她討論訊號路徑選項以及枯草桿菌的基因線路與硬體設計。她指出只依賴自殺開關的多項問題（自殺開關可能因突變失效），建議以物理圍堵為主要安全機制，並設計能留住細菌、讓保護劑通過的半透膜。",
+  "impact_en": "Physical containment became the primary biosafety layer, a kill switch was demoted to an optional second layer, and the hollow-fibre membrane design followed a week later.",
+  "impact_zh": "物理圍堵成為主要生物安全機制，自殺開關降為可選的第二層防護；一週後團隊畫出中空纖維膜設計。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "assets/photos/2026/a1f783f353f0.webp",
+    "caption_en": "18 April 2026. Dr. Brophy reviewing the signal routes the team was weighing.",
+    "caption_zh": "2026 年 4 月 18 日，Brophy 博士檢視團隊考慮中的訊號路徑。"
+   }
+  ],
+  "portrait": "assets/photos/2026/ad3728c3d607.webp",
+  "website": "https://bioengineering.stanford.edu",
+  "city_en": "Stanford, CA",
+  "city_zh": "加州史丹佛",
+  "country": "US",
+  "lat": 37.4275,
+  "lng": -122.1697,
+  "source_url": "https://timmy97-tw.github.io/releaf-wiki/human-practices/",
+  "confidence": "medium"
+ },
+ {
+  "id": "taipei-expo-farmers-market-community",
+  "org_id": "taipei-expo-farmers-market",
+  "year": 2026,
+  "project": "ReLeaf",
+  "person_en": null,
+  "person_zh": null,
+  "title_en": null,
+  "title_zh": null,
+  "org_en": "Taipei Expo Farmers' Market (smallholder and organic farmers)",
+  "org_zh": "花博農民市集",
+  "unit_en": null,
+  "unit_zh": null,
+  "category": "community",
+  "expertise_en": "Smallholder and organic farming practice",
+  "expertise_zh": "小農與有機耕作實務",
+  "interaction": [
+   "interview",
+   "survey"
+  ],
+  "dates": [
+   "2026-05-16"
+  ],
+  "summary_en": "The team's first farmer outreach: members interviewed organic and smallholder stallholders at the Taipei Expo Farmers' Market about which environmental stresses hurt their crops most and how they feel about technology on the farm. Farmers named pests, pathogens, water shortage and unpredictable weather before salt, and the cost of every fix.",
+  "summary_zh": "團隊第一次農民外展：在花博農民市集訪談有機與小農攤商，詢問哪些環境逆境對作物影響最大，以及他們對農業科技的看法。農民先提到的是病蟲害、缺水與難以預測的天氣，其次才是鹽害，以及每種解方的成本。",
+  "impact_en": "Biotic stress entered the project scope (forecasting and farmer tools), the business plan had to answer that technology must be affordable, accessible and practical, and the finding that information never reaches farmers led to the 農友助手 LINE platform.",
+  "impact_zh": "將生物性逆境納入專案範圍（預測與農民工具），商業計畫須回應「科技要便宜、易取得、實用」的要求；而「資訊到不了農民手上」的發現促成了「農友助手」LINE 平台。",
+  "quote_en": "Diseases and pests have led to a decrease in our crop yields. (a farmer from Hualien)",
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "assets/photos/2026/9f160644233b.webp",
+    "caption_en": "16 May 2026, Taipei Expo Farmers Market.",
+    "caption_zh": "2026 年 5 月 16 日，花博農民市集。"
+   },
+   {
+    "src": "assets/photos/2026/fdf61fb69e05.webp",
+    "caption_en": "The team with farmers at the Taipei farmers' expo.",
+    "caption_zh": "團隊與花博市集的農友合影。"
+   },
+   {
+    "src": "assets/photos/2026/45ad39b4fbb9.webp",
+    "caption_en": "Interviewing stallholders about what goes wrong in their fields.",
+    "caption_zh": "訪談攤商田間遇到的問題。"
+   },
+   {
+    "src": "assets/photos/2026/9c42bdc57067.webp",
+    "caption_en": "An interview at the market.",
+    "caption_zh": "市集中的訪談。"
+   },
+   {
+    "src": "assets/photos/2026/c241b5726633.webp",
+    "caption_en": "Farmer Expo, 16 May.",
+    "caption_zh": "5 月 16 日，花博農民市集。"
+   }
+  ],
+  "portrait": null,
+  "website": null,
+  "city_en": "Taipei",
+  "city_zh": "臺北市",
+  "country": "TW",
+  "lat": 25.0697,
+  "lng": 121.5198,
+  "source_url": "https://timmy97-tw.github.io/releaf-wiki/human-practices/",
+  "confidence": "high"
+ },
+ {
+  "id": "world-vegetable-center",
+  "org_id": "world-vegetable-center",
+  "year": 2026,
+  "project": "ReLeaf",
+  "person_en": null,
+  "person_zh": null,
+  "title_en": null,
+  "title_zh": null,
+  "org_en": "World Vegetable Center",
+  "org_zh": "世界蔬菜中心",
+  "unit_en": null,
+  "unit_zh": null,
+  "category": "research",
+  "expertise_en": "Smallholder vegetable farming; climate resilience; biotic and abiotic stress",
+  "expertise_zh": "小農蔬菜生產；氣候韌性；生物與非生物逆境",
+  "interaction": [
+   "interview"
+  ],
+  "dates": [
+   "2026-05-22"
+  ],
+  "summary_en": "Online meeting on the challenges smallholder farmers face, including climate resilience and the combined effect of biotic and abiotic stresses. They advised staying with heat stress, since other stresses are harder to combat, sensing root pressure if pathogens are addressed, and aiming for a sustainable-farming label.",
+  "summary_zh": "線上會議，討論小農面臨的挑戰，包括氣候韌性以及生物與非生物逆境的共同影響。他們建議專注在高溫逆境（其他逆境較難對付），若要處理病原可改為偵測根壓，並以永續農業標章為目標。",
+  "impact_en": "The team recognised it must show the product is environmentally safe, beneficial and sustainable to win acceptance from traditional and natural farmers, added GMO regulatory research, and targeted a sustainable-farming label rather than organic certification.",
+  "impact_zh": "團隊體認到必須證明產品對環境安全、有益且永續，才能被傳統與自然農法農民接受；因此加入基改法規研究，並以永續農業標章而非有機驗證為目標。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "assets/photos/2026/7c9bfbabb255.webp",
+    "caption_en": "22 May 2026. Meeting with the World Vegetable Center.",
+    "caption_zh": "2026 年 5 月 22 日，與世界蔬菜中心會議。"
+   }
+  ],
+  "portrait": null,
+  "website": "https://avrdc.org",
+  "city_en": "Tainan",
+  "city_zh": "臺南市",
+  "country": "TW",
+  "lat": 23.1435,
+  "lng": 120.3197,
+  "source_url": "https://timmy97-tw.github.io/releaf-wiki/human-practices/",
+  "confidence": "high"
+ },
+ {
+  "id": "jo-shu-chang",
+  "org_id": "national-cheng-kung-university",
+  "year": 2026,
+  "project": "ReLeaf",
+  "person_en": "Prof. Jo-Shu Chang",
+  "person_zh": "張嘉修 教授",
+  "title_en": "Chair Professor",
+  "title_zh": "講座教授",
+  "org_en": "National Cheng Kung University",
+  "org_zh": "國立成功大學",
+  "unit_en": "Department of Chemical Engineering",
+  "unit_zh": "化學工程學系",
+  "category": "academia",
+  "expertise_en": "Biomanufacturing and bioreactor engineering; B. subtilis bioprocess; membrane reactors",
+  "expertise_zh": "生物製造與生物反應器工程；枯草桿菌生物製程；膜反應器",
+  "interaction": [
+   "consultation",
+   "feedback"
+  ],
+  "dates": [
+   "2026-06-18",
+   "2026-09-04"
+  ],
+  "summary_en": "On 18 June he visited the team to review the hollow-fibre membrane bioreactor: he advised on B. subtilis growth conditions, breaking foam mechanically (or a surfactant-deficient strain / defoamer), monitoring flow rate and transmembrane pressure to catch membrane caking, noted the membrane may be oversized, and found there was no driving force to push protectant through the membrane. On 4 September he returned to see the running reactor and wet-lab data, worked through protectant and cells crossing the membrane with no driving force, asked for a repeat 22 °C growth test and a plasmid stability check, and urged designing for the farmer who must operate it.",
+  "summary_zh": "6 月 18 日他到團隊檢視中空纖維膜生物反應器：建議枯草桿菌的培養條件、以機械方式破泡（或用缺界面活性素菌株、消泡劑），監測流速與跨膜壓差以及早發現膜結垢，指出膜可能過大，並發現設計中沒有推動保護劑穿過膜的驅動力。9 月 4 日他再度來訪，看了運轉中的反應器與濕實驗數據，協助分析保護劑與菌體在無驅動力下穿膜的問題，要求重做 22 °C 生長試驗與質體穩定性檢查，並提醒要為實際操作的農民設計。",
+  "impact_en": "A stepper pinch valve after the membrane was posted the next day (later a servo), transmembrane pressure went onto a live screen, and pressure-tracking and foam-breaking entered the hardware spec. After September the design moved toward a modular, replaceable bacterial capsule with AIoT control; the passive membrane leak remains an open item.",
+  "impact_zh": "隔天團隊就提出膜後的步進馬達夾管閥（後改為伺服），跨膜壓差改為即時顯示，壓力追蹤與破泡機制寫入硬體規格。9 月後設計轉向模組化、可更換的菌匣與 AIoT 控制；膜在靜止時滲漏的問題仍待解決。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "assets/photos/2026/0051763501ec.webp",
+    "caption_en": "18 June 2026. Prof. Chang on flow, foaming and pressure.",
+    "caption_zh": "2026 年 6 月 18 日，張嘉修教授談流速、起泡與壓力。"
+   },
+   {
+    "src": "assets/photos/2026/55038fa71b85.webp",
+    "caption_en": "The same afternoon, going through the reactor design.",
+    "caption_zh": "同一天下午，逐步檢視反應器設計。"
+   },
+   {
+    "src": "assets/photos/2026/8412efdf457b.webp",
+    "caption_en": "18 June. Pitching the project to Prof. Chang.",
+    "caption_zh": "6 月 18 日，向張教授簡報專案。"
+   },
+   {
+    "src": "assets/photos/2026/683b4dd2a503.webp",
+    "caption_en": "18 June. Introducing the bioreactor.",
+    "caption_zh": "6 月 18 日，介紹生物反應器。"
+   },
+   {
+    "src": "assets/photos/2026/c81922888a05.webp",
+    "caption_en": "18 June 2026. Prof. Chang looking at the students' second-generation prototype design.",
+    "caption_zh": "2026-06-18　張嘉修教授看學生的第二代原型設計。"
+   }
+  ],
+  "portrait": "assets/photos/2026/36de3c9968f5.webp",
+  "website": "https://www.che.ncku.edu.tw",
+  "city_en": "Tainan",
+  "city_zh": "臺南市",
+  "country": "TW",
+  "lat": 22.9968,
+  "lng": 120.2169,
+  "source_url": "https://timmy97-tw.github.io/releaf-wiki/human-practices/",
+  "confidence": "high"
+ },
+ {
+  "id": "elizabeth-sattely",
+  "org_id": "stanford-university",
+  "year": 2026,
+  "project": "ReLeaf",
+  "person_en": "Dr. Elizabeth Sattely",
+  "person_zh": null,
+  "title_en": null,
+  "title_zh": null,
+  "org_en": "Stanford University",
+  "org_zh": "史丹佛大學",
+  "unit_en": "Department of Chemical Engineering",
+  "unit_zh": "化學工程學系",
+  "category": "academia",
+  "expertise_en": "Plant biochemistry; plant metabolic pathways; protectant design",
+  "expertise_zh": "植物生化；植物代謝路徑；保護劑設計",
+  "interaction": [
+   "consultation",
+   "feedback"
+  ],
+  "dates": [
+   "2026-06-27",
+   "2026-09-12"
+  ],
+  "summary_en": "On 27 June (online) she evaluated the protectant selection, delivery strategy and project direction, said the proof of concept as planned might not succeed, and told the team to write down goals and milestones, do one stress well, validate the purified protectant on plants before integrating it, and consider peptides. On 12 September she reviewed the work again with Prof. Drew Endy, focusing on experimental design, controls and showing that the bacteria make and secrete ACC deaminase.",
+  "summary_zh": "6 月 27 日（線上）她評估了保護劑選擇、遞送策略與整體方向，指出原本的概念驗證可能不成立，要求團隊寫下目標與里程碑、專注把一種逆境做好、先把純化保護劑直接施用在植物上驗證再整合進系統，並考慮胜肽類分子。9 月 12 日她與 Drew Endy 教授再次審閱，重點放在實驗設計、對照組，以及證明細菌確實產生並分泌 ACC 去胺酶。",
+  "impact_en": "Direct plant assays with applied protectant (including CH Biotech's peptide as set 7) came before reactor integration, a peptide design track began, and the protectant set was fixed to ACC deaminase, BoPep4 and LEA14. After September, controls were expanded and ACCD verification at RNA and protein level was added.",
+  "impact_zh": "先以直接施用保護劑的植物試驗驗證（包括以正瀚生技胜肽為第 7 組），再整合進反應器；開啟胜肽設計分支，並將保護劑定為 ACC 去胺酶、BoPep4 與 LEA14。9 月後擴充對照組，並加入 RNA 與蛋白層級的 ACCD 驗證。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "assets/photos/2026/857860aba88c.webp",
+    "caption_en": "27 June 2026. Online meeting with Dr. Sattely.",
+    "caption_zh": "2026 年 6 月 27 日，與 Sattely 博士的線上會議。"
+   },
+   {
+    "src": "assets/photos/2026/4442fdf8bb45.webp",
+    "caption_en": "27 June. Pitching the project to Prof. Sattely from Stanford University.",
+    "caption_zh": "6 月 27 日，向史丹佛大學 Sattely 教授簡報專案。"
+   },
+   {
+    "src": "assets/photos/2026/773447ea501e.webp",
+    "caption_en": "12 September. The second Stanford review, with Prof. Endy.",
+    "caption_zh": "9 月 12 日，第二次史丹佛審閱，Endy 教授同席。"
+   }
+  ],
+  "portrait": "assets/photos/2026/ef9b68bc8248.webp",
+  "website": "https://cheme.stanford.edu",
+  "city_en": "Stanford, CA",
+  "city_zh": "加州史丹佛",
+  "country": "US",
+  "lat": 37.4275,
+  "lng": -122.1697,
+  "source_url": "https://timmy97-tw.github.io/releaf-wiki/human-practices/",
+  "confidence": "high"
+ },
+ {
+  "id": "drew-endy",
+  "org_id": "stanford-university",
+  "year": 2026,
+  "project": "ReLeaf",
+  "person_en": "Prof. Drew Endy",
+  "person_zh": null,
+  "title_en": "Professor",
+  "title_zh": "教授",
+  "org_en": "Stanford University",
+  "org_zh": "史丹佛大學",
+  "unit_en": "Department of Bioengineering",
+  "unit_zh": "生物工程學系",
+  "category": "academia",
+  "expertise_en": "Synthetic biology; biological engineering",
+  "expertise_zh": "合成生物學；生物工程",
+  "interaction": [
+   "consultation",
+   "feedback"
+  ],
+  "dates": [
+   "2026-09-12"
+  ],
+  "summary_en": "Joined Dr. Sattely for the team's second Stanford review (online). They focused on how the team presents its experimental design, controls, mechanism and the role of ACCD, told the team to distinguish clearly between the engineered B. subtilis and the protectant delivered to plants, to show the bacteria produce and secrete ACCD, and to say what each experiment was for and what its result shows. He also made the same point as the NCHU symposium about stating the finding in every slide title.",
+  "summary_zh": "與 Sattely 博士一同進行團隊第二次史丹佛審閱（線上）。他們著重團隊如何呈現實驗設計、對照組、作用機制與 ACCD 的角色，要求清楚區分工程枯草桿菌與實際遞送給植物的保護劑、證明細菌能產生並分泌 ACCD，並說明每個實驗的目的與結果代表什麼。他也提出與中興大學研討會相同的建議：每張投影片標題要直接寫出發現。",
+  "impact_en": "Controls were expanded to isolate bacterial output from plant responses, RNA and protein verification of ACCD was added, and the narrative was restructured to separate the biological mechanism from the hardware delivery platform.",
+  "impact_zh": "擴充對照組以區分菌體產物與植物反應，加入 ACCD 的 RNA 與蛋白層級驗證，並重整敘事，把生物機制與硬體遞送平台分開說明。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "assets/photos/2026/773447ea501e.webp",
+    "caption_en": "12 September 2026. Online meeting with Dr. Sattely and Prof. Endy.",
+    "caption_zh": "2026 年 9 月 12 日，與 Sattely 博士及 Endy 教授的線上會議。"
+   }
+  ],
+  "portrait": "assets/photos/2026/ad7f91bc4577.webp",
+  "website": "https://bioengineering.stanford.edu",
+  "city_en": "Stanford, CA",
+  "city_zh": "加州史丹佛",
+  "country": "US",
+  "lat": 37.4275,
+  "lng": -122.1697,
+  "source_url": "https://timmy97-tw.github.io/releaf-wiki/human-practices/",
+  "confidence": "high"
+ },
+ {
+  "id": "green-media",
+  "org_id": "green-media",
+  "year": 2026,
+  "project": "ReLeaf",
+  "person_en": null,
+  "person_zh": null,
+  "title_en": null,
+  "title_zh": null,
+  "org_en": "Green Media",
+  "org_zh": "綠媒體",
+  "unit_en": null,
+  "unit_zh": null,
+  "category": "media",
+  "expertise_en": "Agricultural and green-living media; co-runs the Water Garden Organic Farmers' Market",
+  "expertise_zh": "農業與綠色生活媒體；共同經營水花園有機農夫市集",
+  "interaction": [
+   "consultation",
+   "partnership",
+   "conference"
+  ],
+  "dates": [
+   "2026-07-07",
+   "2026-09-05"
+  ],
+  "summary_en": "In an early-July meeting Green Media explained that farmers, researchers and media hold different views on farming and that farmers may raise problems the team had not anticipated. On 5 September Green Media hosted the team's public forum 'Field Dialogue: Agricultural Solutions to Climate Change' at the Taipei Water Garden Organic Farmers' Market (more than 50 participants), alongside its own Taiwanese coffee and cocoa event, and afterwards published an article covering the forum.",
+  "summary_zh": "7 月初的會議中，綠媒體提醒團隊：農民、研究者與媒體看待農業的角度不同，農民也可能提出團隊沒預料到的問題。9 月 5 日綠媒體在臺北水花園有機農夫市集主辦團隊的公開論壇「田間對話：氣候變遷下的農業解方」（逾 50 人參加），同時結合其臺灣咖啡與可可活動，會後並刊出報導文章。",
+  "impact_en": "The forum was restructured into three parts ending with an open floor so every participant, especially farmers, could speak; that session produced the two farmer questions on organic certification and units per farm. The team added a coffee and cocoa climate infographic booth, and the article increased the project's visibility.",
+  "impact_zh": "論壇因此改為三段式並以開放討論收尾，讓每位參與者（特別是農民）都能發言；農民關於有機驗證與每塊田需要幾台設備的兩個問題即出自這個環節。團隊另設咖啡與可可氣候資訊圖攤位，報導文章也提高了專案的能見度。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "assets/photos/2026/355381f7d5d1.webp",
+    "caption_en": "5 September 2026. The forum auditorium during the expert session.",
+    "caption_zh": "2026 年 9 月 5 日，專家分享時段的論壇會場。"
+   },
+   {
+    "src": "assets/photos/2026/488ec916b58d.webp",
+    "caption_en": "The coffee and cocoa event the team joined with Green Media.",
+    "caption_zh": "團隊與綠媒體合作的咖啡與可可活動。"
+   },
+   {
+    "src": "assets/photos/2026/6d3d4b56f2ec.webp",
+    "caption_en": "The team at the Taipei Water Garden Organic Farmers' Market, 5 September.",
+    "caption_zh": "9 月 5 日，團隊於臺北水花園有機農夫市集。"
+   }
+  ],
+  "portrait": null,
+  "website": "https://greenmedia.today",
+  "city_en": "Taipei",
+  "city_zh": "臺北市",
+  "country": "TW",
+  "lat": 25.0109,
+  "lng": 121.53,
+  "source_url": "https://timmy97-tw.github.io/releaf-wiki/human-practices/",
+  "confidence": "high"
+ },
+ {
+  "id": "ch-biotech",
+  "org_id": "ch-biotech",
+  "year": 2026,
+  "project": "ReLeaf",
+  "person_en": null,
+  "person_zh": null,
+  "title_en": null,
+  "title_zh": null,
+  "org_en": "CH Biotech (Cheng Han Biotechnology)",
+  "org_zh": "正瀚生技股份有限公司",
+  "unit_en": null,
+  "unit_zh": null,
+  "category": "industry",
+  "expertise_en": "Plant biostimulants and bioprotectants; product registration and regulation",
+  "expertise_zh": "植物生物刺激素與生物保護劑；產品登記與法規",
+  "interaction": [
+   "site-visit",
+   "consultation",
+   "conference"
+  ],
+  "dates": [
+   "2026-07-09",
+   "2026-09-05"
+  ],
+  "summary_en": "On 9 July the team (with Prof. Chen) visited CH Biotech: researchers walked them past their published work and product line, and researcher Yuan Chiu-Ying (袁秋英) gave a regulatory briefing comparing fertilizer and pesticide pathways and permit requirements in Taiwan and abroad. They advised that different crops and protectants need different application methods, that cost per area decides usability, and that efficacy under heat or drought must be shown with several phenotypic measurements, and they gave the team their peptide product 富肽2號. On 5 September a CH Biotech expert spoke at the team's forum on using agricultural waste (e.g. feathers) to make signal-peptide biostimulants and on balancing growth and defence.",
+  "summary_zh": "7 月 9 日團隊與陳文亮教授一同參訪正瀚生技：研究人員帶領參觀其發表成果與產品線，研究員袁秋英並進行法規簡報，比較臺灣與各國肥料與農藥兩條路徑及許可證所需文件。他們建議不同作物與保護劑需要不同施用方式、單位面積成本決定可行性，並須以多項表型與生理指標證明在高溫或乾旱下的效果，也提供了胜肽產品「富肽2號」。9 月 5 日一位正瀚專家在團隊論壇分享以羽毛等農業廢棄物製作訊號胜肽生物刺激素，並強調生長與防禦之間的平衡。",
+  "impact_en": "富肽2號 became experiment set 7 (1:500, three treatment timings) and the positive control; the team compared root irrigation, foliar and drone spraying and cost per area, added computational screening and truncated peptides, and grounded its Laws and Regulations analysis in the CH Biotech briefing. The Wu summary notes the team's current regulatory positioning came from this conversation.",
+  "impact_zh": "「富肽2號」成為第 7 組實驗（1:500、三種處理時機）與陽性對照；團隊比較根部灌注、葉面噴灑與無人機噴灑及單位面積成本，加入計算篩選與截短胜肽，並以正瀚的簡報作為法規頁分析的基礎。給吳主任的摘要也提到，團隊目前的法規定位來自這次談話。",
+  "quote_en": "Different crops and protectants require different application methods.",
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "assets/photos/2026/5e9ec2af83e4.webp",
+    "caption_en": "9 July 2026. CH Biotech's research wall and finished bottles.",
+    "caption_zh": "2026 年 7 月 9 日，正瀚生技的研究成果牆與產品。"
+   },
+   {
+    "src": "assets/photos/2026/6a02107f48f1.webp",
+    "caption_en": "With the CH Biotech researchers.",
+    "caption_zh": "與正瀚生技研究人員合影。"
+   },
+   {
+    "src": "assets/photos/2026/1df528868fc6.webp",
+    "caption_en": "Their regulatory specialist on registering a biostimulant.",
+    "caption_zh": "法規專員說明生物刺激素的登記流程。"
+   },
+   {
+    "src": "assets/photos/2026/0650dd85c99a.webp",
+    "caption_en": "富肽2號 on the way back to the lab; diluted 1:500 it became set 7.",
+    "caption_zh": "帶回實驗室的富肽2號，稀釋 1:500 成為第 7 組實驗。"
+   },
+   {
+    "src": "assets/photos/2026/4e9bb14f4c48.webp",
+    "caption_en": "Visiting CH Biotech.",
+    "caption_zh": "參訪正瀚生技。"
+   },
+   {
+    "src": "assets/photos/2026/6f89dc35a288.webp",
+    "caption_en": "5 September. Growth against defence: the biostimulant perspective at the forum.",
+    "caption_zh": "9 月 5 日，論壇上的生物刺激素觀點：生長與防禦的平衡。"
+   }
+  ],
+  "portrait": null,
+  "website": "https://www.chbio.com",
+  "city_en": "Nantou County",
+  "city_zh": "南投縣",
+  "country": "TW",
+  "lat": 23.957,
+  "lng": 120.687,
+  "source_url": "https://timmy97-tw.github.io/releaf-wiki/human-practices/",
+  "confidence": "high"
+ },
+ {
+  "id": "bio-asia-taiwan-exhibition-2026",
+  "org_id": "bio-asia-taiwan-exhibition-2026",
+  "year": 2026,
+  "project": "ReLeaf",
+  "person_en": null,
+  "person_zh": null,
+  "title_en": null,
+  "title_zh": null,
+  "org_en": "BIO Asia-Taiwan Exhibition 2026 (exhibitors, experts and researchers)",
+  "org_zh": "2026 亞洲生技大展",
+  "unit_en": null,
+  "unit_zh": null,
+  "category": "industry",
+  "expertise_en": "Biotechnology industry; bioprocess equipment; commercial bioreactors",
+  "expertise_zh": "生技產業；生物製程設備；商用生物反應器",
+  "interaction": [
+   "conference",
+   "consultation"
+  ],
+  "dates": [
+   "2026-07-18"
+  ],
+  "summary_en": "The team visited the exhibition and talked to companies, experts and researchers at several booths, including hollow-fibre setups and a commercial reactor with oxygen control. Booths repeatedly told them that B. subtilis survival and protein output depend on dissolved-oxygen monitoring and active aeration or stirring, not passive containment alone, and that stress tolerance depends on how protective molecules are regulated, not only their presence.",
+  "summary_zh": "團隊參觀亞洲生技大展，在多個攤位與廠商、專家與研究人員交流，包括中空纖維裝置與具氧氣控制的商用反應器。多個攤位都指出，枯草桿菌的存活與蛋白產量取決於溶氧監測與主動曝氣／攪拌，而非單靠被動圍堵；植物耐逆性也取決於保護分子如何被調控，而不只是有沒有。",
+  "impact_en": "An oxygen sensor and feedback loop moved up the hardware list (pH and DO sensors tested 5 August), some validation was to move to soil with larger samples, GMO rules in Taiwan, the Philippines, Malaysia and the EU went onto the research list, and agricultural-waste media such as hay infusion entered the business plan.",
+  "impact_zh": "氧氣感測器與回饋控制在硬體清單中優先排序（8 月 5 日測試 pH 與溶氧感測器）；部分驗證改到土壤並擴大樣本；臺灣、菲律賓、馬來西亞與歐盟的基改法規列入研究；乾草浸液等農業廢棄物培養基納入商業計畫。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "assets/photos/2026/03a482de9a4d.webp",
+    "caption_en": "18 July 2026. A hollow-fibre setup at the exhibition.",
+    "caption_zh": "2026 年 7 月 18 日，展場上的中空纖維裝置。"
+   },
+   {
+    "src": "assets/photos/2026/75fca8b2175a.webp",
+    "caption_en": "A commercial reactor with oxygen control.",
+    "caption_zh": "具氧氣控制的商用反應器。"
+   },
+   {
+    "src": "assets/photos/2026/997e489cc7e8.webp",
+    "caption_en": "At the BIO Asia-Taiwan Exhibition.",
+    "caption_zh": "於亞洲生技大展。"
+   }
+  ],
+  "portrait": null,
+  "website": "https://www.bioasiataiwan.com",
+  "city_en": "Taipei",
+  "city_zh": "臺北市",
+  "country": "TW",
+  "lat": 25.0566,
+  "lng": 121.6175,
+  "source_url": "https://timmy97-tw.github.io/releaf-wiki/human-practices/",
+  "confidence": "high"
+ },
+ {
+  "id": "chen-hui-wen",
+  "org_id": "happy-farm-tamsui",
+  "year": 2026,
+  "project": "ReLeaf",
+  "person_en": "Ms. Chen Hui-wen",
+  "person_zh": "陳惠雯 老師",
+  "title_en": "Natural farmer",
+  "title_zh": "自然農法農友",
+  "org_en": "Happy Farm, Tamsui",
+  "org_zh": "淡水幸福農莊",
+  "unit_en": null,
+  "unit_zh": null,
+  "category": "community",
+  "expertise_en": "Natural farming without fertilizer or protectants; soil reading; seed saving",
+  "expertise_zh": "不施肥、不用保護劑的自然農法；看土；留種",
+  "interaction": [
+   "site-visit",
+   "interview",
+   "feedback"
+  ],
+  "dates": [
+   "2026-07-21",
+   "2026-09-16"
+  ],
+  "summary_en": "On 21 July she invited the team to her farm in Tamsui, where they harvested okra and luffa, knelt in her beds while she read the soil, and ate lunch cooked from what they picked. As a natural farmer she doubted whether technology helps at all and warned that over-intervention can stop plants building their own resilience; she also described seed lost to typhoons and floods and asked for a way for growers to exchange seed. An online follow-up call was held on 16 September.",
+  "summary_zh": "7 月 21 日她邀請團隊到她在淡水的農場，一起採收秋葵與絲瓜，蹲在田畦間看她如何讀土，並吃她用採收的菜煮的午餐。身為自然農法農友，她質疑科技是否真的有幫助，並提醒過度介入會讓植物失去自己建立韌性的能力；她也提到颱風、淹水後種子流失，希望有讓農友交換種子的管道。9 月 16 日團隊與她進行線上追蹤訪談。",
+  "impact_en": "Her concern set a design principle: act only on forecast stress, at a validated dose, and then stop, which shaped how much protectant the business plan releases. Two days later the team prototyped a seed exchange platform, now part of the 農友助手 LINE account.",
+  "impact_zh": "她的顧慮成為設計原則：只在預測到逆境時、以驗證過的劑量作用，之後就停止，並影響商業計畫中保護劑的釋放量。兩天後團隊做出種子交換平台原型，現已納入「農友助手」LINE 帳號。",
+  "quote_en": "Sometimes, giving too much is not necessarily beneficial for a living organism; instead, it can take away its ability to survive and thrive on its own.",
+  "quote_zh": "給太多，會拿走它自己活下去的能力。",
+  "photos": [
+   {
+    "src": "assets/photos/2026/af210f2b5548.webp",
+    "caption_en": "21 July 2026. Ms. Chen showing what she reads in the soil.",
+    "caption_zh": "2026 年 7 月 21 日，陳惠雯老師示範如何讀土。"
+   },
+   {
+    "src": "assets/photos/2026/d432d79e0577.webp",
+    "caption_en": "The team with Ms. Chen at Happy Farm, Tamsui.",
+    "caption_zh": "團隊與陳老師在淡水幸福農莊合影。"
+   },
+   {
+    "src": "assets/photos/2026/e8d9ca6c9295.webp",
+    "caption_en": "Harvesting okra with her.",
+    "caption_zh": "與她一起採收秋葵。"
+   },
+   {
+    "src": "assets/photos/2026/364addf566de.webp",
+    "caption_en": "Lunch from what was picked, and the conversation about seed.",
+    "caption_zh": "用採收的菜煮午餐，談到種子的話題。"
+   },
+   {
+    "src": "assets/photos/2026/efca03c0039b.webp",
+    "caption_en": "21 July 2026. Tamsui Happy Farm, Ms. Chen Hui-wen.",
+    "caption_zh": "2026-07-21　淡水幸福農莊，陳惠雯老師。"
+   },
+   {
+    "src": "assets/photos/2026/0e712918c289.webp",
+    "caption_en": "16 September. The online follow-up call with Ms. Chen.",
+    "caption_zh": "9 月 16 日，與陳老師的線上追蹤訪談。"
+   }
+  ],
+  "portrait": "assets/photos/2026/938d4a79fed0.webp",
+  "website": null,
+  "city_en": "New Taipei City",
+  "city_zh": "新北市",
+  "country": "TW",
+  "lat": 25.17,
+  "lng": 121.44,
+  "source_url": "https://timmy97-tw.github.io/releaf-wiki/human-practices/",
+  "confidence": "high"
+ },
+ {
+  "id": "dean-chieh-chen-huang",
+  "org_id": "national-chung-hsing-university",
+  "year": 2026,
+  "project": "ReLeaf",
+  "person_en": "Dean Chieh-Chen Huang",
+  "person_zh": "黃介辰 院長",
+  "title_en": "Distinguished Professor; Dean, College of Life Sciences",
+  "title_zh": "特聘教授；生命科學院院長",
+  "org_en": "National Chung Hsing University",
+  "org_zh": "國立中興大學",
+  "unit_en": "Department of Life Sciences",
+  "unit_zh": "生命科學系",
+  "category": "academia",
+  "expertise_en": "Synthetic biology; microbiology; Bacillus genetics; plant endosymbiotic bacteria",
+  "expertise_zh": "合成生物學；微生物學；芽孢桿菌遺傳；植物內生菌",
+  "interaction": [
+   "consultation",
+   "lab-visit"
+  ],
+  "dates": [
+   "2026-07-28",
+   "2026-08-06"
+  ],
+  "summary_en": "On 28 July (online) he advised on timing, dose, sensing and application: biostimulants last longest applied at the seedling stage, too much stress or protectant harms the plant so thresholds and doses must be validated, and the reactor should run periodically when stress arrives, combining sensors with weather forecasts; he also gave cloning advice (dense pellets and more DNA for electroporation, vector and no-plasmid controls). On 6 August the team visited him at NCHU, where he advised on expression and secretion, a stated rationale for each salt and heat condition, and shorter or modified peptides chosen by receptor-peptide interactions, and gave them B. subtilis WB800. He then invited the team to the 2nd ISLSDR symposium.",
+  "summary_zh": "7 月 28 日（線上）他就時機、劑量、感測與施用提供建議：生物刺激素在幼苗期施用效果最持久；逆境或保護劑過量都會傷害植物，須驗證閾值與劑量；反應器應在逆境來臨時週期性運轉，並結合感測器與天氣預報；也給了選殖建議（電穿孔用高密度菌體與較多 DNA、加入空載體與無質體對照）。8 月 6 日團隊到中興大學拜訪他，他就表現與分泌、每種鹽與高溫條件的實驗理由、以受體－胜肽交互作用挑選較短或修飾過的胜肽提供建議，並給了枯草桿菌 WB800 菌株。之後他邀請團隊參加第二屆 ISLSDR 研討會。",
+  "impact_en": "The reactor was reframed to run periodically on forecast stress, electroporation was reworked with control groups, module 4's terminator returned to B0015 after he said recombination in Bacillus was not the problem, and protein quantity, identity, solubility and function are now evaluated together. WB800 became a new secretion chassis.",
+  "impact_zh": "反應器改為依預測逆境週期性運轉；電穿孔流程重整並加入對照組；他認為芽孢桿菌的重組不是問題後，第 4 模組的終止子改回 B0015；蛋白的產量、身分、溶解度與功能改為一併評估。WB800 成為新的分泌用底盤菌。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "assets/photos/2026/d3b790698573.webp",
+    "caption_en": "28 July 2026. The online consultation with Dean Huang.",
+    "caption_zh": "2026 年 7 月 28 日，與黃介辰院長的線上諮詢。"
+   },
+   {
+    "src": "assets/photos/2026/5a04dbd70d38.webp",
+    "caption_en": "6 August. In Dean Huang's office at NCHU.",
+    "caption_zh": "8 月 6 日，於中興大學黃院長辦公室。"
+   },
+   {
+    "src": "assets/photos/2026/869a47501d65.webp",
+    "caption_en": "6 August. The meeting room at NCHU.",
+    "caption_zh": "8 月 6 日，中興大學會議室。"
+   },
+   {
+    "src": "assets/photos/2026/32c8a46092e7.webp",
+    "caption_en": "The WB800 plate labelled on the day.",
+    "caption_zh": "當天標記的 WB800 培養盤。"
+   },
+   {
+    "src": "assets/photos/2026/c62541376983.webp",
+    "caption_en": "The team at the department gate.",
+    "caption_zh": "團隊在系館大門前。"
+   }
+  ],
+  "portrait": "assets/photos/2026/ad0ab81c3c99.webp",
+  "website": "https://lifes.nchu.edu.tw",
+  "city_en": "Taichung",
+  "city_zh": "臺中市",
+  "country": "TW",
+  "lat": 24.1227,
+  "lng": 120.6755,
+  "source_url": "https://timmy97-tw.github.io/releaf-wiki/human-practices/",
+  "confidence": "high"
+ },
+ {
+  "id": "tzu-pi-huang",
+  "org_id": "national-chung-hsing-university",
+  "year": 2026,
+  "project": "ReLeaf",
+  "person_en": "Prof. Tzu-Pi Huang",
+  "person_zh": "黃姿碧 教授",
+  "title_en": "Professor",
+  "title_zh": "教授",
+  "org_en": "National Chung Hsing University",
+  "org_zh": "國立中興大學",
+  "unit_en": "Department of Plant Pathology",
+  "unit_zh": "植物病理學系",
+  "category": "academia",
+  "expertise_en": "Bacillus-based microbial formulations; plant stress-resistance materials; protectant delivery",
+  "expertise_zh": "芽孢桿菌微生物製劑；植物抗逆資材；保護劑施用",
+  "interaction": [
+   "consultation",
+   "lab-visit"
+  ],
+  "dates": [
+   "2026-08-06"
+  ],
+  "summary_en": "A second NCHU consultation on 6 August, evaluating the B. subtilis engineering strategy, protectant delivery, plant testing systems and agricultural applications. She discussed optimising bacterial production, protectant concentration and application timing, and delivery methods such as irrigation, spraying and seed coating, since the bacteria stay inside the reactor.",
+  "summary_zh": "8 月 6 日在中興大學的第二場諮詢，評估枯草桿菌工程策略、保護劑施用、植物測試系統與農業應用。由於菌體留在反應器內，她與團隊討論如何優化菌體生產、保護劑濃度與施用時機，以及灌溉、噴灑、種子披衣等施用方式。",
+  "impact_en": "The team recognised that effectiveness depends on how much protectant reaches the plant, when and how often, not only whether B. subtilis produces it, and that optimising the culture medium may ease the trade-off between growth and protein output.",
+  "impact_zh": "團隊體認到系統效果不只取決於枯草桿菌是否產生保護劑，還取決於有多少到達植物、何時送達與施用頻率；優化培養基也可能緩解菌體生長與蛋白產量之間的取捨。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "assets/photos/2026/dba7e1c86b12.webp",
+    "caption_en": "6 August 2026. With Prof. Huang Tzu-Pi at NCHU.",
+    "caption_zh": "2026 年 8 月 6 日，與黃姿碧教授於中興大學合影。"
+   }
+  ],
+  "portrait": "assets/photos/2026/f7c7279dcad4.webp",
+  "website": "https://www.pp.nchu.edu.tw",
+  "city_en": "Taichung",
+  "city_zh": "臺中市",
+  "country": "TW",
+  "lat": 24.1227,
+  "lng": 120.6755,
+  "source_url": "https://timmy97-tw.github.io/releaf-wiki/human-practices/",
+  "confidence": "high"
+ },
+ {
+  "id": "yes-health-ifarm",
+  "org_id": "yes-health-ifarm",
+  "year": 2026,
+  "project": "ReLeaf",
+  "person_en": null,
+  "person_zh": null,
+  "title_en": null,
+  "title_zh": null,
+  "org_en": "Yes Health iFarm (YesHealth Agri-Biotechnology Co., Ltd.)",
+  "org_zh": "源鮮智慧農場（源鮮農業生物科技股份有限公司）",
+  "unit_en": null,
+  "unit_zh": null,
+  "category": "industry",
+  "expertise_en": "Controlled-environment indoor vertical hydroponic farming",
+  "expertise_zh": "環控室內垂直水耕農場",
+  "interaction": [
+   "site-visit",
+   "interview"
+  ],
+  "dates": [
+   "2026-08-11"
+  ],
+  "summary_en": "Sent by Prof. Chen, the team visited this commercial indoor vertical hydroponic farm, stood under a wall of hydroponic channels, looked at how the float plate is carried from below, and put questions to the farm's director on environmental monitoring, nutrients, lighting, aeration and circulation. Some exact technical data they asked for was not available to them.",
+  "summary_zh": "經陳文亮教授引薦，團隊參觀這座商業化室內垂直水耕農場，站在整面水耕槽牆下，從下方觀察浮板如何被支撐，並向農場負責人請教環境監測、養分、光照、曝氣與循環等問題。部分團隊想要的精確技術數據無法取得。",
+  "impact_en": "The team reconsidered its 16/8 light cycle against 12/12, added dissolved oxygen (and possibly OD) to reactor parameters, switched the growth chamber to gentle aeration and circulation instead of pure oxygen, minimised plant transfers, and redrew the float-plate CAD the same day. It also suggested ReLeaf could grow into detecting nutrient deficiency.",
+  "impact_zh": "團隊重新評估 16/8 與 12/12 光週期、將溶氧（或 OD）納入反應器參數、生長箱改為溫和曝氣與循環而非純氧、減少植株移植，並在當天就修改浮板 CAD。也啟發 ReLeaf 未來可擴展到偵測養分缺乏。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "assets/photos/2026/8314626f747d.webp",
+    "caption_en": "11 August 2026. A wall of hydroponic channels.",
+    "caption_zh": "2026 年 8 月 11 日，整面水耕槽牆。"
+   },
+   {
+    "src": "assets/photos/2026/2ab1f54b035e.webp",
+    "caption_en": "Looking at a float plate from below.",
+    "caption_zh": "從下方觀察浮板。"
+   },
+   {
+    "src": "assets/photos/2026/2fb8fb11e5c5.webp",
+    "caption_en": "Questions for the farm's director.",
+    "caption_zh": "向農場負責人提問。"
+   },
+   {
+    "src": "assets/photos/2026/c2f58467fdff.webp",
+    "caption_en": "11 August 2026. After hearing how they run the cleaning loop, students revised the CAD on the spot.",
+    "caption_zh": "2026-08-11　源鮮智慧農場。聽完對方怎麼跑清洗迴路，學生當場改 CAD。"
+   }
+  ],
+  "portrait": null,
+  "website": "https://www.yeshealth.com.tw",
+  "city_en": "Taoyuan",
+  "city_zh": "桃園市",
+  "country": "TW",
+  "lat": 25.079,
+  "lng": 121.261,
+  "source_url": "https://timmy97-tw.github.io/releaf-wiki/human-practices/",
+  "confidence": "high"
+ },
+ {
+  "id": "chang-honghao",
+  "org_id": "p-chang-honghao",
+  "year": 2026,
+  "project": "ReLeaf",
+  "person_en": "Prof. Chang",
+  "person_zh": "張弘浩 教授",
+  "title_en": null,
+  "title_zh": null,
+  "org_en": null,
+  "org_zh": null,
+  "unit_en": null,
+  "unit_zh": null,
+  "category": "academia",
+  "expertise_en": "Deployment and human practices (per the IHP pipeline tag)",
+  "expertise_zh": "部署與人類實踐（依 IHP 分類）",
+  "interaction": [
+   "consultation"
+  ],
+  "dates": [
+   "2026-08-31"
+  ],
+  "summary_en": "A meeting on 31 August listed in the IHP pipelines under Deployment & Human Practices. The wiki states that the notes from this meeting are still being written up.",
+  "summary_zh": "8 月 31 日的一場會議，列於 IHP 的「部署與人類實踐」分類。wiki 註明此次會議紀錄仍在整理中。",
+  "impact_en": null,
+  "impact_zh": null,
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [],
+  "portrait": null,
+  "website": null,
+  "city_en": null,
+  "city_zh": null,
+  "country": "TW",
+  "lat": null,
+  "lng": null,
+  "source_url": "https://timmy97-tw.github.io/releaf-wiki/human-practices/",
+  "confidence": "low"
+ },
+ {
+  "id": "taiwan-smart-agriweek-2026",
+  "org_id": "taiwan-smart-agriweek-2026",
+  "year": 2026,
+  "project": "ReLeaf",
+  "person_en": null,
+  "person_zh": null,
+  "title_en": null,
+  "title_zh": null,
+  "org_en": "Taiwan SMART Agriweek 2026 (exhibitors and government sectors)",
+  "org_zh": "2026 台灣國際智慧農業週",
+  "unit_en": null,
+  "unit_zh": null,
+  "category": "industry",
+  "expertise_en": "Agricultural technology exhibition; smart-farming products",
+  "expertise_zh": "農業科技展覽；智慧農業產品",
+  "interaction": [
+   "conference",
+   "feedback"
+  ],
+  "dates": [
+   "2026-09-09"
+  ],
+  "summary_en": "The team took the business case to the Smart Agriweek exhibition floor. Exhibitors indicated that young farmers are the likely early adopters while older farmers need convincing, that regulation will be hard for a GMO-based product, that one device replacing several products (e.g. BioBar and Agriweather) is a price advantage, and government sectors signalled they may help subsidise products like theirs.",
+  "summary_zh": "團隊把商業構想帶到智慧農業週展場檢驗。交流中得知：年輕農民最可能率先採用，年長農民則需另外說服；使用基改生物的產品在法規上會很困難；一台設備取代多項產品（如 BioBar 與 Agriweather）具價格優勢；政府部門也表示可能補助這類產品。",
+  "impact_en": "The target user and pricing case on the Entrepreneurship page were revised around young farmers and the multi-product value case.",
+  "impact_zh": "創業頁的目標客群與定價論述改以年輕農民及「一機多用」的價值為核心。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "assets/photos/2026/251c0a92c59c.webp",
+    "caption_en": "9 September 2026. At the Taiwan SMART Agriweek exhibition.",
+    "caption_zh": "2026 年 9 月 9 日，於台灣國際智慧農業週。"
+   }
+  ],
+  "portrait": null,
+  "website": "https://www.taiwanagriweek.com",
+  "city_en": "Taipei",
+  "city_zh": "臺北市",
+  "country": "TW",
+  "lat": 25.0566,
+  "lng": 121.6175,
+  "source_url": "https://timmy97-tw.github.io/releaf-wiki/human-practices/",
+  "confidence": "medium"
+ },
+ {
+  "id": "farmers-at-the-taipei-water-garden-organic-farmers-community",
+  "org_id": "farmers-at-the-taipei-water-garden-organic-farmers",
+  "year": 2026,
+  "project": "ReLeaf",
+  "person_en": null,
+  "person_zh": null,
+  "title_en": null,
+  "title_zh": null,
+  "org_en": "Farmers at the Taipei Water Garden Organic Farmers' Market and public forum",
+  "org_zh": "臺北水花園有機農夫市集農友（論壇參與者）",
+  "unit_en": null,
+  "unit_zh": null,
+  "category": "community",
+  "expertise_en": "Organic and small-scale farming across Nantou, Hualien, Hsinchu, Yilan and other regions (cocoa, rice, coffee, mixed grains)",
+  "expertise_zh": "南投、花蓮、新竹、宜蘭等地的有機與小規模農友（可可、稻米、咖啡、雜糧）",
+  "interaction": [
+   "interview",
+   "survey",
+   "conference",
+   "feedback"
+  ],
+  "dates": [
+   "2026-09-05"
+  ],
+  "summary_en": "At the team's forum and booth day, farmers from several regions shared their experience and questioned the speakers and the team; two questions were aimed at the team: whether using the bioreactor affects organic certification, and how many bioreactors one farm would need. Team members also interviewed stallholders for the GIS work, learning that organic certification and reducing labour are the main considerations for moving to sustainable, commercial practice and that most apply organic fertilizer on a fixed annual schedule. Forum KAP surveys were given to speakers, farmers and the public.",
+  "summary_zh": "在團隊的論壇與攤位活動中，來自各地的農友分享經驗，並向講者與團隊提問；其中兩個問題針對團隊：使用生物反應器是否影響有機驗證，以及一塊田需要幾台反應器。團隊也為 GIS 分析訪談攤商，得知有機驗證與減少勞力是農友轉向永續、商業化經營的主要考量，且多數依固定年度排程施用有機肥。論壇後對講者、農友與民眾分別發放 KAP 問卷。",
+  "impact_en": "The two farmer questions were taken into the Laws and Regulations and Entrepreneurship work and remain open items; the interview data fed the GIS/geospatial analysis.",
+  "impact_zh": "農友的兩個問題分別納入法規與創業頁的工作，目前仍列為待解事項；訪談資料用於 GIS 地理空間分析。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "assets/photos/2026/8f26851f0d54.webp",
+    "caption_en": "Water Garden Organic Farmers' Market, 5 September 2026.",
+    "caption_zh": "2026 年 9 月 5 日，水花園有機農夫市集。"
+   },
+   {
+    "src": "assets/photos/2026/073f562bd6f3.webp",
+    "caption_en": "Interviewing stallholders on the day of the forum.",
+    "caption_zh": "論壇當天訪談攤商。"
+   },
+   {
+    "src": "assets/photos/2026/3d49853efcdc.webp",
+    "caption_en": "A grower takes the microphone from the floor.",
+    "caption_zh": "一位農友從台下接過麥克風發言。"
+   },
+   {
+    "src": "assets/photos/2026/735094456f57.webp",
+    "caption_en": "After the session, where the organic certification question continued.",
+    "caption_zh": "會後持續討論有機驗證問題。"
+   }
+  ],
+  "portrait": null,
+  "website": "https://greenmedia.today/article_detail.php?cid=9&mid=66",
+  "city_en": "Taipei",
+  "city_zh": "臺北市",
+  "country": "TW",
+  "lat": 25.0109,
+  "lng": 121.53,
+  "source_url": "https://timmy97-tw.github.io/releaf-wiki/human-practices/",
+  "confidence": "high"
+ },
+ {
+  "id": "dr-li-water-garden-forum",
+  "org_id": "p-dr-li-water-garden-forum",
+  "year": 2026,
+  "project": "ReLeaf",
+  "person_en": "Dr. Li",
+  "person_zh": null,
+  "title_en": "Forum speaker (natural farming)",
+  "title_zh": "論壇講者（自然農法）",
+  "org_en": null,
+  "org_zh": null,
+  "unit_en": null,
+  "unit_zh": null,
+  "category": "community",
+  "expertise_en": "Natural farming; locally adapted seed; low-input agriculture",
+  "expertise_zh": "自然農法；在地適應種子；低投入農業",
+  "interaction": [
+   "conference",
+   "feedback"
+  ],
+  "dates": [
+   "2026-09-05"
+  ],
+  "summary_en": "Invited speaker at the team's 5 September forum. He argued that excessive technological intervention treats symptoms rather than causes, likening it to over-prescribing painkillers, and used the example of Zambia to show how external support and high-yield seed can reduce farmers' independence. He encouraged the team to create an environment in which plants develop their own resilience rather than intervening directly.",
+  "summary_zh": "9 月 5 日團隊論壇的受邀講者。他認為過度的科技介入只治標不治本，並以醫師動輒開止痛藥為比喻；也以尚比亞為例，說明外來援助與高產種子可能削弱農民的自主性。他鼓勵團隊營造讓植物自行發展韌性的環境，而不是直接介入。",
+  "impact_en": "Reinforced, with Ms. Chen, Prof. Huang and the other speakers, the design commitment that ReLeaf acts only on forecast stress, periodically, and at a validated dose.",
+  "impact_zh": "與陳惠雯老師、黃院長及其他講者的意見一起，強化了 ReLeaf「只在預測到逆境時、週期性、以驗證劑量作用」的設計承諾。",
+  "quote_en": "When a patient experiences a headache, most doctors may immediately prescribe painkillers to relieve the symptoms, while rarely examining the patient's lifestyle or addressing the underlying problems causing the condition.",
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "assets/photos/2026/f80a8f840c57.webp",
+    "caption_en": "5 September 2026. Experts share: the first part of the forum.",
+    "caption_zh": "2026 年 9 月 5 日，論壇第一段「專家分享」。"
+   }
+  ],
+  "portrait": null,
+  "website": null,
+  "city_en": "Taipei",
+  "city_zh": "臺北市",
+  "country": "TW",
+  "lat": 25.0109,
+  "lng": 121.53,
+  "source_url": "https://timmy97-tw.github.io/releaf-wiki/human-practices/",
+  "confidence": "medium"
+ },
+ {
+  "id": "2nd-international-symposium-on-living-systems-desi",
+  "org_id": "2nd-international-symposium-on-living-systems-desi",
+  "year": 2026,
+  "project": "ReLeaf",
+  "person_en": null,
+  "person_zh": null,
+  "title_en": null,
+  "title_zh": null,
+  "org_en": "2nd International Symposium on Living Systems Design Research",
+  "org_zh": "第二屆國際生命系統設計研究研討會（國立中興大學）",
+  "unit_en": "Co-hosted by NCHU and the Japanese Society for Living Systems Design Research",
+  "unit_zh": null,
+  "category": "academia",
+  "expertise_en": "Host-microbe-molecule communication; living systems design",
+  "expertise_zh": "宿主、微生物與分子間的溝通；生命系統設計",
+  "interaction": [
+   "conference",
+   "feedback"
+  ],
+  "dates": [
+   "2026-09-11"
+  ],
+  "summary_en": "At Dean Huang's invitation, the team presented a poster on 11 September at the symposium held at NCHU from 10 to 13 September. Professors said the team needs a deeper understanding of its experimental data and the ACC deaminase mechanism, told them to put the finding in every slide title (e.g. '0.5 mM ACCD increases growth by 5 mm at 12 mM NaCl stress for 1 week') and to open with the farmers' problem.",
+  "summary_zh": "應黃介辰院長邀請，團隊於 9 月 11 日在中興大學舉辦的研討會（9 月 10 日至 13 日）發表海報。教授們指出團隊需要更深入理解實驗數據與 ACC 去胺酶機制，建議每張投影片標題直接寫出發現（例如「0.5 mM ACCD 在 12 mM NaCl 逆境一週下使生長增加 5 mm」），並以農民的問題作為開場。",
+  "impact_en": "Slide titles now state findings, graphs are shown only when the presenter can explain all of them, a step-by-step ACCD mechanism explanation was prepared, and the narrative became more problem-driven and farmer-first.",
+  "impact_zh": "投影片標題改為陳述發現；只有講者能完整解釋的圖表才上投影片；準備 ACCD 機制的逐步說明；敘事改為以問題與農民需求為先。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "assets/photos/2026/9458c4778b4d.webp",
+    "caption_en": "11 September 2026. The poster session at NCHU.",
+    "caption_zh": "2026 年 9 月 11 日，中興大學海報發表。"
+   },
+   {
+    "src": "assets/photos/2026/15d30850ad16.webp",
+    "caption_en": "Walking a visitor through the results.",
+    "caption_zh": "向來賓說明結果。"
+   },
+   {
+    "src": "assets/photos/2026/6397db39afcf.webp",
+    "caption_en": "With Dean Huang, who invited the team.",
+    "caption_zh": "與邀請團隊的黃介辰院長合影。"
+   }
+  ],
+  "portrait": null,
+  "website": "https://www.nchu.edu.tw",
+  "city_en": "Taichung",
+  "city_zh": "臺中市",
+  "country": "TW",
+  "lat": 24.1227,
+  "lng": 120.6755,
+  "source_url": "https://timmy97-tw.github.io/releaf-wiki/human-practices/",
+  "confidence": "high"
+ },
+ {
+  "id": "lanyang-river-friendly-farming-production-cooperat-chen",
+  "org_id": "lanyang-river-friendly-farming-production-cooperat",
+  "year": 2026,
+  "project": "ReLeaf",
+  "person_en": "Mr. Chen",
+  "person_zh": null,
+  "title_en": "Farmer and founder",
+  "title_zh": "農友、創辦人",
+  "org_en": "Lanyang River Friendly Farming Production Cooperative",
+  "org_zh": "蘭陽溪友善耕作生產合作社",
+  "unit_en": null,
+  "unit_zh": null,
+  "category": "community",
+  "expertise_en": "Pesticide-, chemical-fertilizer- and herbicide-free farming and food processing",
+  "expertise_zh": "全程不用農藥、化肥與除草劑的耕作與農產加工",
+  "interaction": [
+   "interview"
+  ],
+  "dates": [
+   "2026-09-24"
+  ],
+  "summary_en": "Online meeting with Mr. Chen, founder of a cooperative that sells produce and processed foods grown without pesticides, chemical fertilizers or herbicides. He warned that a bioreactor on a farm could be damaged by natural disasters or wild animals, or B. subtilis could be intentionally released, and said different crops need different levels of intervention; some, such as strawberries, may need little or none. (The wiki dates this call from a screenshot taken 24 September.)",
+  "summary_zh": "與蘭陽溪友善耕作生產合作社創辦人陳先生線上會議；該合作社銷售全程不使用農藥、化肥與除草劑的農產品與加工品。他提醒放在田間的反應器可能因天災或野生動物受損，或枯草桿菌遭人故意釋出；也指出不同作物對逆境的承受力不同，例如草莓可能幾乎不需要介入。（wiki 依 9 月 24 日的會議截圖推定日期。）",
+  "impact_en": "The risk was added to the threat analysis of the business plan and the biosafety approach was reconsidered; he encouraged a more targeted marketing strategy focused on specific crop groups.",
+  "impact_zh": "團隊將此風險納入商業計畫的威脅分析並重新檢視生物安全做法；他也建議針對特定作物族群制定更聚焦的行銷策略。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "assets/photos/2026/679adfe3669d.webp",
+    "caption_en": "The online meeting with Mr. Chen and the team.",
+    "caption_zh": "與陳先生的線上會議。"
+   }
+  ],
+  "portrait": null,
+  "website": null,
+  "city_en": "Yilan County",
+  "city_zh": "宜蘭縣",
+  "country": "TW",
+  "lat": 24.757,
+  "lng": 121.753,
+  "source_url": "https://timmy97-tw.github.io/releaf-wiki/human-practices/",
+  "confidence": "medium"
+ },
+ {
+  "id": "gilbert-nkpeniyeng",
+  "org_id": "ubuntu-social-enterprise-ghana",
+  "year": 2026,
+  "project": "ReLeaf",
+  "person_en": "Gilbert Nkpeniyeng",
+  "person_zh": null,
+  "title_en": "Leader",
+  "title_zh": "負責人",
+  "org_en": "Ubuntu Social Enterprise Ghana (USE-GH)",
+  "org_zh": null,
+  "unit_en": null,
+  "unit_zh": null,
+  "category": "ngo",
+  "expertise_en": "Social enterprise connecting smallholder farmers to markets; climate impacts on farming in Ghana",
+  "expertise_zh": "協助小農直接銷售、減少中間商的社會企業；迦納氣候對農業的衝擊",
+  "interaction": [
+   "interview"
+  ],
+  "dates": [
+   "2026-02-01"
+  ],
+  "summary_en": "Early in the project the team talked online with the leader of Ubuntu Social Enterprise Ghana, which sells farmers' products for them so they avoid middlemen. They learned that climate is actively harming crops and making it harder to farm on generational land, and that farming families must trade off between eating and earning. The milestone page's first Human Practices meeting (1 February, the first time the pitch went outside the team) carries a photo file named for Gilbert Nkpeniyeng.",
+  "summary_zh": "專案初期，團隊與迦納 Ubuntu 社會企業（USE-GH）的負責人線上交流；該社企代農民銷售產品，讓他們不必經過中間商。團隊得知氣候正實際傷害作物，讓世代耕作的土地愈來愈難經營，務農家庭常得在「自己吃」與「拿去賣」之間取捨。里程碑頁的第一次人類實踐會議（2 月 1 日，首次對團隊外部簡報）照片檔名標有 Gilbert Nkpeniyeng。",
+  "impact_en": "Inspired the initial project pitch and the social-enterprise model in the business plan, and supplied the account of climate damage on generational farmland used under SDG 2 and SDG 10 on the Sustainability page.",
+  "impact_zh": "啟發了最初的專案構想與商業計畫中的社會企業模式，並提供永續頁 SDG 2 與 SDG 10 所引用的世代農地受氣候損害的第一手描述。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "assets/photos/2026/83e26aac2b61.webp",
+    "caption_en": "1 February 2026. The first Human Practices meeting, held online.",
+    "caption_zh": "2026 年 2 月 1 日，第一次人類實踐會議（線上）。"
+   }
+  ],
+  "portrait": null,
+  "website": null,
+  "city_en": null,
+  "city_zh": null,
+  "country": "GH",
+  "lat": null,
+  "lng": null,
+  "source_url": "https://timmy97-tw.github.io/releaf-wiki/sustainability/",
+  "confidence": "medium"
+ },
+ {
+  "id": "daniel-viragh",
+  "org_id": "berkeley-historical-gis-project",
+  "year": 2026,
+  "project": "ReLeaf",
+  "person_en": "Daniel Viragh",
+  "person_zh": null,
+  "title_en": "Creative Director",
+  "title_zh": "創意總監",
+  "org_en": "Berkeley Historical GIS Project",
+  "org_zh": null,
+  "unit_en": null,
+  "unit_zh": null,
+  "category": "research",
+  "expertise_en": "Historical GIS; mapping methods",
+  "expertise_zh": "歷史地理資訊系統；製圖方法",
+  "interaction": [
+   "consultation"
+  ],
+  "dates": [
+   "2026-07-07"
+  ],
+  "summary_en": "The team's GIS group presented the project to Daniel Viragh, creative director of the Berkeley Historical GIS Project, and came away with a method for mapping Taiwan's farmland.",
+  "summary_zh": "團隊的 GIS 小組向柏克萊歷史 GIS 計畫（Berkeley Historical GIS Project）創意總監 Daniel Viragh 簡報專案，並學到繪製臺灣農地地圖的方法。",
+  "impact_en": "Provided the method used to map Taiwan's farmland in the geospatial analysis.",
+  "impact_zh": "提供地理空間分析中繪製臺灣農地的方法。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "assets/photos/2026/36559b6f74be.webp",
+    "caption_en": "7 July 2026. Renee Kuo (right) presenting the project to Dr. Daniel (left).",
+    "caption_zh": "2026 年 7 月 7 日，Renee Kuo（右）向 Daniel 博士（左）簡報專案。"
+   }
+  ],
+  "portrait": null,
+  "website": null,
+  "city_en": "Berkeley, CA",
+  "city_zh": "加州柏克萊",
+  "country": "US",
+  "lat": 37.8716,
+  "lng": -122.2727,
+  "source_url": "https://timmy97-tw.github.io/releaf-wiki/milestone/",
+  "confidence": "medium"
+ },
+ {
+  "id": "yongping-elementary-school-education",
+  "org_id": "yongping-elementary-school",
+  "year": 2026,
+  "project": "ReLeaf",
+  "person_en": null,
+  "person_zh": null,
+  "title_en": null,
+  "title_zh": null,
+  "org_en": "Yongping Elementary School, Yonghe",
+  "org_zh": "新北市永和區永平國民小學",
+  "unit_en": null,
+  "unit_zh": null,
+  "category": "education",
+  "expertise_en": "Elementary students (grades 4 to 6)",
+  "expertise_zh": "國小學生（四至六年級）",
+  "interaction": [
+   "education",
+   "workshop",
+   "survey"
+  ],
+  "dates": [
+   "2026-06-24"
+  ],
+  "summary_en": "Preliminary trial of the elementary workshop 'Little Plant Guardians: Combating Environmental Stress' (16 pre-survey, 12 post-survey students): climate change and plant stress, the spinach leaf-disk photosynthesis experiment with heat, ATCG base pairing and synthetic biology, a DNA card game, and a self-watering PET-bottle planter.",
+  "summary_zh": "國小工作坊「小小植物守護者：對抗環境逆境」的預試（前測 16 人、後測 12 人）：內容包括氣候變遷與植物逆境、加熱的菠菜葉圓片光合作用實驗、ATCG 配對與合成生物學、DNA 卡牌遊戲，以及寶特瓶自動澆水盆栽。",
+  "impact_en": "Feedback on teamwork led the team to reinforce pre-session briefings so each member knew their role.",
+  "impact_zh": "依據團隊合作方面的回饋，加強課前簡報，確保每位成員清楚自己的角色與補位方式。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "assets/photos/2026/05462ea09c6e.webp",
+    "caption_en": "24 June 2026. The first education event at Yongping Elementary School.",
+    "caption_zh": "2026 年 6 月 24 日，於永平國小的第一場教育活動。"
+   }
+  ],
+  "portrait": null,
+  "website": null,
+  "city_en": "New Taipei City",
+  "city_zh": "新北市",
+  "country": "TW",
+  "lat": 25.0106,
+  "lng": 121.5125,
+  "source_url": "https://timmy97-tw.github.io/releaf-wiki/education/",
+  "confidence": "medium"
+ },
+ {
+  "id": "dingxi-elementary-school-education",
+  "org_id": "dingxi-elementary-school",
+  "year": 2026,
+  "project": "ReLeaf",
+  "person_en": null,
+  "person_zh": null,
+  "title_en": null,
+  "title_zh": null,
+  "org_en": "Dingxi Elementary School",
+  "org_zh": "頂溪國民小學",
+  "unit_en": null,
+  "unit_zh": null,
+  "category": "education",
+  "expertise_en": "Elementary students (grades 4 to 6)",
+  "expertise_zh": "國小學生（四至六年級）",
+  "interaction": [
+   "education",
+   "workshop",
+   "survey"
+  ],
+  "dates": [
+   "2026-06-25",
+   "2026-06-26",
+   "2026-07-14"
+  ],
+  "summary_en": "Trials 1 and 3 of the 'Little Plant Guardians' workshop: 43 students on 25 and 26 June and 12 students on 14 July, with the leaf-disk experiment, chlorophyll extraction, DNA card game and self-watering planter, plus KAP pre- and post-surveys. (The plant page also mentions a session there on 2 July.)",
+  "summary_zh": "「小小植物守護者」工作坊第 1 與第 3 次試教：6 月 25、26 日共 43 名學生，7 月 14 日 12 名學生；內容包括葉圓片實驗、葉綠素萃取、DNA 卡牌遊戲與自動澆水盆栽，並進行 KAP 前後測。（植物頁另提到 7 月 2 日也在該校上課。）",
+  "impact_en": "Student and teacher feedback led to more time per activity, louder audio and voices, a 1:5 mentor-to-student ratio for hands-on work, clearer rules at the start, more explanation of experiment results, and more English teaching.",
+  "impact_zh": "依學生與老師回饋，增加活動時間、提高音量、實作時採 1:5 的師生比、課前先建立規則、加強實驗結果說明，並增加英語教學。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "assets/photos/2026/90e2420f5dcf.webp",
+    "caption_en": "25 June 2026. The experiment at Dingxi Elementary School.",
+    "caption_zh": "2026 年 6 月 25 日，頂溪國小的實驗活動。"
+   },
+   {
+    "src": "assets/photos/2026/29e00664a9cd.webp",
+    "caption_en": "25 June. The class at Dingxi Elementary School.",
+    "caption_zh": "6 月 25 日，頂溪國小的班級合影。"
+   },
+   {
+    "src": "assets/photos/2026/d4734ea0e37a.webp",
+    "caption_en": "25 June, DingXi Elementary. Photosynthesis first, then the acetone.",
+    "caption_zh": "6 月 25 日，頂溪國小：先講光合作用，再做丙酮萃取。"
+   },
+   {
+    "src": "assets/photos/2026/43ff9fce1a67.webp",
+    "caption_en": "14 July. The fifth education event, at Dingxi Elementary School.",
+    "caption_zh": "7 月 14 日，第五場教育活動，於頂溪國小。"
+   }
+  ],
+  "portrait": null,
+  "website": "https://www.thps.ntpc.edu.tw",
+  "city_en": "New Taipei City",
+  "city_zh": "新北市",
+  "country": "TW",
+  "lat": 25.012,
+  "lng": 121.515,
+  "source_url": "https://timmy97-tw.github.io/releaf-wiki/education/",
+  "confidence": "medium"
+ },
+ {
+  "id": "affiliated-experimental-elementary-school-of-unive-education",
+  "org_id": "affiliated-experimental-elementary-school-of-unive",
+  "year": 2026,
+  "project": "ReLeaf",
+  "person_en": null,
+  "person_zh": null,
+  "title_en": null,
+  "title_zh": null,
+  "org_en": "Affiliated Experimental Elementary School of University of Taipei",
+  "org_zh": "臺北市立大學附設實驗國民小學",
+  "unit_en": null,
+  "unit_zh": null,
+  "category": "education",
+  "expertise_en": "Elementary students (grades 4 to 6)",
+  "expertise_zh": "國小學生（四至六年級）",
+  "interaction": [
+   "education",
+   "workshop",
+   "survey"
+  ],
+  "dates": [
+   "2026-06-29"
+  ],
+  "summary_en": "Trial 2 of the 'Little Plant Guardians' workshop, with 28 students in the pre-survey and 22 in the post-survey. Students found the English content hard ('too much vocab'), and a teacher asked the team to explain how the self-watering planter relates to the lesson topic.",
+  "summary_zh": "「小小植物守護者」工作坊第 2 次試教，前測 28 人、後測 22 人。學生反映英文內容太難（「單字太多」），老師則請團隊說明自動澆水盆栽與課程主題的關聯。",
+  "impact_en": "The team spent more time explaining vocabulary, broke complex words into simpler concepts, and explained the planter's link to automated protectant release before the activity.",
+  "impact_zh": "團隊增加單字講解時間、把複雜詞彙拆成較簡單的概念，並在活動前先說明盆栽與自動釋放保護劑的關聯。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "assets/photos/2026/8bfef638f051.webp",
+    "caption_en": "29 June 2026. The class at the Affiliated Experimental Elementary School of University of Taipei.",
+    "caption_zh": "2026 年 6 月 29 日，臺北市立大學附設實驗國小的班級合影。"
+   },
+   {
+    "src": "assets/photos/2026/29bf24f27771.webp",
+    "caption_en": "29 June. The workshop in progress.",
+    "caption_zh": "6 月 29 日，工作坊進行中。"
+   }
+  ],
+  "portrait": null,
+  "website": "https://www.estmue.tp.edu.tw",
+  "city_en": "Taipei",
+  "city_zh": "臺北市",
+  "country": "TW",
+  "lat": 25.0357,
+  "lng": 121.5126,
+  "source_url": "https://timmy97-tw.github.io/releaf-wiki/education/",
+  "confidence": "high"
+ },
+ {
+  "id": "taipei-fuhsing-private-school-education",
+  "org_id": "taipei-fuhsing-private-school",
+  "year": 2026,
+  "project": "ReLeaf",
+  "person_en": null,
+  "person_zh": null,
+  "title_en": null,
+  "title_zh": null,
+  "org_en": "Taipei Fuhsing Private School",
+  "org_zh": "臺北市私立復興實驗高級中學",
+  "unit_en": null,
+  "unit_zh": null,
+  "category": "education",
+  "expertise_en": "High school students, grades 10 to 12",
+  "expertise_zh": "高中學生（10 至 12 年級）",
+  "interaction": [
+   "education",
+   "workshop",
+   "survey"
+  ],
+  "dates": [
+   "2026-08-14"
+  ],
+  "summary_en": "Workshop 'Decoding the Genetic Code: From DNA to the Future of Food Security' for a class of 28: an introduction to iGEM and synthetic biology, plant stress, an onion-cell plasmolysis experiment in 3 M and 6 M salt, a leaf-disk photosynthesis video, the ReLeaf bioreactor, and a transcription and translation mutation game, with Kahoot pre-survey and KAP post-survey. The homeroom teacher also filled in a feedback survey. (The plant page mentions an earlier session at Fushing in June.)",
+  "summary_zh": "為 28 名學生開設「解碼基因：從 DNA 到糧食安全的未來」工作坊：介紹 iGEM 與合成生物學、植物逆境、以 3 M 與 6 M 鹽水進行洋蔥細胞質壁分離實驗、葉圓片光合作用影片、ReLeaf 生物反應器，以及轉錄轉譯突變遊戲，並以 Kahoot 前測與 KAP 後測評估。班導師也填寫了回饋問卷。（植物頁提到 6 月在復興另有一次課程。）",
+  "impact_en": "Students asked for clearer explanations of how DNA is modified and how mutations occur, louder voices, bigger fonts and fewer words per slide; the team plans more interactive elements since the hands-on plasmolysis question scored highest.",
+  "impact_zh": "學生希望更清楚說明 DNA 如何被修改與突變如何發生，並建議講者音量加大、字體放大、投影片字數減少；由於動手做的質壁分離題答對率最高，團隊計畫增加更多互動環節。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "assets/photos/2026/7d7ca8493dac.webp",
+    "caption_en": "14 August 2026. At Fushing High School.",
+    "caption_zh": "2026 年 8 月 14 日，於復興高中。"
+   },
+   {
+    "src": "assets/photos/2026/923df46e6bb1.webp",
+    "caption_en": "14 August. The high school workshop.",
+    "caption_zh": "8 月 14 日，高中工作坊。"
+   },
+   {
+    "src": "assets/photos/2026/0eefbef0a79f.webp",
+    "caption_en": "Students observing onion cells through the microscope.",
+    "caption_zh": "學生以顯微鏡觀察洋蔥細胞。"
+   },
+   {
+    "src": "assets/photos/2026/91bf15d5dae3.webp",
+    "caption_en": "Students passing down the code in the mutation game.",
+    "caption_zh": "學生在突變遊戲中傳遞密碼。"
+   }
+  ],
+  "portrait": null,
+  "website": "https://www.fhjh.tp.edu.tw",
+  "city_en": "Taipei",
+  "city_zh": "臺北市",
+  "country": "TW",
+  "lat": 25.0386,
+  "lng": 121.549,
+  "source_url": "https://timmy97-tw.github.io/releaf-wiki/education/",
+  "confidence": "medium"
+ },
+ {
+  "id": "tzu-hsien-wu",
+  "org_id": "mdares",
+  "year": 2026,
+  "project": "ReLeaf",
+  "person_en": "Director Tzu-Hsien Wu",
+  "person_zh": "吳姿嫺 主任",
+  "title_en": "Researcher and Director, Biological Control Research Center",
+  "title_zh": "研究員兼主任",
+  "org_en": "Miaoli District Agricultural Research and Extension Station, Ministry of Agriculture",
+  "org_zh": "農業部苗栗區農業改良場",
+  "unit_en": "Biological Control Research Center",
+  "unit_zh": "生物防治研究中心",
+  "category": "government",
+  "expertise_en": "Biological control materials and their extension; beekeeping and honeybee pest management; natural-enemy habitat",
+  "expertise_zh": "生物防治資材應用與推廣；養蜂技術與蜜蜂病蟲害防治；天敵昆蟲棲地營造",
+  "interaction": [
+   "consultation"
+  ],
+  "dates": [
+   "2026-09-30"
+  ],
+  "summary_en": "Director Wu sent the team questions over LINE, and the team replied with a one-page Traditional Chinese summary of ReLeaf (problem, solution, the year's interview record, key results and what is not yet done). The summary notes that the government cell on the team's stakeholder map was still empty, and asks her about how the station's extension system works, whether student teams can collaborate with it, how to find farmers or farmers' associations willing to trial the technology, what conditions (validation data, demonstration fields, support) make farmers try a new technology, and precedents of student or start-up technologies extended through the station. It requests a 20 to 30 minute interview, online or by phone.",
+  "summary_zh": "吳主任透過 LINE 向團隊提問，團隊以一頁繁體中文摘要回覆 ReLeaf 的問題、解方、這一年的訪談紀錄、關鍵結果與尚未完成的部分。摘要坦承利害關係人圖上「公部門」這一格仍是空的，並向她請教：農改場推廣體系如何運作、學生團隊是否有合作管道、如何媒合願意試用的農民或農會、新技術需具備哪些條件（驗證資料、示範田、輔導配套）農民才願意嘗試，以及過去是否有學生團隊或新創技術經農改場推廣落地的案例。文末邀請她撥 20 到 30 分鐘接受線上或電話訪談。",
+  "impact_en": "First government-sector contact of the 2026 season, aimed at the lab-to-field step (extension, farmer matching, demonstration requirements). Outcome of the interview request not yet recorded.",
+  "impact_zh": "2026 年第一個公部門接觸，目標是從實驗室走到田間這一段（推廣體系、農民媒合、示範條件）。訪談邀約的結果尚未記錄。",
+  "quote_en": null,
+  "quote_zh": null,
+  "photos": [
+   {
+    "src": "assets/photos/2026/wu-summary.webp",
+    "caption_en": "The one-page ReLeaf summary the team wrote for Director Wu in reply to her questions (timmy97-tw.github.io/Releaf_Wu).",
+    "caption_zh": "團隊回覆吳主任提問所寫的 ReLeaf 一頁摘要（timmy97-tw.github.io/Releaf_Wu）。"
+   }
+  ],
+  "portrait": null,
+  "website": "https://www.mdares.gov.tw",
+  "city_en": "Miaoli County",
+  "city_zh": "苗栗縣",
+  "country": "TW",
+  "lat": 24.499,
+  "lng": 120.844,
+  "source_url": "https://timmy97-tw.github.io/Releaf_Wu/",
+  "confidence": "medium"
+ }
+]

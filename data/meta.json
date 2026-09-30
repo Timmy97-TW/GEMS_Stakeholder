@@ -1,0 +1,44 @@
+{
+ "years": [
+  {
+   "year": 2022,
+   "project_en": "Fusarium Won't",
+   "project_zh": "Fusarium Won't",
+   "blurb_en": "Chitinase-secreting bacteria that stay in the banana root zone, against Fusarium wilt TR4.",
+   "blurb_zh": "會分泌幾丁質酶、並被限制在香蕉根圈的工程菌，對抗香蕉黃葉病 TR4。",
+   "wiki": "https://2022.igem.wiki/gems-taiwan/human-practices"
+  },
+  {
+   "year": 2023,
+   "project_en": "Cure-All Reef",
+   "project_zh": "Cure-All Reef",
+   "blurb_en": "A probiotic biofilm with a coral-localisation kill switch, to protect reef-building corals from disease.",
+   "blurb_zh": "搭配珊瑚定位自殺開關的益生菌生物膜，保護造礁珊瑚免於疾病。",
+   "wiki": "https://2023.igem.wiki/gems-taiwan/human-practices"
+  },
+  {
+   "year": 2024,
+   "project_en": "Dengue Beeters",
+   "project_zh": "Dengue Beeters",
+   "blurb_en": "Cheaper, safer larvicides that pair Bt toxins with a mosquito-specific scorpion toxin, to help end dengue by 2030.",
+   "blurb_zh": "結合 Bt 毒素與專一作用於蚊子的蠍毒素，做出更便宜、更安全的殺幼蟲劑，助力 2030 年終結登革熱。",
+   "wiki": "https://2024.igem.wiki/gems-taiwan/human-practices"
+  },
+  {
+   "year": 2025,
+   "project_en": "Textile Fighters",
+   "project_zh": "Textile Fighters",
+   "blurb_en": "An engineered TfCut2 enzyme that breaks down PET in polyester–cotton blends, so mixed textiles can be recycled.",
+   "blurb_zh": "以改造的 TfCut2 酵素分解聚酯棉混紡中的 PET，讓混紡衣物得以回收。",
+   "wiki": "https://2025.igem.wiki/gems-taiwan/human-practices"
+  },
+  {
+   "year": 2026,
+   "project_en": "ReLeaf",
+   "project_zh": "ReLeaf",
+   "blurb_en": "A stress-responsive optogenetic bioreactor that makes crop protectants on the farm, for smallholder growers.",
+   "blurb_zh": "受逆境訊號驅動的光遺傳生物反應器，讓小農在農場現地生產作物保護劑。",
+   "wiki": "https://timmy97-tw.github.io/releaf-wiki/human-practices/"
+  }
+ ]
+}
